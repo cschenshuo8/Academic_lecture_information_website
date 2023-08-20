@@ -1,0 +1,37 @@
+,box,txt,score
+0,"[[79.0, 51.0], [171.0, 51.0], [171.0, 68.0], [79.0, 68.0]]",上海交通大学,0.9167497754096985
+1,"[[241.0, 54.0], [380.0, 54.0], [380.0, 67.0], [241.0, 67.0]]",电子信息与电气工程学院,0.9879041910171509
+2,"[[416.0, 59.0], [464.0, 59.0], [464.0, 74.0], [416.0, 74.0]]",学术报告,0.9155130386352539
+3,"[[94.0, 70.0], [151.0, 69.0], [151.0, 79.0], [94.0, 81.0]]",HAI JIADTONGUNN,0.8326891660690308
+4,"[[416.0, 79.0], [466.0, 79.0], [466.0, 94.0], [416.0, 94.0]]",系列,0.8518137335777283
+5,"[[40.0, 92.0], [389.0, 92.0], [389.0, 109.0], [40.0, 109.0]]",SignalProcessingApproachestoSensingwithoutSensors,0.9765027761459351
+6,"[[163.0, 130.0], [291.0, 130.0], [291.0, 144.0], [163.0, 144.0]]",Presenter:Dr.AlexX.Liu,0.9478471875190735
+7,"[[219.0, 144.0], [329.0, 144.0], [329.0, 157.0], [219.0, 157.0]]","Professor,IEEEFellow",0.9661290049552917
+8,"[[218.0, 155.0], [475.0, 157.0], [475.0, 170.0], [218.0, 168.0]]",Departmentof ComputerScienceand Engineering,0.940485954284668
+9,"[[218.0, 169.0], [376.0, 169.0], [376.0, 182.0], [218.0, 182.0]]","MichiganState University,USA",0.949076771736145
+10,"[[162.0, 180.0], [366.0, 181.0], [366.0, 196.0], [162.0, 194.0]]","Talk Time:June12,4:00PM, Wednesday",0.9265954494476318
+11,"[[164.0, 196.0], [277.0, 196.0], [277.0, 206.0], [164.0, 206.0]]","Location:SEIEE,3-412",0.9196308851242065
+12,"[[164.0, 221.0], [212.0, 221.0], [212.0, 231.0], [164.0, 231.0]]",Abstract:,0.8443000316619873
+13,"[[176.0, 232.0], [478.0, 232.0], [478.0, 245.0], [176.0, 245.0]]",Human activityrecognition is the core technology that,0.889470636844635
+14,"[[164.0, 249.0], [477.0, 249.0], [477.0, 260.0], [164.0, 260.0]]",enablesawidevarietyofapplicationssuchaselderly/health,0.9560248851776123
+15,"[[164.0, 263.0], [478.0, 263.0], [478.0, 276.0], [164.0, 276.0]]","care,building surveillance,human-computer interaction,",0.8918496370315552
+16,"[[163.0, 278.0], [478.0, 278.0], [478.0, 291.0], [163.0, 291.0]]","health care,smart homes, and fitness tracking.In this talk,we",0.9230235815048218
+17,"[[39.0, 293.0], [478.0, 293.0], [478.0, 306.0], [39.0, 306.0]]","present our work on recognizing human activities using WiFi, acoustic, and RFID",0.9184041023254395
+18,"[[40.0, 309.0], [479.0, 309.0], [479.0, 322.0], [40.0, 322.0]]","signals, respectively.Human bodies reflect wireless signals and different human",0.9174972772598267
+19,"[[39.0, 324.0], [479.0, 324.0], [479.0, 337.0], [39.0, 337.0]]","activities cause different changes on wireless signals, Thus, by analyzing the changes in",0.9533286094665527
+20,"[[39.0, 339.0], [479.0, 339.0], [479.0, 352.0], [39.0, 352.0]]","wireless signals, we can recognize the corresponding human activities that cause the",0.897687554359436
+21,"[[39.0, 355.0], [419.0, 355.0], [419.0, 369.0], [39.0, 369.0]]","changes.Inthistalk,Igiveanoverviewofourresearchresults onthistopic.",0.9574313759803772
+22,"[[41.0, 382.0], [60.0, 382.0], [60.0, 390.0], [41.0, 390.0]]",Bio:,0.9565725922584534
+23,"[[56.0, 392.0], [479.0, 392.0], [479.0, 405.0], [56.0, 405.0]]",Alex X.Liu received hisPh.D.degree in Computer Science from TheUniversity of,0.8974713683128357
+24,"[[40.0, 409.0], [477.0, 409.0], [477.0, 420.0], [40.0, 420.0]]","TexasatAustinin2006,andiscurrentlya Professorof theDepartmentof Computer",0.9412017464637756
+25,"[[40.0, 425.0], [477.0, 425.0], [477.0, 435.0], [40.0, 435.0]]",Science and Engineering at Michigan State University.He receivedtheIEEE & IFip,0.8942763209342957
+26,"[[39.0, 438.0], [478.0, 438.0], [478.0, 451.0], [39.0, 451.0]]","WilliamC.CarterAward in2004,aNational ScienceFoundationCAREERaward in2009,",0.9312214255332947
+27,"[[38.0, 453.0], [478.0, 453.0], [478.0, 466.0], [38.0, 466.0]]","the MichiganState UniversityWithrowDistinguished Scholar (Junior)Award in 2011,",0.9300034642219543
+28,"[[40.0, 470.0], [479.0, 470.0], [479.0, 481.0], [40.0, 481.0]]",and the Michigan State University Withrow Distinguished Scholar (Senior) Award in,0.903191864490509
+29,"[[40.0, 486.0], [478.0, 486.0], [478.0, 496.0], [40.0, 496.0]]",2019.Hehas served as anEditor forIEEE/ACMTransactions onNetworking.and heis,0.8963854908943176
+30,"[[40.0, 501.0], [478.0, 501.0], [478.0, 511.0], [40.0, 511.0]]",currently an AssociateEditor for IEEETransactions on Dependable and Secure,0.8882158398628235
+31,"[[41.0, 516.0], [477.0, 516.0], [477.0, 526.0], [41.0, 526.0]]","Computing,IEEETransactionsonMobileComputinq,andanAreaEditorforComputer",0.9123578071594238
+32,"[[40.0, 529.0], [478.0, 529.0], [478.0, 543.0], [40.0, 543.0]]",Communications.He hasserved as theTPC Co-Chair forICNP 2014 and IFIP,0.8891618847846985
+33,"[[40.0, 547.0], [476.0, 547.0], [476.0, 557.0], [40.0, 557.0]]","Networking2019.HereceivedBestPaperAwardsfromSECON-2018,ICNP-2012,SRDS",0.9311700463294983
+34,"[[38.0, 559.0], [478.0, 560.0], [478.0, 574.0], [38.0, 573.0]]","2012,and LISA-2010.His research interests focus on networking.security,and privacy.",0.9212417602539062
+35,"[[39.0, 576.0], [165.0, 576.0], [165.0, 586.0], [39.0, 586.0]]",HeisaFellowofthelEEE,0.9445322155952454

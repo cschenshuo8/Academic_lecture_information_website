@@ -1,0 +1,38 @@
+,box,txt,score
+0,"[[188.0, 70.0], [430.0, 70.0], [430.0, 127.0], [188.0, 127.0]]",上海交通大学,0.849820613861084
+1,"[[596.0, 87.0], [921.0, 87.0], [921.0, 118.0], [596.0, 118.0]]",电子信息与电气工程学院,0.9337067008018494
+2,"[[942.0, 96.0], [1102.0, 100.0], [1101.0, 137.0], [941.0, 133.0]]",学术报告,0.9760648608207703
+3,"[[186.0, 129.0], [426.0, 129.0], [426.0, 153.0], [186.0, 153.0]]",SHANGHAI JIAO TONG UNIVERSITY,0.9093214273452759
+4,"[[646.0, 122.0], [895.0, 122.0], [895.0, 135.0], [646.0, 135.0]]",fElectronicInformationandElectrical Enginee,0.9311597347259521
+5,"[[943.0, 175.0], [993.0, 175.0], [993.0, 214.0], [943.0, 214.0]]",系,0.9931160807609558
+6,"[[1054.0, 175.0], [1103.0, 175.0], [1103.0, 212.0], [1054.0, 212.0]]",列,0.9781700968742371
+7,"[[59.0, 190.0], [871.0, 192.0], [871.0, 229.0], [59.0, 227.0]]",PAMA: A Proactive Approach to Mitigate False,0.9257506728172302
+8,"[[61.0, 234.0], [703.0, 236.0], [703.0, 268.0], [61.0, 266.0]]",Data Injection Attacks in Smart Grids,0.9560611844062805
+9,"[[336.0, 306.0], [782.0, 308.0], [782.0, 339.0], [336.0, 338.0]]","Presenter: Dr. Shui Yu Professor,",0.9400835037231445
+10,"[[480.0, 350.0], [729.0, 352.0], [729.0, 384.0], [480.0, 382.0]]","School of Software,",0.9361009001731873
+11,"[[482.0, 395.0], [1024.0, 395.0], [1024.0, 426.0], [482.0, 426.0]]","University of Technology Sydney, Australia",0.9465174674987793
+12,"[[338.0, 433.0], [904.0, 437.0], [904.0, 469.0], [338.0, 465.0]]","Talk Time: Monday, May 20, 2019, 10:00am,",0.9762345552444458
+13,"[[340.0, 481.0], [642.0, 481.0], [642.0, 507.0], [340.0, 507.0]]","Location:SEIEE,3-308",0.9320194125175476
+14,"[[338.0, 526.0], [483.0, 526.0], [483.0, 557.0], [338.0, 557.0]]",Abstract:,0.9430449604988098
+15,"[[391.0, 566.0], [1120.0, 566.0], [1120.0, 592.0], [391.0, 592.0]]",Cybersecurityandprivacyaretwohottopicsinoursociety,0.9518539905548096
+16,"[[340.0, 611.0], [1116.0, 611.0], [1116.0, 636.0], [340.0, 636.0]]","However,both of them are mainly uncharted territories, and",0.9335809946060181
+17,"[[61.0, 651.0], [1113.0, 651.0], [1113.0, 677.0], [61.0, 677.0]]",wehave farmore questionsthan answersfrom applicationsall thewaytotheories.,0.9202036261558533
+18,"[[59.0, 694.0], [1113.0, 694.0], [1113.0, 719.0], [59.0, 719.0]]","Inthistalk,we reviewthestate-of-art of thefieldsbased ontwo researchtopics:",0.8920686841011047
+19,"[[55.0, 734.0], [1118.0, 736.0], [1118.0, 767.0], [55.0, 766.0]]","distributed denial of service and big data privacy, respectively, aiming to present",0.9466955065727234
+20,"[[59.0, 780.0], [1115.0, 780.0], [1115.0, 806.0], [59.0, 806.0]]",audience an overview of the current battle ground. We also discuss the problems,0.9160576462745667
+21,"[[59.0, 825.0], [1115.0, 825.0], [1115.0, 850.0], [59.0, 850.0]]","and challenges that wearefacing,and explorethe possible promising directions in",0.9104634523391724
+22,"[[55.0, 862.0], [183.0, 862.0], [183.0, 893.0], [55.0, 893.0]]",the fields.,0.9685211777687073
+23,"[[57.0, 914.0], [126.0, 919.0], [124.0, 954.0], [55.0, 949.0]]",Bio:,0.9989152550697327
+24,"[[107.0, 972.0], [1116.0, 976.0], [1116.0, 1007.0], [107.0, 1004.0]]","Shui Yu is a Professor of School of Software, University of Technology Sydney,",0.9448924660682678
+25,"[[57.0, 1015.0], [1116.0, 1018.0], [1116.0, 1050.0], [57.0, 1046.0]]","Australia. Dr Yu' s research interest includes Security and Privacy, Networking, Big",0.93085116147995
+26,"[[59.0, 1063.0], [1116.0, 1063.0], [1116.0, 1088.0], [59.0, 1088.0]]","Data,and Mathematical Modelling.Hehas published twomonographs and edited",0.9155197143554688
+27,"[[59.0, 1147.0], [1116.0, 1147.0], [1116.0, 1173.0], [59.0, 1173.0]]","conferences, such as IEEE TPDS,TC, TIFS,TMC,TKDE, TETC, ToN, and",0.9036449193954468
+28,"[[55.0, 1186.0], [1118.0, 1188.0], [1118.0, 1219.0], [55.0, 1218.0]]",INFOCOM. Dr Yu initiated the research field of networking for big data in 2013. His,0.912855327129364
+29,"[[57.0, 1234.0], [1116.0, 1234.0], [1116.0, 1260.0], [57.0, 1260.0]]",h-index is 36.Dr Yu actively serves his research communities in various roles. He is,0.9084660410881042
+30,"[[59.0, 1275.0], [1115.0, 1275.0], [1115.0, 1301.0], [59.0, 1301.0]]","currently serving a number of prestigious editorial boards, including IEEE",0.927834689617157
+31,"[[59.0, 1319.0], [1116.0, 1319.0], [1116.0, 1345.0], [59.0, 1345.0]]","Communications Surveys and Tutorials (Area Editor), IEEE Communications",0.9001545310020447
+32,"[[57.0, 1360.0], [1118.0, 1363.0], [1118.0, 1389.0], [57.0, 1385.0]]",Magazine (Series Editor). He has served many international conferences as a,0.9463545680046082
+33,"[[59.0, 1404.0], [1122.0, 1404.0], [1122.0, 1430.0], [59.0, 1430.0]]","memberoforganizingcommittee,suchaspublicationchairforIEEEGlobecom2o15,",0.935452401638031
+34,"[[57.0, 1444.0], [1118.0, 1444.0], [1118.0, 1476.0], [57.0, 1476.0]]","IEEE INFOCOM 2016 and 2017, and general chair for ACSW 2017. He is a Senior",0.9388571381568909
+35,"[[59.0, 1491.0], [1116.0, 1491.0], [1116.0, 1516.0], [59.0, 1516.0]]","Member of IEEE, a member of AAAS and ACM, and a Distinguished Lecturer of",0.8674473166465759
+36,"[[56.0, 1525.0], [438.0, 1531.0], [437.0, 1563.0], [55.0, 1557.0]]",IEEE Communication Society.,0.9610428214073181

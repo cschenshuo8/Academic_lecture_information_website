@@ -1,0 +1,39 @@
+,box,txt,score
+0,"[[188.0, 70.0], [430.0, 70.0], [430.0, 127.0], [188.0, 127.0]]",上海交通大学,0.849820613861084
+1,"[[594.0, 87.0], [917.0, 87.0], [917.0, 118.0], [594.0, 118.0]]",电子信息与电气工程学院,0.9102383255958557
+2,"[[942.0, 96.0], [1102.0, 100.0], [1101.0, 139.0], [941.0, 134.0]]",学术报告,0.9652878046035767
+3,"[[186.0, 129.0], [426.0, 129.0], [426.0, 153.0], [186.0, 153.0]]",SHANGHAI JIAOTONG UNIVERSITY,0.907543957233429
+4,"[[943.0, 175.0], [996.0, 175.0], [996.0, 214.0], [943.0, 214.0]]",系,0.991614818572998
+5,"[[1052.0, 175.0], [1103.0, 175.0], [1103.0, 212.0], [1052.0, 212.0]]",列,0.9661367535591125
+6,"[[76.0, 208.0], [886.0, 208.0], [886.0, 245.0], [76.0, 245.0]]",Space-Air-Ground(SAG)IntegratedVehicularNetworks,0.9452731013298035
+7,"[[343.0, 297.0], [980.0, 299.0], [980.0, 330.0], [343.0, 328.0]]","Presenter: Dr. Xuemin (Sherman) Shen, Professor,",0.9408662915229797
+8,"[[489.0, 339.0], [974.0, 339.0], [974.0, 365.0], [489.0, 365.0]]",DepartmentofElectricalandComputer,0.951359748840332
+9,"[[486.0, 370.0], [646.0, 377.0], [645.0, 410.0], [485.0, 404.0]]","Engineering,",0.9954089522361755
+10,"[[487.0, 415.0], [877.0, 415.0], [877.0, 441.0], [487.0, 441.0]]","UniversityofWaterloo,Canada",0.9535477161407471
+11,"[[343.0, 448.0], [906.0, 450.0], [906.0, 482.0], [343.0, 480.0]]","Talk Time: Monday, May 20, 2019, 10:00am,",0.9467849731445312
+12,"[[343.0, 489.0], [646.0, 489.0], [646.0, 515.0], [343.0, 515.0]]","Location:SEIEE,3-308",0.9119052886962891
+13,"[[347.0, 548.0], [491.0, 548.0], [491.0, 579.0], [347.0, 579.0]]",Abstract:,0.994165301322937
+14,"[[395.0, 609.0], [1122.0, 609.0], [1122.0, 635.0], [395.0, 635.0]]","In this talk, we first introduce connected vehicles and",0.9421671628952026
+15,"[[61.0, 648.0], [1120.0, 648.0], [1120.0, 673.0], [61.0, 673.0]]","automateddriving.Wethenpresenttherelatedapplications,challengesandscientific",0.9300218820571899
+16,"[[61.0, 686.0], [1118.0, 686.0], [1118.0, 712.0], [61.0, 712.0]]",research issues. To realize full automated driving anywhere at any time under any,0.9192757606506348
+17,"[[59.0, 721.0], [1122.0, 721.0], [1122.0, 753.0], [59.0, 753.0]]","condition, it is required the sufficient network coverage and dynamic network",0.9304169416427612
+18,"[[61.0, 760.0], [1120.0, 760.0], [1120.0, 786.0], [61.0, 786.0]]",deployment.Space-Air-Ground (SAG)Integratedvehicularnetworkscanprovidethe,0.9209437966346741
+19,"[[59.0, 799.0], [1118.0, 799.0], [1118.0, 825.0], [59.0, 825.0]]",solution.We will show thedetail development of our SAG simulatorand somedemos,0.8886030912399292
+20,"[[54.0, 841.0], [122.0, 841.0], [122.0, 874.0], [54.0, 874.0]]",Bio:,0.9755080938339233
+21,"[[109.0, 889.0], [1122.0, 889.0], [1122.0, 915.0], [109.0, 915.0]]","Xuemin (Sherman) Shen is a University Professor, and Associate Chair for",0.9338959455490112
+22,"[[55.0, 961.0], [1118.0, 963.0], [1118.0, 994.0], [55.0, 992.0]]","Waterloo, Canada. Dr. Shen's research focuses on wireless resource management,",0.9282891750335693
+23,"[[59.0, 1004.0], [1122.0, 1004.0], [1122.0, 1029.0], [59.0, 1029.0]]","wirelessnetworksecurity,smartgridandvehicularadhocandsensornetworks.Heis",0.9265623092651367
+24,"[[59.0, 1040.0], [1120.0, 1040.0], [1120.0, 1066.0], [59.0, 1066.0]]","theEditor-in-ChiefofIEEEloTJ.HeservesastheGeneralChairforMobihoc'15,the",0.9479466676712036
+25,"[[61.0, 1077.0], [1120.0, 1077.0], [1120.0, 1103.0], [61.0, 1103.0]]","TechnicalProgramCommitteeChairforIEEEGlobecom'16,IEEEInfocom'14,IEEE",0.9420400261878967
+26,"[[57.0, 1112.0], [1122.0, 1112.0], [1122.0, 1144.0], [57.0, 1144.0]]","VTC'10, the Symposia Chair for IEEE ICC'10, the Technical Program Committee",0.9302992820739746
+27,"[[61.0, 1155.0], [1120.0, 1155.0], [1120.0, 1179.0], [61.0, 1179.0]]","ChairforIEEEGlobecom'o7,theChairforIEEECommunicationsSocietyTechnical",0.9056133031845093
+28,"[[61.0, 1192.0], [1120.0, 1192.0], [1120.0, 1216.0], [61.0, 1216.0]]",CommitteeonWirelessCommunications.Dr.ShenisanelectedIEEEComSocVice,0.9252713918685913
+29,"[[59.0, 1229.0], [1120.0, 1229.0], [1120.0, 1254.0], [59.0, 1254.0]]","President - Publications, the chair of IEEE ComSoc Distinguish Lecturer selection",0.9103006720542908
+30,"[[59.0, 1267.0], [1122.0, 1267.0], [1122.0, 1293.0], [59.0, 1293.0]]","committee,and a member of IEEE ComSoc Fellow evaluation committee.Dr.Shen",0.9080926775932312
+31,"[[61.0, 1343.0], [1118.0, 1343.0], [1118.0, 1367.0], [61.0, 1367.0]]","ResearchExcellenceAward(PREA)in2003fromtheProvinceofOntario,Canada.",0.9375932216644287
+32,"[[61.0, 1380.0], [1122.0, 1380.0], [1122.0, 1406.0], [61.0, 1406.0]]","Dr.Shen is a registered Professional Engineerof Ontario,Canada,an IEEEFellow,",0.9160295724868774
+33,"[[57.0, 1415.0], [1120.0, 1415.0], [1120.0, 1446.0], [57.0, 1446.0]]","an Engineering Institute of Canada Fellow, a Canadian Academy of Engineering",0.9433162808418274
+34,"[[61.0, 1456.0], [1118.0, 1456.0], [1118.0, 1481.0], [61.0, 1481.0]]","Fellow,a RoyalSociety ofCanadaFellow,anda DistinguishedLecturerof IEEE",0.9067713618278503
+35,"[[59.0, 1491.0], [1122.0, 1491.0], [1122.0, 1522.0], [59.0, 1522.0]]",Vehicular Technology Society and Communications Society. Prof. Xuemin Shen is,0.9472023248672485
+36,"[[57.0, 1527.0], [1124.0, 1527.0], [1124.0, 1559.0], [57.0, 1559.0]]","also fellow of IEEE, Engineering Institute of Canada, Canadian Academy of",0.9172183275222778
+37,"[[57.0, 1566.0], [592.0, 1564.0], [592.0, 1596.0], [57.0, 1598.0]]","Engineering, and Royal Society of Canada",0.9367803335189819

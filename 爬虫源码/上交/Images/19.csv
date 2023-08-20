@@ -1,0 +1,51 @@
+,box,txt,score
+0,"[[190.0, 70.0], [430.0, 70.0], [430.0, 127.0], [190.0, 127.0]]",上海交通大学,0.9063814282417297
+1,"[[596.0, 87.0], [919.0, 87.0], [919.0, 118.0], [596.0, 118.0]]",电子信息与电气工程学院,0.9300785660743713
+2,"[[942.0, 94.0], [1102.0, 100.0], [1101.0, 139.0], [941.0, 132.0]]",学术报告,0.9777491092681885
+3,"[[185.0, 129.0], [426.0, 129.0], [426.0, 153.0], [185.0, 153.0]]",SHANGHAI JIAO TONG UNIVERSITY,0.9543517827987671
+4,"[[653.0, 122.0], [902.0, 122.0], [902.0, 135.0], [653.0, 135.0]]",ElectronicInformationandElectricalEngineer,0.9524064064025879
+5,"[[78.0, 164.0], [710.0, 164.0], [710.0, 196.0], [78.0, 196.0]]",Title:Lattice-BasedZero-KnowledgeProofs:,0.9552561044692993
+6,"[[943.0, 175.0], [993.0, 175.0], [993.0, 214.0], [943.0, 214.0]]",系,0.9931307435035706
+7,"[[1054.0, 177.0], [1103.0, 177.0], [1103.0, 210.0], [1054.0, 210.0]]",列,0.8509456515312195
+8,"[[151.0, 199.0], [860.0, 199.0], [860.0, 225.0], [151.0, 225.0]]",ShorterandFasterConstructionsandApplications,0.9582374691963196
+9,"[[399.0, 245.0], [565.0, 245.0], [565.0, 269.0], [399.0, 269.0]]",Host:DawuGu,0.9138303399085999
+10,"[[399.0, 279.0], [910.0, 279.0], [910.0, 304.0], [399.0, 304.0]]",Speaker:RonSteinfeldfromMonashUniversity,0.9654743075370789
+11,"[[399.0, 312.0], [712.0, 312.0], [712.0, 336.0], [399.0, 336.0]]","Time&Venue:SEIEE3-412,",0.8687117099761963
+12,"[[509.0, 343.0], [899.0, 343.0], [899.0, 369.0], [509.0, 369.0]]","10:00-11:00amDecember13,2019",0.9657397866249084
+13,"[[399.0, 369.0], [550.0, 375.0], [549.0, 406.0], [398.0, 400.0]]",Abstract:,0.972357451915741
+14,"[[445.0, 410.0], [1104.0, 411.0], [1103.0, 437.0], [445.0, 435.0]]",We devise new techniques for design and analysis of,0.9346259832382202
+15,"[[399.0, 443.0], [1102.0, 445.0], [1102.0, 470.0], [399.0, 469.0]]","efficient lattice-based zero-knowledge proofs (ZKP). First, we",0.9358044266700745
+16,"[[395.0, 476.0], [1102.0, 478.0], [1102.0, 504.0], [395.0, 502.0]]",introduce one-shot proof techniques fornon-linearpolynomial,0.9116430878639221
+17,"[[397.0, 509.0], [1102.0, 511.0], [1102.0, 537.0], [397.0, 535.0]]","relations of degree k≥2, wherethe protocol achieves a negligible",0.9035729169845581
+18,"[[81.0, 546.0], [1102.0, 546.0], [1102.0, 570.0], [81.0, 570.0]]","soundness error in a single execution, and thus performs significantly better in both",0.9029418230056763
+19,"[[81.0, 579.0], [1100.0, 579.0], [1100.0, 603.0], [81.0, 603.0]]",computation and communication compared to prior protocols requiring multiple repetitions.,0.9302324652671814
+20,"[[83.0, 611.0], [1102.0, 611.0], [1102.0, 636.0], [83.0, 636.0]]",Such proofs with degree k≥2have been crucial ingredients for important privacy-preserving,0.9198919534683228
+21,"[[81.0, 646.0], [1102.0, 646.0], [1102.0, 670.0], [81.0, 670.0]]","protocols in the discrete logarithm setting.Moreover, we introduce two speeduptechniques for",0.9325512647628784
+22,"[[79.0, 677.0], [1100.0, 675.0], [1100.0, 701.0], [79.0, 703.0]]","lattice-based ZKPs: a CRT-packing technique supporting “""inter-slot"" operations,and “NTT",0.9195069670677185
+23,"[[81.0, 710.0], [1102.0, 710.0], [1102.0, 736.0], [81.0, 736.0]]","friendly""tools that permit the use of fully-splitting rings. The formertechnique comes at almost",0.911514937877655
+24,"[[83.0, 745.0], [1102.0, 745.0], [1102.0, 769.0], [83.0, 769.0]]","no costtotheproof length,andthelatterone barely increases it,whichcanbecompensatedfor",0.9095895290374756
+25,"[[81.0, 779.0], [1102.0, 779.0], [1102.0, 804.0], [81.0, 804.0]]",by tweaking the rejection sampling parameters while still having faster computation overall. To,0.9204267263412476
+26,"[[81.0, 812.0], [1103.0, 812.0], [1103.0, 836.0], [81.0, 836.0]]","illustrate the utility of our techniques, we show how to use them to build efficient relaxed proofs",0.8998050689697266
+27,"[[81.0, 845.0], [1102.0, 845.0], [1102.0, 869.0], [81.0, 869.0]]","for important relations, such as one-out-of-many proofs. Despite their relaxed nature, we",0.9056835174560547
+28,"[[81.0, 878.0], [1102.0, 878.0], [1102.0, 904.0], [81.0, 904.0]]",further show how our proof systems can be used as building blocks for advanced cryptographic,0.9161216020584106
+29,"[[81.0, 911.0], [1102.0, 911.0], [1102.0, 937.0], [81.0, 937.0]]",tools such as ring signatures. Our ring signature achieves a dramatic improvement in length,0.9330374002456665
+30,"[[81.0, 945.0], [1102.0, 945.0], [1102.0, 969.0], [81.0, 969.0]]",overalltheprevious proposals fromlattices atthe same securitylevel.We also discuss an,0.9266011714935303
+31,"[[81.0, 976.0], [1102.0, 978.0], [1102.0, 1004.0], [81.0, 1002.0]]",extension of our techniques to construct a practical lattice-based privacy-preserving,0.9248977899551392
+32,"[[81.0, 1011.0], [637.0, 1011.0], [637.0, 1037.0], [81.0, 1037.0]]",blockchain cryptocurrencyprotocol called MatRiCT.,0.9200119376182556
+33,"[[78.0, 1050.0], [146.0, 1050.0], [146.0, 1083.0], [78.0, 1083.0]]",Bio:,0.9317197799682617
+34,"[[131.0, 1090.0], [1102.0, 1090.0], [1102.0, 1116.0], [131.0, 1116.0]]",Ron Steinfeld received his Ph.D. degree in Computer Science in 2oo3 from Monash,0.9244595170021057
+35,"[[83.0, 1123.0], [1102.0, 1123.0], [1102.0, 1149.0], [83.0, 1149.0]]","University,Australia. Since 2015, he is a Senior Lecturer at the Faculty of Information",0.9101948142051697
+36,"[[83.0, 1159.0], [1102.0, 1159.0], [1102.0, 1183.0], [83.0, 1183.0]]","Technology,Monash University,Australia.Following his Ph.D.Ron worked as a postdoctoral",0.921625554561615
+37,"[[81.0, 1192.0], [1102.0, 1192.0], [1102.0, 1218.0], [81.0, 1218.0]]","research fellow in cryptography and information security at Macquarie University,Australia,",0.9160628318786621
+38,"[[81.0, 1225.0], [1102.0, 1225.0], [1102.0, 1251.0], [81.0, 1251.0]]",holding the positions of Macquarie University Research Fellow incryptography and information,0.9210758209228516
+39,"[[81.0, 1256.0], [1102.0, 1256.0], [1102.0, 1282.0], [81.0, 1282.0]]","security (2007-2009), and ARC Australian Research Fellow in cryptography and information",0.9109628796577454
+40,"[[83.0, 1290.0], [1102.0, 1290.0], [1102.0, 1315.0], [83.0, 1315.0]]",security (2009-2012).Ron completedhisARCResearchFellowship at Monash University,0.908534586429596
+41,"[[81.0, 1323.0], [1104.0, 1325.0], [1103.0, 1350.0], [81.0, 1349.0]]",(2012-2014). His main research interests are in the design and analysis of cryptographic,0.9613282680511475
+42,"[[83.0, 1358.0], [1102.0, 1358.0], [1102.0, 1382.0], [83.0, 1382.0]]","algorithms and protocols,in particular in the areas of lattice-based cryptography and secure",0.926531195640564
+43,"[[81.0, 1391.0], [1102.0, 1391.0], [1102.0, 1415.0], [81.0, 1415.0]]",computationprotocols.Hehas over 18 years of research experience in cryptography and,0.9069684743881226
+44,"[[81.0, 1424.0], [1102.0, 1424.0], [1102.0, 1448.0], [81.0, 1448.0]]",information security.Hehaspublished morethan6o researchpapers in international refereed,0.9220430254936218
+45,"[[81.0, 1457.0], [1102.0, 1457.0], [1102.0, 1481.0], [81.0, 1481.0]]","conferences and journals,more than 10 of whichhave each been cited over 100 times.He",0.8846773505210876
+46,"[[81.0, 1489.0], [1102.0, 1489.0], [1102.0, 1515.0], [81.0, 1515.0]]",received the ASIACRYPT 2015 best paper award.He has served on the technical Program,0.9129555225372314
+47,"[[83.0, 1524.0], [1103.0, 1524.0], [1103.0, 1550.0], [83.0, 1550.0]]","Committee of numerous international conferences in cryptography, is an editorial board",0.9423953294754028
+48,"[[78.0, 1553.0], [1104.0, 1555.0], [1103.0, 1587.0], [77.0, 1585.0]]","member of the journal 'Designs Codes and Cryptography' , and consults in cryptography",0.942431628704071
+49,"[[81.0, 1590.0], [428.0, 1590.0], [428.0, 1616.0], [81.0, 1616.0]]",design for the software industry.,0.9540784955024719

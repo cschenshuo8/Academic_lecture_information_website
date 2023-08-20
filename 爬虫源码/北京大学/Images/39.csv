@@ -1,0 +1,29 @@
+,box,txt,score
+0,"[[137.0, 41.0], [729.0, 41.0], [729.0, 71.0], [137.0, 71.0]]",北京大学“信息技术与信息化”名家讲坛,0.8820269107818604
+1,"[[139.0, 129.0], [689.0, 132.0], [689.0, 152.0], [139.0, 150.0]]",AddressingtheGeneralPurposeProcessorDilemma,0.966949462890625
+2,"[[211.0, 171.0], [617.0, 173.0], [616.0, 197.0], [210.0, 195.0]]",withReconfigurableLogic Computing,0.9370967149734497
+3,"[[70.0, 213.0], [605.0, 213.0], [605.0, 234.0], [70.0, 234.0]]",演讲嘉宾：美国麻省理工学院（MIT）JoelEmer教授,0.9509115219116211
+4,"[[71.0, 254.0], [502.0, 254.0], [502.0, 274.0], [71.0, 274.0]]",讲座地点：北京大学理科2号楼2736报告厅,0.9157240986824036
+5,"[[71.0, 295.0], [505.0, 295.0], [505.0, 316.0], [71.0, 316.0]]",讲座时间：12月15日（星期四）上午10：30,0.9209762215614319
+6,"[[70.0, 336.0], [468.0, 336.0], [468.0, 357.0], [70.0, 357.0]]",主办单位：北京大学信息科学技术学院,0.9324765801429749
+7,"[[68.0, 377.0], [172.0, 377.0], [172.0, 402.0], [68.0, 402.0]]",报告摘要：,0.9679263830184937
+8,"[[90.0, 417.0], [752.0, 417.0], [752.0, 438.0], [90.0, 438.0]]",There recently has been progress in addressing the dilemma between providing programmability and higher,0.9402768015861511
+9,"[[66.0, 445.0], [753.0, 445.0], [753.0, 462.0], [66.0, 462.0]]",performance via an interesting middle ground between fully general-purpose computing and dedicated logic.In,0.9358445405960083
+10,"[[68.0, 470.0], [754.0, 470.0], [754.0, 488.0], [68.0, 488.0]]","specific,reconfigurable logic,typically in the form of FPGAs,addresses many of the cost-related liabilities of",0.9184489250183105
+11,"[[66.0, 495.0], [561.0, 496.0], [561.0, 513.0], [66.0, 512.0]]",dedicated logic and is increasingly being applied to general computation problems.,0.9040532112121582
+12,"[[92.0, 522.0], [753.0, 522.0], [753.0, 539.0], [92.0, 539.0]]","In this talk, we will examine the possibilities for reconfigurable logic as an ingredient of general-purpose",0.9150003790855408
+13,"[[68.0, 548.0], [751.0, 548.0], [751.0, 564.0], [68.0, 564.0]]",computation.Wewill look at itspotential and attempttoprovidean analogybetween the stateofreconfigurablelogic,0.9248433113098145
+14,"[[68.0, 574.0], [752.0, 574.0], [752.0, 590.0], [68.0, 590.0]]","computing today and the early days of conventional computing.Inthatlight,we considerhowreconfigurablelogic",0.9185808300971985
+15,"[[68.0, 625.0], [752.0, 625.0], [752.0, 642.0], [68.0, 642.0]]","framework that we have generally reserved for conventional processors,how it can be more seamlessly be",0.9221717715263367
+16,"[[65.0, 650.0], [751.0, 651.0], [751.0, 668.0], [65.0, 667.0]]",incorporated into a system and how reconfigurable logic might bemade more efficient and be more effectively,0.9187402725219727
+17,"[[65.0, 675.0], [705.0, 674.0], [705.0, 695.0], [65.0, 696.0]]",programmed by looking at the semantic gap between programming languages and the compute fabric itself.,0.9282788038253784
+18,"[[68.0, 702.0], [174.0, 702.0], [174.0, 728.0], [68.0, 728.0]]",嘉宾简介：,0.941869854927063
+19,"[[87.0, 743.0], [751.0, 743.0], [751.0, 759.0], [87.0, 759.0]]","Joel Emeris an Intel Fellowand Directorof MicroarchitectureResearch atIntel inHudson,Massachusetts and is",0.9195691347122192
+20,"[[66.0, 768.0], [753.0, 769.0], [753.0, 786.0], [66.0, 785.0]]",a Professor of the Practice at MIT.He received his PhD in electrical engineering at the University of Illinois at,0.9172725081443787
+21,"[[68.0, 795.0], [753.0, 795.0], [753.0, 812.0], [68.0, 812.0]]",Urbana-Champaign in1979.He is aFellowofboth theACMand theIEEE.Hehas also received a numberof awards,0.8982269763946533
+22,"[[68.0, 820.0], [624.0, 820.0], [624.0, 837.0], [68.0, 837.0]]",includingthe2009Eckert-Mauchlyawardforlifetimecontributions incomputerarchitecture.,0.9463487267494202
+23,"[[90.0, 847.0], [753.0, 847.0], [753.0, 863.0], [90.0, 863.0]]",Previously he worked at Compaq and Digital Equipment Corporation where heheld various researches and,0.8924002647399902
+24,"[[66.0, 898.0], [753.0, 898.0], [753.0, 915.0], [66.0, 915.0]]",processors and developing performance modeling and evaluation techniques.His research included pioneering,0.9375690817832947
+25,"[[66.0, 923.0], [752.0, 924.0], [752.0, 941.0], [66.0, 940.0]]","efforts in simultaneous multithreading,processor reliability analysis and early contributions on the now pervasive",0.9159127473831177
+26,"[[66.0, 949.0], [752.0, 951.0], [752.0, 968.0], [66.0, 966.0]]","quantitative approach to processor evaluation.His current research interests include memoryhierarchy design,",0.9402878284454346
+27,"[[64.0, 973.0], [470.0, 974.0], [470.0, 995.0], [64.0, 993.0]]",reconfigurable logic-based computation and performancemodeling.,0.9189428091049194

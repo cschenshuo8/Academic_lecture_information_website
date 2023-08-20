@@ -1,0 +1,34 @@
+,box,txt,score
+0,"[[77.0, 15.0], [555.0, 14.0], [555.0, 39.0], [77.0, 40.0]]",北京大学高能效计算与应用中心学术报告,0.9009053707122803
+1,"[[75.0, 48.0], [557.0, 50.0], [557.0, 66.0], [75.0, 64.0]]","Invited Talk, Center for Energy-Efficient Computing and APplications",0.9095932245254517
+2,"[[20.0, 103.0], [549.0, 103.0], [549.0, 123.0], [20.0, 123.0]]",OPTIMIZINGUNDERABSTRACTIONWITHTHE,0.941062331199646
+3,"[[144.0, 134.0], [422.0, 134.0], [422.0, 157.0], [144.0, 157.0]]",LEAPMEMORYSYSTEM,0.987953782081604
+4,"[[125.0, 228.0], [295.0, 228.0], [295.0, 252.0], [125.0, 252.0]]",Dr. Joel Emer,0.9033271074295044
+5,"[[14.0, 264.0], [403.0, 264.0], [403.0, 281.0], [14.0, 281.0]]","Senior Distinguished Research Scientist, NVidia",0.955678403377533
+6,"[[88.0, 287.0], [330.0, 287.0], [330.0, 302.0], [88.0, 302.0]]","Professor of the Practice, MIT",0.9381006360054016
+7,"[[62.0, 312.0], [358.0, 313.0], [358.0, 333.0], [62.0, 332.0]]",2016年6月14日星期二10:00am,0.9186936616897583
+8,"[[123.0, 344.0], [296.0, 344.0], [296.0, 365.0], [123.0, 365.0]]",理科二号楼2736室,0.965462863445282
+9,"[[12.0, 413.0], [557.0, 413.0], [557.0, 431.0], [12.0, 431.0]]",ABSTRACT: FPGAs offer attractive power and performance for accelerating applications that originally ran,0.9431027770042419
+10,"[[11.0, 433.0], [557.0, 432.0], [557.0, 446.0], [11.0, 447.0]]","on general-pupose processors., In spite of these advantages, FPGAs have been deployed in only a few, niche",0.9394710659980774
+11,"[[11.0, 448.0], [557.0, 448.0], [557.0, 462.0], [11.0, 462.0]]",domains. We argue that the difficulty of programming FPGAs all but prechudes their use in more general,0.9327438473701477
+12,"[[11.0, 464.0], [558.0, 464.0], [558.0, 481.0], [11.0, 481.0]]",systems: FPGA programmers are exposed to all the gory system details that software operating systems long,0.9469751715660095
+13,"[[11.0, 480.0], [111.0, 480.0], [111.0, 498.0], [11.0, 498.0]]",ago abstracted away.,0.9139381647109985
+14,"[[9.0, 513.0], [558.0, 512.0], [558.0, 529.0], [9.0, 530.0]]","In this talk, I wll present the Latency-insensitive Enviroment for Application Programming (LEAP), an FPGA",0.9603478312492371
+15,"[[9.0, 546.0], [558.0, 544.0], [558.0, 562.0], [9.0, 564.0]]","programming problem by providing a rich set of composable components and abstract, portable services with",0.9575072526931763
+16,"[[10.0, 562.0], [557.0, 562.0], [557.0, 579.0], [10.0, 579.0]]",interfaces consistent across a variety of platforms. While high-level FPGA abstractions improve,0.9511618614196777
+17,"[[10.0, 595.0], [558.0, 595.0], [558.0, 612.0], [10.0, 612.0]]","and platform remains challenging, Therefore, in this talk I will also discuss how the LEAP-generated memory",0.9540931582450867
+18,"[[12.0, 613.0], [557.0, 613.0], [557.0, 628.0], [12.0, 628.0]]","subsystems address this challenge. In specific, I will describe how we leverage the freedom of abstraction and",0.9311398863792419
+19,"[[10.0, 628.0], [558.0, 629.0], [558.0, 646.0], [10.0, 645.0]]",design a resource-aware memory compiler that automatically constructs program-optimized memory,0.9569762945175171
+20,"[[9.0, 645.0], [173.0, 646.0], [173.0, 660.0], [9.0, 659.0]]",hierarchies on behalf of the user.,0.9413602352142334
+21,"[[10.0, 667.0], [556.0, 669.0], [556.0, 684.0], [10.0, 681.0]]",BIOGRAPHY: Dr. Joel S. Emer is a Senior Distinguished Research Scientist in Nvidis's Architecture,0.9216148853302002
+22,"[[10.0, 685.0], [556.0, 685.0], [556.0, 699.0], [10.0, 699.0]]",Research group. He is responsible for exploration of future architectures as well as modeling and analysis,0.9419052004814148
+23,"[[7.0, 700.0], [558.0, 701.0], [558.0, 718.0], [7.0, 717.0]]","methodologies. In his spare time, he is a Professor of the Practice at MIT, where he teaches computer",0.9495651721954346
+24,"[[8.0, 717.0], [558.0, 716.0], [558.0, 733.0], [8.0, 734.0]]",architecture and supervises graduate students. Prior to joining Nvidia he worked at Intel where he was an Intel,0.942218005657196
+25,"[[10.0, 734.0], [558.0, 734.0], [558.0, 752.0], [10.0, 752.0]]","Fellow and Director of Microarchitecture Research. Even earlier, he worked at Compaq and Digital",0.9320520758628845
+26,"[[11.0, 753.0], [135.0, 753.0], [135.0, 767.0], [11.0, 767.0]]",Equipment Corporation.,0.951829195022583
+27,"[[8.0, 782.0], [558.0, 783.0], [558.0, 800.0], [8.0, 799.0]]",Dr. Emer has held various research and advanced development positions investigating processor,0.9355956315994263
+28,"[[10.0, 800.0], [557.0, 800.0], [557.0, 815.0], [10.0, 815.0]]",microarchitecture and developing performance modeling and evaluation techniques. He has made architectual,0.9459111094474792
+29,"[[10.0, 818.0], [557.0, 818.0], [557.0, 832.0], [10.0, 832.0]]","contributions to a number of VAX, Alpha and X86 processors and is recoguized as one of the developers of the",0.9357895851135254
+30,"[[10.0, 834.0], [557.0, 834.0], [557.0, 848.0], [10.0, 848.0]]","widely employed quantitative approach to processor performance evaluation. More recently, he has been",0.9540865421295166
+31,"[[8.0, 848.0], [557.0, 849.0], [557.0, 866.0], [8.0, 865.0]]","recogrized for his contributions in the advancement of simultaneous multithreading technology, processor",0.9581081867218018
+32,"[[9.0, 866.0], [319.0, 866.0], [319.0, 881.0], [9.0, 881.0]]","reliability analysis, cache organization and spatial architectures.",0.9420015215873718

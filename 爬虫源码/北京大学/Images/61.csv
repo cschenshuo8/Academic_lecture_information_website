@@ -1,0 +1,38 @@
+,box,txt,score
+0,"[[99.0, 82.0], [404.0, 85.0], [404.0, 101.0], [99.0, 98.0]]",VTR7.0:NextGenerationArchitecture,0.9279710054397583
+1,"[[140.0, 115.0], [362.0, 115.0], [362.0, 132.0], [140.0, 132.0]]",andCADSystemforFPGAs,0.9592452049255371
+2,"[[84.0, 147.0], [414.0, 147.0], [414.0, 161.0], [84.0, 161.0]]",2013.3.15星期五上午10:30-11：30理科二号楼2736报告厅,0.9541116952896118
+3,"[[174.0, 179.0], [225.0, 179.0], [225.0, 190.0], [174.0, 190.0]]",主讲人：,0.9126604795455933
+4,"[[221.0, 177.0], [331.0, 178.0], [331.0, 192.0], [221.0, 191.0]]",Prof.JonathanRose,0.9814383387565613
+5,"[[33.0, 202.0], [469.0, 202.0], [469.0, 215.0], [33.0, 215.0]]",The eploration of new architectures and CAD algorithms for large-scale FPGAs require sophisticated software that permits,0.9472419619560242
+6,"[[33.0, 217.0], [468.0, 217.0], [468.0, 227.0], [33.0, 227.0]]","the modeling of the architectures, and a robust baseline CAD flow that comes close to the features and quality present in mod-",0.9303717613220215
+7,"[[32.0, 228.0], [470.0, 228.0], [470.0, 242.0], [32.0, 242.0]]",ern commercial FPGAs. This seminar willdeseribe a set of recent advances in the open source VTR CAD flow that is a step,0.9326462149620056
+8,"[[32.0, 242.0], [470.0, 242.0], [470.0, 255.0], [32.0, 255.0]]","along a path towards these goals, The flow begins with circuits captured in the Verilog language, and proceeds through elabo",0.9334059357643127
+9,"[[32.0, 255.0], [469.0, 255.0], [469.0, 268.0], [32.0, 268.0]]","ration, logic synthesis, physical design and timing analysis. There are three core tools: ODIN II for Verilog Elaboration and",0.9317642450332642
+10,"[[33.0, 268.0], [468.0, 268.0], [468.0, 278.0], [33.0, 278.0]]","front-end hard-block synthesis, ABC for logic synthesis, and VPR [for physical synthesis and analysis. There is an associate",0.9439224004745483
+11,"[[32.0, 279.0], [469.0, 279.0], [469.0, 292.0], [32.0, 292.0]]","release, version 7.0 of VTR, which has the following new features: first, the ability to support (in elaboration, physical opti-",0.94072425365448
+12,"[[33.0, 307.0], [469.0, 307.0], [469.0, 317.0], [33.0, 317.0]]","quirements. Seoond, the flow now sapports hard fixed carry chains providing significant improvement in the performance of",0.9442745447158813
+13,"[[32.0, 317.0], [469.0, 317.0], [469.0, 331.0], [32.0, 331.0]]","arithmetic circuits. This feature requires significant algorithmic and engineering changes throughout the flow, and enables a",0.9146504402160645
+14,"[[32.0, 332.0], [470.0, 332.0], [470.0, 345.0], [32.0, 345.0]]","broad elass of similar chain-like structures. Third, we introduce an energy model that permits the precise modeling of power",0.9162414073944092
+15,"[[32.0, 345.0], [470.0, 345.0], [470.0, 358.0], [32.0, 358.0]]","consumption of the newer complex logie blocks, and coarse modeling of hard heterogeneous blocks. Fourth, this release pro",0.9515385031700134
+16,"[[31.0, 357.0], [470.0, 357.0], [470.0, 370.0], [31.0, 370.0]]","vides more sophisticated packing algorithms, that are much faster than the previous release. Fifth, we deseribe and provide a",0.9342836737632751
+17,"[[32.0, 369.0], [469.0, 369.0], [469.0, 382.0], [32.0, 382.0]]","set of FPGA architectures, and associated architecture description files, These fom a basic set of architectures that can be",0.9065491557121277
+18,"[[33.0, 383.0], [468.0, 383.0], [468.0, 393.0], [33.0, 393.0]]","used as is, or as the basis for enhancements. As FPGAs have become more complex, these architecture files themselves are a",0.9246003031730652
+19,"[[32.0, 395.0], [469.0, 395.0], [469.0, 408.0], [32.0, 408.0]]","form of software. Sixth, we have added a feature to output a netlist deseribing the details ofthe final routed circuit that will be",0.9081856608390808
+20,"[[32.0, 408.0], [469.0, 408.0], [469.0, 422.0], [32.0, 422.0]]","useful in downstream researeh secking accurate timing, energy and the ability to model defeets. Finally, we provide a set of",0.9063289761543274
+21,"[[31.0, 422.0], [470.0, 421.0], [470.0, 434.0], [31.0, 435.0]]",measurements of the quality of results of this release and compare it to the set of prior major releases. This work is a world-,0.9333154559135437
+22,"[[33.0, 436.0], [293.0, 436.0], [293.0, 446.0], [33.0, 446.0]]",wide collaboration among several contributing Universities and companies.,0.9192103743553162
+23,"[[34.0, 451.0], [60.0, 451.0], [60.0, 463.0], [34.0, 463.0]]",Bios,0.9448645114898682
+24,"[[32.0, 465.0], [470.0, 465.0], [470.0, 478.0], [32.0, 478.0]]",Jonathan Rose is a Professcor in the Edward S. Roges Sr.DepurtmemtofElectical and Coputer Enginring at the Univeity fToroto.He,0.7847017049789429
+25,"[[32.0, 476.0], [470.0, 476.0], [470.0, 489.0], [32.0, 489.0]]","reccived the PhD.dege inElectical Engineering in 1986 fom the Uiversity ofTeceto,From 1985 to 1989, he was a Post-Doxteral Schar",0.803077220916748
+26,"[[33.0, 488.0], [469.0, 488.0], [469.0, 498.0], [33.0, 498.0]]","and then Research Assoxsate in the Computet Systems Laboratory at Starndoed University. In 1989, he joined the faculty of the University ef To-",0.9174594283103943
+27,"[[32.0, 507.0], [225.0, 507.0], [225.0, 521.0], [32.0, 521.0]]",1989unl 1999he was an NSERC Ustiversity Research Fellow.,0.8209899067878723
+28,"[[33.0, 498.0], [468.0, 498.0], [468.0, 509.0], [33.0, 509.0]]","sonto, He spent the 1995-1996 year as a Senier Reseaech Scientist at Xilinx, in San Jose, CA, werking en the Virtex FPGA architecture. From",0.8940149545669556
+29,"[[31.0, 518.0], [469.0, 516.0], [469.0, 530.0], [31.0, 532.0]]","He sened as Chair ef the Edward S, Rogaes Sr. Depertment of Electrical and Cemputar Engineering flom Jauary 2004 tdecegh June 2009.",0.8753234148025513
+30,"[[32.0, 529.0], [470.0, 529.0], [470.0, 542.0], [32.0, 542.0]]","He wasaisiting PresrampialCele,in Lndn, intheFallf2009,andat te UivityCalifoiaBeky inFbry,20,",0.7144114375114441
+31,"[[31.0, 549.0], [470.0, 548.0], [470.0, 562.0], [31.0, 563.0]]","He isa Serior Fllow ef Massey Collge in the Uwivenity ofTeonde, a Fellow ofthe IEEE, a Fllow ofthe ACM, a Fllow of the Canadian",0.7983030080795288
+32,"[[33.0, 541.0], [270.0, 541.0], [270.0, 551.0], [33.0, 551.0]]",May of 2011 he was a visiting Professor at Addis Abobe University in Etiopia.,0.8918442130088806
+33,"[[32.0, 560.0], [462.0, 560.0], [462.0, 573.0], [32.0, 573.0]]",AcadyfEngineringaFllowheRoyalSocictyCandandaFecignAssciatehe AmicanNationlAcademyEnginrin,0.7829728722572327
+34,"[[32.0, 571.0], [470.0, 571.0], [470.0, 584.0], [32.0, 584.0]]","HiseachcovslapetsfFPGAsiading tirarchitce, Compu-AiddDesin (CAD),Fidd-Progame Sysm, SPr",0.7188293933868408
+35,"[[33.0, 583.0], [242.0, 583.0], [242.0, 593.0], [33.0, 593.0]]","sors, vision and bicinfomatic applications ef programmable hardware",0.9051189422607422
+36,"[[146.0, 618.0], [354.0, 618.0], [354.0, 632.0], [146.0, 632.0]]",主办/承办：高能效计算与应用中心,0.857367992401123

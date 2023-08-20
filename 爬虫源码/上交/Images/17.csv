@@ -1,0 +1,39 @@
+,box,txt,score
+0,"[[188.0, 70.0], [430.0, 70.0], [430.0, 127.0], [188.0, 127.0]]",上海交通大学,0.849820613861084
+1,"[[594.0, 87.0], [917.0, 87.0], [917.0, 118.0], [594.0, 118.0]]",电子信息与电气工程学院,0.9090884923934937
+2,"[[942.0, 96.0], [1102.0, 100.0], [1101.0, 137.0], [941.0, 133.0]]",学术报告,0.9760648608207703
+3,"[[186.0, 129.0], [426.0, 129.0], [426.0, 153.0], [186.0, 153.0]]",SHANGHAI JIAO TONG UNIVERSITY,0.9138168096542358
+4,"[[638.0, 122.0], [895.0, 122.0], [895.0, 135.0], [638.0, 135.0]]",ofElectronicInformationandElectricalEnginee,0.9504848122596741
+5,"[[943.0, 175.0], [993.0, 175.0], [993.0, 214.0], [943.0, 214.0]]",系,0.9931160807609558
+6,"[[1054.0, 175.0], [1103.0, 175.0], [1103.0, 212.0], [1054.0, 212.0]]",列,0.9781700968742371
+7,"[[68.0, 186.0], [889.0, 188.0], [889.0, 225.0], [68.0, 223.0]]",Title: Memory-Augmented Neural Networks for,0.9260595440864563
+8,"[[161.0, 232.0], [723.0, 236.0], [723.0, 268.0], [160.0, 264.0]]",BetterDiscourse Understanding,0.944800853729248
+9,"[[419.0, 303.0], [749.0, 301.0], [749.0, 332.0], [419.0, 334.0]]",Speaker: Prof. Tim Baldwin,0.9115941524505615
+10,"[[535.0, 347.0], [873.0, 347.0], [873.0, 373.0], [535.0, 373.0]]",The University of Melbourne,0.9524169564247131
+11,"[[423.0, 386.0], [755.0, 386.0], [755.0, 411.0], [423.0, 411.0]]","Time:13:00-15:00,Nov.27",0.9263544678688049
+12,"[[421.0, 426.0], [679.0, 426.0], [679.0, 452.0], [421.0, 452.0]]",Venue:SEIEE3-412,0.8828442692756653
+13,"[[419.0, 476.0], [580.0, 480.0], [579.0, 513.0], [419.0, 509.0]]",Abstract:,0.8960819244384766
+14,"[[474.0, 531.0], [1120.0, 531.0], [1120.0, 557.0], [474.0, 557.0]]","In this talk, I will present a series of papers on the",0.9128884673118591
+15,"[[421.0, 572.0], [1120.0, 572.0], [1120.0, 598.0], [421.0, 598.0]]",applications of memory-augmented neural network,0.938701868057251
+16,"[[417.0, 609.0], [1120.0, 613.0], [1120.0, 638.0], [417.0, 635.0]]","models to discourse understanding tasks, focusing on",0.9262284636497498
+17,"[[419.0, 653.0], [1120.0, 653.0], [1120.0, 679.0], [419.0, 679.0]]","tasks including dialogue state tracking, named entity",0.9442886710166931
+18,"[[63.0, 690.0], [1120.0, 690.0], [1120.0, 721.0], [63.0, 721.0]]","recognition with full document history, discourse parsing of web user forum threads,",0.9350001215934753
+19,"[[61.0, 732.0], [1120.0, 732.0], [1120.0, 758.0], [61.0, 758.0]]","narrative comprehension, and targeted aspect-based sentiment analysis. Time",0.9282816648483276
+20,"[[63.0, 773.0], [1120.0, 773.0], [1120.0, 799.0], [63.0, 799.0]]","permitting, I will also give a brief overview of a collaborative project with Bytedance on",0.8902682065963745
+21,"[[59.0, 808.0], [1124.0, 810.0], [1124.0, 841.0], [59.0, 839.0]]",the automatic detection of text that has been adversarially-injected into a larger,0.9418411254882812
+22,"[[57.0, 894.0], [130.0, 899.0], [127.0, 934.0], [55.0, 929.0]]",Bio:,0.9985770583152771
+23,"[[63.0, 998.0], [1120.0, 998.0], [1120.0, 1024.0], [63.0, 1024.0]]","The University of Melbourne, and Associate Dean (Research Training) within the",0.9454910159111023
+24,"[[61.0, 1035.0], [1122.0, 1035.0], [1122.0, 1066.0], [61.0, 1066.0]]",Melbourne School of Engineering. He is also Director of the ARC Centre for Cognitive,0.9441670775413513
+25,"[[61.0, 1076.0], [1124.0, 1076.0], [1124.0, 1107.0], [61.0, 1107.0]]","Computing in Medical Technologies, in partnership with IBM Research. He has",0.938759982585907
+26,"[[61.0, 1116.0], [1122.0, 1116.0], [1122.0, 1147.0], [61.0, 1147.0]]","previously held visiting positions at institutions including Cambridge University, University",0.9226091504096985
+27,"[[63.0, 1159.0], [1122.0, 1159.0], [1122.0, 1184.0], [63.0, 1184.0]]","of Washington,TokyoInstituteof Technology,Saarland University,NTTCommunication",0.889706552028656
+28,"[[63.0, 1199.0], [1122.0, 1199.0], [1122.0, 1225.0], [63.0, 1225.0]]","Science Laboratories, and National Institute of Informatics.His primary researchfocus is",0.9272254705429077
+29,"[[59.0, 1236.0], [1122.0, 1238.0], [1122.0, 1269.0], [59.0, 1267.0]]","on natural language processing (NLP), including social media analytics, deep learning,",0.9377702474594116
+30,"[[59.0, 1275.0], [698.0, 1277.0], [697.0, 1308.0], [59.0, 1306.0]]","computational lexical semantics, and topic modelling.",0.9419845938682556
+31,"[[118.0, 1319.0], [1122.0, 1319.0], [1122.0, 1345.0], [118.0, 1345.0]]",Timcompleteda BSc(CS/Maths)andBA(Linguistics/Japanese)atTheUniversityof,0.9313607215881348
+32,"[[59.0, 1354.0], [1120.0, 1358.0], [1120.0, 1389.0], [59.0, 1385.0]]","Melbourne in 1995, and an MEng(CS) and PhD(CS) at the Tokyo Institute of Technology",0.9380412101745605
+33,"[[61.0, 1400.0], [1120.0, 1400.0], [1120.0, 1426.0], [61.0, 1426.0]]","in 1998 and 2001, respectively.Prior to joining The University of Melbourne in 2004, he",0.8883613348007202
+34,"[[57.0, 1435.0], [1124.0, 1437.0], [1124.0, 1468.0], [57.0, 1467.0]]",was a Senior Research Engineer at the Center for the Study of Language and,0.9263364672660828
+35,"[[63.0, 1481.0], [1120.0, 1481.0], [1120.0, 1507.0], [63.0, 1507.0]]","Information, Stanford University (2001-2004). He is the author of over 350",0.8894730806350708
+36,"[[61.0, 1518.0], [1120.0, 1518.0], [1120.0, 1550.0], [61.0, 1550.0]]","peer-reviewed publications across diverse topics in natural language processing and Al,",0.9395721554756165
+37,"[[63.0, 1561.0], [847.0, 1561.0], [847.0, 1587.0], [63.0, 1587.0]]","withover11,000citations andanh-indexof52 (GoogleScholar).",0.8998461961746216

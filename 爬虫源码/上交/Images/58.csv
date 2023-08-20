@@ -1,0 +1,61 @@
+,box,txt,score
+0,"[[246.0, 9.0], [637.0, 12.0], [636.0, 84.0], [246.0, 81.0]]",全球午餐会,0.8464807271957397
+1,"[[111.0, 34.0], [153.0, 34.0], [153.0, 44.0], [111.0, 44.0]]",ccess,0.9726988077163696
+2,"[[107.0, 53.0], [152.0, 51.0], [152.0, 61.0], [107.0, 62.0]]",portant,0.9188132286071777
+3,"[[158.0, 47.0], [202.0, 44.0], [202.0, 55.0], [159.0, 58.0]]",services,0.9505735635757446
+4,"[[33.0, 69.0], [236.0, 74.0], [235.0, 122.0], [32.0, 118.0]]",Security,0.95168137550354
+5,"[[247.0, 91.0], [582.0, 91.0], [582.0, 111.0], [247.0, 111.0]]",SJTU-CSGLOBALLUNCH,0.9304217100143433
+6,"[[139.0, 116.0], [201.0, 116.0], [201.0, 130.0], [139.0, 130.0]]",compu,0.9790838956832886
+7,"[[246.0, 111.0], [648.0, 115.0], [648.0, 139.0], [246.0, 135.0]]",SEMINARSERIES第15期2023/06/09,0.9515066742897034
+8,"[[108.0, 149.0], [540.0, 152.0], [540.0, 178.0], [108.0, 176.0]]",Understanding and Hardening,0.9521951079368591
+9,"[[21.0, 184.0], [634.0, 184.0], [634.0, 211.0], [21.0, 211.0]]",DecentralizedSystemsSecurityinthe Wild,0.9486312866210938
+10,"[[36.0, 219.0], [145.0, 221.0], [145.0, 241.0], [35.0, 239.0]]",Abstract,0.9407761096954346
+11,"[[36.0, 244.0], [608.0, 244.0], [608.0, 257.0], [36.0, 257.0]]","Today,public blockchains are a multi-trillion-dollar economy.Whilethe existing literature has examined",0.9041857123374939
+12,"[[35.0, 259.0], [609.0, 259.0], [609.0, 272.0], [35.0, 272.0]]","blockchain security at the consensus-protocol level, the system-level security,namely the security of",0.9242787957191467
+13,"[[35.0, 274.0], [610.0, 274.0], [610.0, 287.0], [35.0, 287.0]]","complex and evolving blockchain software systems indeployment, needs to bebetterunderstood.This is",0.9426971077919006
+14,"[[35.0, 290.0], [556.0, 290.0], [556.0, 303.0], [35.0, 303.0]]",evidenced bythenumerous reported bugsand high-impact blockchain attacks onthelnternet.,0.9162957072257996
+15,"[[35.0, 309.0], [609.0, 309.0], [609.0, 323.0], [35.0, 323.0]]","In this talk, we will present our recent works examining the systems-level security of the connection",0.9461339712142944
+16,"[[35.0, 325.0], [608.0, 325.0], [608.0, 338.0], [35.0, 338.0]]",between Ethereum blockchain and web3.0 users. Theresearch uncovers several high-impact,0.9164938926696777
+17,"[[35.0, 340.0], [609.0, 340.0], [609.0, 353.0], [35.0, 353.0]]","vulnerabilities under denial-of-service attacks (CCS’21,NDSS21,IMC21).Thesevulnerabilities reveal",0.9169585108757019
+18,"[[34.0, 355.0], [609.0, 356.0], [609.0, 369.0], [34.0, 368.0]]","the fundamental design challenges in the tradeoff between enabling rich functionalities (e.g-, by",0.9238404035568237
+19,"[[35.0, 370.0], [608.0, 370.0], [608.0, 384.0], [35.0, 384.0]]",supporting smart contracts) and achieving security against DoS.The vulnerabilities havebeen confirmed,0.9328287243843079
+20,"[[35.0, 386.0], [609.0, 386.0], [609.0, 399.0], [35.0, 399.0]]","and the defense code we developed has been merged into mainstream Ethereum client. By the end, we",0.9287251830101013
+21,"[[34.0, 400.0], [608.0, 401.0], [608.0, 415.0], [34.0, 414.0]]","will talk about other recent research and educational efforts in my group on blockchain security,",0.9022592902183533
+22,"[[35.0, 417.0], [263.0, 417.0], [263.0, 430.0], [35.0, 430.0]]","cost-efficiency,andbroaderapplications.",0.9866661429405212
+23,"[[146.0, 434.0], [610.0, 434.0], [610.0, 447.0], [146.0, 447.0]]",Dr.YuzheTangis an associate professorin the EECS departmentat Syracuse University.He is broadly interestedin cyber-security and,0.8957874178886414
+24,"[[147.0, 447.0], [609.0, 447.0], [609.0, 457.0], [147.0, 457.0]]","computer systems. His security research covers vulnerability discovery, threat detection, threat mitigation, and security-oriented",0.938262939453125
+25,"[[146.0, 465.0], [608.0, 467.0], [608.0, 480.0], [146.0, 478.0]]","building cost-effective blockchains, 3) broadening blockchainapplications intonew domains, and 4) developing and disseminating",0.9006807804107666
+26,"[[147.0, 456.0], [610.0, 456.0], [610.0, 468.0], [147.0, 468.0]]","measurement of deployed systems. His curent research is centered around blockchains: 1) Enabling blockchain systems security, 2)",0.9404066801071167
+27,"[[146.0, 477.0], [609.0, 477.0], [609.0, 490.0], [146.0, 490.0]]","blockchain educational materials, His blockchain research is published at top-tier venues including ACM CCS, NDSS, ACM IMC, FSE,",0.9275141954421997
+28,"[[147.0, 488.0], [609.0, 489.0], [609.0, 500.0], [147.0, 499.0]]","IEEE ICDE, ACM Middleware, etc. His research results in software updates in popular Ethereum clients, including Geth, Besu, and",0.9327629804611206
+29,"[[146.0, 499.0], [514.0, 500.0], [514.0, 513.0], [146.0, 512.0]]",OpenEthereumHe also builds the BADDlabsfor activeleaming in Blockchain And DappDevelopment.,0.9260860085487366
+30,"[[145.0, 518.0], [609.0, 519.0], [609.0, 532.0], [145.0, 531.0]]","Besides blockchains, he has worked on confidential computing and secure clouds, trusted execution erwvironments, applied",0.9392240643501282
+31,"[[146.0, 531.0], [609.0, 530.0], [609.0, 543.0], [146.0, 544.0]]","privacy-preserving protocols, and peer-to-peer data management, His research is generously supported by National Science",0.9308180212974548
+32,"[[147.0, 542.0], [609.0, 542.0], [609.0, 555.0], [147.0, 555.0]]","Foundation (NSF under SaTC and CNS programs), Ethereum Foundation, National Security Agency (NSA), Intel, Cyber Research",0.9485670328140259
+33,"[[29.0, 553.0], [75.0, 553.0], [75.0, 563.0], [29.0, 563.0]]",Speaker:,0.9921891689300537
+34,"[[146.0, 552.0], [609.0, 552.0], [609.0, 564.0], [146.0, 564.0]]","Institute, and Syracuse University. Dr. Tang eams his Ph.D, degree in Computer Science from Georgia Institute of Technology and",0.9188369512557983
+35,"[[30.0, 567.0], [104.0, 567.0], [104.0, 578.0], [30.0, 578.0]]",Yuzhe Tang,0.9490750432014465
+36,"[[28.0, 579.0], [141.0, 579.0], [141.0, 592.0], [28.0, 592.0]]",Syracuse University,0.9451746940612793
+37,"[[146.0, 574.0], [608.0, 575.0], [608.0, 586.0], [146.0, 585.0]]","2012, the Best Paper award in ACM/IEEE CCGrid 2015, the AFRL visiting faculty research award 2017, and the Ethereum Foundation",0.9284601211547852
+38,"[[31.0, 591.0], [125.0, 591.0], [125.0, 601.0], [31.0, 601.0]]",AssociateProfessor,0.95838463306427
+39,"[[146.0, 586.0], [266.0, 585.0], [266.0, 596.0], [146.0, 597.0]]",academnic grant awardee in 2022.,0.833925724029541
+40,"[[152.0, 625.0], [540.0, 627.0], [540.0, 640.0], [152.0, 638.0]]",Yibo Wang is a Ph.D. student in theFSSL Lab of Computer Science at Syracuse University advised by Dr.,0.9426897764205933
+41,"[[153.0, 638.0], [535.0, 638.0], [535.0, 651.0], [153.0, 651.0]]",Yuzhe Tang. He recelved his B. E. from Huazhong University of Science and Technology and his M.S. in,0.9242104291915894
+42,"[[151.0, 648.0], [560.0, 649.0], [560.0, 663.0], [151.0, 662.0]]",Computer Engineering from Syracuse University.His research focuses on the security and cost-effectiveness,0.9383787512779236
+43,"[[152.0, 659.0], [208.0, 661.0], [208.0, 672.0], [152.0, 670.0]]",of blockchain.,0.9511238932609558
+44,"[[154.0, 681.0], [246.0, 681.0], [246.0, 691.0], [154.0, 691.0]]",https://yibo-wang.com/,0.9309033751487732
+45,"[[179.0, 720.0], [399.0, 720.0], [399.0, 737.0], [179.0, 737.0]]",时间：06/0912：00-13：00,0.9274042248725891
+46,"[[31.0, 734.0], [75.0, 734.0], [75.0, 745.0], [31.0, 745.0]]",Speaker:,0.9745050668716431
+47,"[[32.0, 747.0], [98.0, 747.0], [98.0, 758.0], [32.0, 758.0]]",YiboWang,0.9396984577178955
+48,"[[178.0, 738.0], [435.0, 738.0], [435.0, 758.0], [178.0, 758.0]]",参与方式：Bilibili直播间22797301,0.9459471702575684
+49,"[[32.0, 760.0], [142.0, 760.0], [142.0, 772.0], [32.0, 772.0]]",Syracuse University,0.9101697206497192
+50,"[[177.0, 755.0], [441.0, 757.0], [441.0, 779.0], [177.0, 777.0]]",电子信息与电气工程学院3号楼414,0.9800229072570801
+51,"[[34.0, 771.0], [56.0, 771.0], [56.0, 782.0], [34.0, 782.0]]",Ph.D,0.8804044723510742
+52,"[[225.0, 842.0], [424.0, 842.0], [424.0, 856.0], [225.0, 856.0]]",电子信息与电气工程学院计算机系,0.9543377757072449
+53,"[[123.0, 869.0], [203.0, 866.0], [203.0, 884.0], [123.0, 886.0]]",上海文通大路,0.6558499932289124
+54,"[[254.0, 865.0], [291.0, 861.0], [294.0, 889.0], [258.0, 893.0]]",总空,0.6391661167144775
+55,"[[317.0, 866.0], [410.0, 866.0], [410.0, 879.0], [317.0, 879.0]]",COWAROBOT,0.9217865467071533
+56,"[[431.0, 867.0], [573.0, 870.0], [573.0, 893.0], [430.0, 891.0]]",EIYU辈语安全,0.7782845497131348
+57,"[[124.0, 886.0], [201.0, 885.0], [201.0, 895.0], [124.0, 896.0]]","Stvtatvjavo Toes,tsmxsm",0.573810875415802
+58,"[[261.0, 884.0], [290.0, 884.0], [290.0, 895.0], [261.0, 895.0]]",DOKUTECH,0.897063136100769
+59,"[[316.0, 882.0], [412.0, 882.0], [412.0, 896.0], [316.0, 896.0]]",酷哇机器人,0.9663897752761841

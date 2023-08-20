@@ -1,0 +1,33 @@
+,box,txt,score
+0,"[[103.0, 38.0], [238.0, 38.0], [238.0, 73.0], [103.0, 73.0]]",上海文通大学,0.9219301342964172
+1,"[[328.0, 48.0], [507.0, 48.0], [507.0, 65.0], [328.0, 65.0]]",电子信息与电气工程学院,0.9466261267662048
+2,"[[518.0, 53.0], [607.0, 55.0], [606.0, 76.0], [518.0, 74.0]]",学术报告,0.9001573324203491
+3,"[[103.0, 71.0], [231.0, 71.0], [231.0, 84.0], [103.0, 84.0]]",SHANGHAI JLAO TONG UNIVERSIT,0.9162386059761047
+4,"[[519.0, 97.0], [546.0, 97.0], [546.0, 118.0], [519.0, 118.0]]",系,0.9950429201126099
+5,"[[580.0, 96.0], [608.0, 96.0], [608.0, 117.0], [580.0, 117.0]]",列,0.987434446811676
+6,"[[33.0, 122.0], [486.0, 124.0], [485.0, 144.0], [32.0, 142.0]]",TalkTitle:Aframeworkfordescribingtensorcomputations,0.9313815832138062
+7,"[[191.0, 182.0], [420.0, 183.0], [420.0, 200.0], [191.0, 199.0]]",Speaker:Professor Daniel Povey,0.8896849751472473
+8,"[[193.0, 206.0], [411.0, 206.0], [411.0, 220.0], [193.0, 220.0]]","Time:14:30-16:00Sep9,2019",0.8430426716804504
+9,"[[192.0, 228.0], [385.0, 228.0], [385.0, 242.0], [192.0, 242.0]]",Venue:Room412.SEIEE-3,0.8880307078361511
+10,"[[191.0, 251.0], [314.0, 251.0], [314.0, 265.0], [191.0, 265.0]]",Host: Prof.Kai Yu,0.9426241517066956
+11,"[[191.0, 278.0], [277.0, 280.0], [277.0, 297.0], [191.0, 295.0]]",Abstract:,0.9016410112380981
+12,"[[221.0, 309.0], [619.0, 309.0], [619.0, 324.0], [221.0, 324.0]]",Manysoftwaretoolkitsfor machinelearninghave are,0.9295814037322998
+13,"[[192.0, 332.0], [619.0, 332.0], [619.0, 346.0], [192.0, 346.0]]","based ona NumPy-like modelfor computation,based on",0.8940370082855225
+14,"[[191.0, 354.0], [619.0, 354.0], [619.0, 368.0], [191.0, 368.0]]","tensors.In thiscontext,atensorisann-dimensional array ofa",0.9104288220405579
+15,"[[191.0, 376.0], [619.0, 376.0], [619.0, 391.0], [191.0, 391.0]]","particular data-type (say,float).In such toolkits there is often a",0.9273022413253784
+16,"[[25.0, 398.0], [620.0, 398.0], [620.0, 415.0], [25.0, 415.0]]","lack of clarity in the documentation,particularly regarding allowable memory",0.8981009125709534
+17,"[[25.0, 419.0], [623.0, 421.0], [623.0, 438.0], [25.0, 436.0]]","layouts.Wepresenta mathematical frameworkfordescribingtensorlayouts in memory,",0.9213897585868835
+18,"[[27.0, 443.0], [619.0, 443.0], [619.0, 458.0], [27.0, 458.0]]",which makes it possibleto clearlydescribetypical operations ontensors and their,0.9068136811256409
+19,"[[27.0, 467.0], [623.0, 467.0], [623.0, 480.0], [27.0, 480.0]]","requirementsontheinputtensors'layout.Asanexampleoftheutilityofthisframework,",0.9639626741409302
+20,"[[26.0, 489.0], [620.0, 489.0], [620.0, 503.0], [26.0, 503.0]]",weapplyittotheproblemofcomputingtheregionofoverlap inmemorybetweentwo,0.9330341219902039
+21,"[[26.0, 510.0], [620.0, 510.0], [620.0, 528.0], [26.0, 528.0]]",tensors--a surprisingly non-trivial problem. This problem arises in certain approaches,0.9177381992340088
+22,"[[27.0, 534.0], [620.0, 534.0], [620.0, 548.0], [27.0, 548.0]]",to verifyingthe correctnessof autogradgraphs.Wealsoshowhowthe frameworkcan,0.9272217750549316
+23,"[[26.0, 556.0], [525.0, 556.0], [525.0, 570.0], [26.0, 570.0]]",beusedtocompactlyandpreciselydescribethesemanticsofconvolution.,0.9493365287780762
+24,"[[27.0, 586.0], [66.0, 586.0], [66.0, 606.0], [27.0, 606.0]]",Bio:,0.9983945488929749
+25,"[[58.0, 619.0], [619.0, 619.0], [619.0, 633.0], [58.0, 633.0]]",DanielPoveycompletedhisPhDatCambridgeUniversityin2oo3.Hespentabout,0.9319998621940613
+26,"[[27.0, 641.0], [618.0, 641.0], [618.0, 655.0], [27.0, 655.0]]",tenyears workingforindustryresearchlabs(IBMResearchandthenMicrosoft,0.9336868524551392
+27,"[[25.0, 663.0], [619.0, 664.0], [618.0, 681.0], [25.0, 680.0]]","Research),and 7 years as non-tenure-track faculty at Johns Hopkins University.",0.9194427728652954
+28,"[[27.0, 687.0], [619.0, 687.0], [619.0, 701.0], [27.0, 701.0]]",Histhesisworkintroducedseveralpracticalinnovationsfordiscriminative,0.94879549741745
+29,"[[26.0, 709.0], [618.0, 709.0], [618.0, 723.0], [26.0, 723.0]]","training of modelsfor speechrecognition,and madethose technigques widely",0.888134241104126
+30,"[[25.0, 731.0], [620.0, 729.0], [620.0, 747.0], [25.0, 748.0]]","popular.He is currently the leader of the Kaldi project, which is the most",0.9176009893417358
+31,"[[25.0, 754.0], [373.0, 753.0], [373.0, 770.0], [25.0, 771.0]]",popularopen-source toolkitforspeech recognition.,0.9248929023742676

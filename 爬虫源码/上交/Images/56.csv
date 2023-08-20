@@ -1,0 +1,62 @@
+,box,txt,score
+0,"[[501.0, 45.0], [575.0, 45.0], [575.0, 65.0], [501.0, 65.0]]",学术讲座,0.9976125955581665
+1,"[[270.0, 55.0], [429.0, 55.0], [429.0, 70.0], [270.0, 70.0]]",计算机科学与工程系,0.9325875043869019
+2,"[[103.0, 72.0], [247.0, 72.0], [247.0, 87.0], [103.0, 87.0]]",SHANGHAI JIAO TONG UNIVERSITY,0.9401461482048035
+3,"[[521.0, 67.0], [558.0, 67.0], [558.0, 89.0], [521.0, 89.0]]",系列,0.9992748498916626
+4,"[[50.0, 123.0], [615.0, 125.0], [615.0, 150.0], [50.0, 148.0]]",Generalization of Shannon Information,0.8762163519859314
+5,"[[194.0, 172.0], [324.0, 172.0], [324.0, 195.0], [194.0, 195.0]]",Zhang Jun,0.8795969486236572
+6,"[[192.0, 198.0], [446.0, 199.0], [446.0, 218.0], [192.0, 217.0]]",University of Michigan Ann Arbor,0.9366388320922852
+7,"[[194.0, 225.0], [617.0, 225.0], [617.0, 240.0], [194.0, 240.0]]",Department of Psychology and Department of Statistics,0.9340153336524963
+8,"[[195.0, 256.0], [257.0, 256.0], [257.0, 272.0], [195.0, 272.0]]",Abstract:,0.9512608647346497
+9,"[[195.0, 274.0], [621.0, 274.0], [621.0, 288.0], [195.0, 288.0]]",Shannon' s theory for source and channel coding (and the duality,0.9659987688064575
+10,"[[195.0, 290.0], [621.0, 290.0], [621.0, 305.0], [195.0, 305.0]]",between capacity and rate-distortion) has been the hallmark for in-,0.9365485906600952
+11,"[[195.0, 308.0], [621.0, 308.0], [621.0, 322.0], [195.0, 322.0]]","formation science. Shannon information, and its associated expo",0.9232015609741211
+12,"[[195.0, 324.0], [622.0, 324.0], [622.0, 339.0], [195.0, 339.0]]",nential family of probability measures and the Kullback-Leibler di-,0.9514530897140503
+13,"[[196.0, 342.0], [621.0, 342.0], [621.0, 356.0], [196.0, 356.0]]",vergence measuring the difference of any two probability densities,0.922308087348938
+14,"[[195.0, 358.0], [622.0, 358.0], [622.0, 373.0], [195.0, 373.0]]","have found wide applications in statistical inference, machine learn-",0.9334483742713928
+15,"[[195.0, 375.0], [604.0, 375.0], [604.0, 389.0], [195.0, 389.0]]","ing, optimization, etc. Past research in Information Geometry",0.9436715841293335
+16,"[[196.0, 393.0], [621.0, 393.0], [621.0, 404.0], [196.0, 404.0]]",whichisthe differentialqeometric studyofthemanifoldofprobabil,0.9198927283287048
+17,"[[194.0, 409.0], [623.0, 409.0], [623.0, 423.0], [194.0, 423.0]]",ity models --- have nicely tied together the above concepts into a,0.9391361474990845
+18,"[[193.0, 425.0], [623.0, 424.0], [623.0, 439.0], [194.0, 441.0]]","geometric structure called Hessian manifold,which is dually flat with",0.9004522562026978
+19,"[[194.0, 440.0], [621.0, 443.0], [621.0, 458.0], [193.0, 456.0]]","biorthogonal coordinates. In this sense,classic information theory",0.9291762113571167
+20,"[[194.0, 459.0], [623.0, 459.0], [623.0, 473.0], [194.0, 473.0]]","including KL divergence and exponential family, are well understood",0.942013144493103
+21,"[[192.0, 476.0], [437.0, 476.0], [437.0, 490.0], [192.0, 490.0]]",now as Hessian information geometry.,0.9382176995277405
+22,"[[195.0, 493.0], [621.0, 493.0], [621.0, 507.0], [195.0, 507.0]]",Given this elegant geometric picture and deep mathematical under,0.9260425567626953
+23,"[[195.0, 510.0], [623.0, 510.0], [623.0, 524.0], [195.0, 524.0]]","standing, it is natural to ask whether the geometric structure can be",0.9419522285461426
+24,"[[193.0, 527.0], [623.0, 526.0], [623.0, 540.0], [194.0, 541.0]]","generalized (""deformed"",technically) to more broad settings that",0.8841776251792908
+25,"[[195.0, 544.0], [622.0, 544.0], [622.0, 558.0], [195.0, 558.0]]",corresponds to generalize entropies and cross entropies (for in-,0.947622537612915
+26,"[[195.0, 560.0], [623.0, 560.0], [623.0, 574.0], [195.0, 574.0]]","stance, that is Tsallis and Renyij. This question can be now answered",0.9267429709434509
+27,"[[195.0, 576.0], [621.0, 576.0], [621.0, 591.0], [195.0, 591.0]]",positively by a series of work on deformation theory. My talk will ex-,0.9309630393981934
+28,"[[38.0, 587.0], [139.0, 590.0], [139.0, 608.0], [37.0, 606.0]]",Talk Time:,0.926287829875946
+29,"[[194.0, 594.0], [622.0, 594.0], [622.0, 608.0], [194.0, 608.0]]",plain this new development of information geometry tincluding the,0.9211705923080444
+30,"[[192.0, 609.0], [621.0, 610.0], [621.0, 626.0], [192.0, 625.0]]","recently proposed lambda-deformation theory of wong and Zhang,",0.9356073141098022
+31,"[[37.0, 627.0], [133.0, 627.0], [133.0, 647.0], [37.0, 647.0]]",May 31st,0.8964426517486572
+32,"[[195.0, 627.0], [622.0, 627.0], [622.0, 641.0], [195.0, 641.0]]",which unified Tsallis and Renyi deformation as the canonical defor-,0.9355905652046204
+33,"[[39.0, 649.0], [160.0, 650.0], [160.0, 669.0], [38.0, 667.0]]",16:00-17:00,0.8683573007583618
+34,"[[195.0, 644.0], [384.0, 644.0], [384.0, 659.0], [195.0, 659.0]]",mation to Shannon' s theory).,0.9416463375091553
+35,"[[195.0, 677.0], [219.0, 677.0], [219.0, 689.0], [195.0, 689.0]]",Bio:,0.8716846704483032
+36,"[[195.0, 691.0], [622.0, 691.0], [622.0, 706.0], [195.0, 706.0]]",Jun Zhang is with the University of Michigan as a Full Professor of,0.935738205909729
+37,"[[194.0, 708.0], [622.0, 708.0], [622.0, 722.0], [194.0, 722.0]]",Psychology and of Statistics. He has held visiting positions at the,0.9185656309127808
+38,"[[195.0, 723.0], [621.0, 723.0], [621.0, 737.0], [195.0, 737.0]]","University of Melbourne (Australia), CNRs Marseille (France), Uni-",0.9083699584007263
+39,"[[194.0, 739.0], [620.0, 739.0], [620.0, 753.0], [194.0, 753.0]]","versity of waterloo (Canada), RiKEN Brain Science Institute (Japan),",0.9007807970046997
+40,"[[43.0, 752.0], [139.0, 754.0], [139.0, 774.0], [43.0, 771.0]]",Location:,0.9689092636108398
+41,"[[194.0, 755.0], [620.0, 755.0], [620.0, 769.0], [194.0, 769.0]]",Center for Mathematical Sciences and Applications (CMsA) at Har-,0.9313527941703796
+42,"[[194.0, 770.0], [620.0, 770.0], [620.0, 785.0], [194.0, 785.0]]","vard University, and Shanghai Advanced Institute of Finance tChina).",0.9312183260917664
+43,"[[44.0, 793.0], [104.0, 793.0], [104.0, 813.0], [44.0, 813.0]]",SEIEE,0.9852643013000488
+44,"[[194.0, 786.0], [622.0, 786.0], [622.0, 800.0], [194.0, 800.0]]","He has served as the President, Vice President, and Executive Board",0.9107439517974854
+45,"[[195.0, 803.0], [621.0, 803.0], [621.0, 814.0], [195.0, 814.0]]","Member of theSociety for Mathematical Psychology,and as a",0.8994333148002625
+46,"[[44.0, 816.0], [107.0, 816.0], [107.0, 836.0], [44.0, 836.0]]",3-412,0.9989216923713684
+47,"[[194.0, 817.0], [621.0, 817.0], [621.0, 832.0], [194.0, 832.0]]",member of the Council and a Member-at-Large on the Governing,0.9313247799873352
+48,"[[192.0, 833.0], [620.0, 832.0], [620.0, 846.0], [192.0, 847.0]]",Board of the Federation of Associations in Brain and Behavioral Sci-,0.9141184091567993
+49,"[[195.0, 850.0], [621.0, 850.0], [621.0, 861.0], [195.0, 861.0]]",ences(FABBs).HeisaFellowoftheAssociationforPsychological,0.9105928540229797
+50,"[[194.0, 865.0], [621.0, 865.0], [621.0, 879.0], [194.0, 879.0]]",Sciences (APs) and a Fellow of Psychonomic Society. He is the,0.9327545166015625
+51,"[[194.0, 880.0], [622.0, 880.0], [622.0, 894.0], [194.0, 894.0]]","founding co-editor of the journal Information Geometry, has served",0.9381912350654602
+52,"[[191.0, 895.0], [619.0, 895.0], [619.0, 911.0], [191.0, 911.0]]",as an Associate Editor of the Journal of Mathematical Psychology,0.9447946548461914
+53,"[[44.0, 914.0], [103.0, 914.0], [103.0, 934.0], [44.0, 934.0]]",Host:,0.988287091255188
+54,"[[194.0, 912.0], [621.0, 912.0], [621.0, 926.0], [194.0, 926.0]]",and is a member of editorial boards of various journals. He directs,0.94101482629776
+55,"[[192.0, 926.0], [621.0, 927.0], [621.0, 941.0], [192.0, 940.0]]","the M3 Lab""Mind,Machine and Mathematics"")conducting re-",0.9017946124076843
+56,"[[191.0, 942.0], [621.0, 944.0], [621.0, 958.0], [191.0, 957.0]]","search in neuronal and brain signal analysis, computation vision,",0.9455902576446533
+57,"[[44.0, 954.0], [178.0, 958.0], [177.0, 977.0], [44.0, 973.0]]",Lu Bao-Liang,0.9538562297821045
+58,"[[194.0, 959.0], [621.0, 959.0], [621.0, 973.0], [194.0, 973.0]]","cognitive modeling,machine learning,brain-like computation and ar-",0.9304121136665344
+59,"[[195.0, 975.0], [619.0, 975.0], [619.0, 986.0], [195.0, 986.0]]",tificial intelligence.His current research effort is devoted to infor-,0.8920482993125916
+60,"[[194.0, 992.0], [591.0, 992.0], [591.0, 1003.0], [194.0, 1003.0]]",mationgeometryandgeometrizationofscienceofinformation.,0.926792562007904

@@ -1,0 +1,37 @@
+,box,txt,score
+0,"[[188.0, 70.0], [430.0, 70.0], [430.0, 127.0], [188.0, 127.0]]",上海交通大学,0.849820613861084
+1,"[[594.0, 87.0], [917.0, 87.0], [917.0, 118.0], [594.0, 118.0]]",电子信息与电气工程学院,0.9079797267913818
+2,"[[942.0, 96.0], [1102.0, 100.0], [1101.0, 139.0], [941.0, 134.0]]",学术报告,0.9652144908905029
+3,"[[186.0, 129.0], [424.0, 129.0], [424.0, 153.0], [186.0, 153.0]]",SHANGHAI JIAO TONG UNIVERSITY,0.9042218923568726
+4,"[[943.0, 175.0], [993.0, 175.0], [993.0, 214.0], [943.0, 214.0]]",系,0.9931160807609558
+5,"[[1054.0, 175.0], [1103.0, 175.0], [1103.0, 212.0], [1054.0, 212.0]]",列,0.9781700968742371
+6,"[[114.0, 208.0], [836.0, 208.0], [836.0, 245.0], [114.0, 245.0]]",Privacy Risks of Machine Learning Models,0.9483711123466492
+7,"[[358.0, 286.0], [712.0, 290.0], [712.0, 321.0], [358.0, 317.0]]","Presenter: Dr. Yang, Zhang",0.9614465236663818
+8,"[[500.0, 328.0], [821.0, 330.0], [821.0, 362.0], [500.0, 360.0]]","Research Group Leaner,",0.9274358749389648
+9,"[[502.0, 369.0], [1091.0, 371.0], [1091.0, 402.0], [502.0, 400.0]]","The Helmholtz Center for Information Security,",0.9160705208778381
+10,"[[502.0, 408.0], [823.0, 412.0], [823.0, 443.0], [502.0, 439.0]]","Saarbruecken, Germany,",0.9758157730102539
+11,"[[358.0, 448.0], [895.0, 450.0], [895.0, 482.0], [358.0, 480.0]]","Talk Time: Friday, July 19, 2019, 10:00am",0.9426267743110657
+12,"[[362.0, 494.0], [659.0, 494.0], [659.0, 520.0], [362.0, 520.0]]",Location:SEIEE3-412,0.880861759185791
+13,"[[362.0, 535.0], [509.0, 535.0], [509.0, 561.0], [362.0, 561.0]]",Abstract:,0.9597106575965881
+14,"[[413.0, 576.0], [1120.0, 576.0], [1120.0, 601.0], [413.0, 601.0]]",Machinelearninghaswitnessedtremendousprogress,0.9689193964004517
+15,"[[362.0, 614.0], [1122.0, 614.0], [1122.0, 646.0], [362.0, 646.0]]",during the past decade. While keeping on improving our life,0.9506377577781677
+16,"[[61.0, 657.0], [1122.0, 657.0], [1122.0, 683.0], [61.0, 683.0]]","quality,machinelearning models may raise severe concerns towards people's",0.9175432920455933
+17,"[[61.0, 697.0], [1120.0, 697.0], [1120.0, 723.0], [61.0, 723.0]]","privacy.Inthistalk,Iwillcoverourrecentworkonassessingprivacyrisksstemming",0.9560269713401794
+18,"[[57.0, 777.0], [1122.0, 775.0], [1122.0, 806.0], [57.0, 808.0]]",against machine learning models. We show how to relax adversary's assumptions to,0.9279119372367859
+19,"[[59.0, 819.0], [1122.0, 819.0], [1122.0, 845.0], [59.0, 845.0]]","achieve a model and data independent membership inference attack. Then, I will",0.918027937412262
+20,"[[57.0, 858.0], [1124.0, 858.0], [1124.0, 889.0], [57.0, 889.0]]",discuss our work on attacking online learning systems. We propose four effective,0.9266565442085266
+21,"[[59.0, 900.0], [1122.0, 900.0], [1122.0, 926.0], [59.0, 926.0]]","attacks in this surface, ranging from predicting attributes of the dataset used to",0.9237345457077026
+22,"[[59.0, 941.0], [1120.0, 941.0], [1120.0, 967.0], [59.0, 967.0]]",update a machine learning model to reconstructing the updating dataset itself. In the,0.9136185646057129
+23,"[[55.0, 978.0], [1109.0, 981.0], [1109.0, 1013.0], [55.0, 1009.0]]","end, I will discuss our lab's ongoing works in machine learning security and privacy.",0.9185121655464172
+24,"[[57.0, 1033.0], [127.0, 1033.0], [127.0, 1066.0], [57.0, 1066.0]]",Bio:,0.9211030602455139
+25,"[[109.0, 1087.0], [1126.0, 1087.0], [1126.0, 1118.0], [109.0, 1118.0]]",Yang Zhang (https://yangzhangalmo.github.io/) is a research group leader at,0.9386876225471497
+26,"[[55.0, 1123.0], [1122.0, 1125.0], [1122.0, 1157.0], [55.0, 1155.0]]","CISPA Helmholtz Center for Information Security, Saarbruecken, Germany.",0.9340471029281616
+27,"[[57.0, 1164.0], [1124.0, 1166.0], [1124.0, 1197.0], [57.0, 1195.0]]","Previously, he was a postdoc working in the group of Michael Backes at CiSPA from",0.923531711101532
+28,"[[61.0, 1251.0], [1122.0, 1251.0], [1122.0, 1277.0], [61.0, 1277.0]]",LuxembourginNovember2016underthesupervisionof SjoukeMauwandJun,0.9379683136940002
+29,"[[59.0, 1291.0], [1122.0, 1291.0], [1122.0, 1317.0], [59.0, 1317.0]]","Pang.Before that, he received his bachelor (2009)and master (2012)degrees from",0.8883752822875977
+30,"[[61.0, 1332.0], [1122.0, 1332.0], [1122.0, 1358.0], [61.0, 1358.0]]",Shandong University.Yang's research mainly concentrates on data privacy.Topics,0.9022318720817566
+31,"[[57.0, 1371.0], [1120.0, 1371.0], [1120.0, 1402.0], [57.0, 1402.0]]","include machine learning privacy, biomedical privacy, and social network privacy.",0.9577974081039429
+32,"[[57.0, 1408.0], [1122.0, 1411.0], [1122.0, 1443.0], [57.0, 1439.0]]","Besides, he also works on algorithmic fairness, authentication, urban computing,",0.9640710949897766
+33,"[[59.0, 1454.0], [1120.0, 1454.0], [1120.0, 1480.0], [59.0, 1480.0]]","social media analysis, and data mining.Yang has published multiple papers at top",0.92631596326828
+34,"[[59.0, 1494.0], [1122.0, 1494.0], [1122.0, 1520.0], [59.0, 1520.0]]","venues in computerscience includingWWW,CCS,NDSS,and IJCAl.Hisworkhas",0.9056941270828247
+35,"[[59.0, 1535.0], [779.0, 1535.0], [779.0, 1561.0], [59.0, 1561.0]]",recentlyreceivedNDSS2019distinguishedpaperaward.,0.9364118576049805

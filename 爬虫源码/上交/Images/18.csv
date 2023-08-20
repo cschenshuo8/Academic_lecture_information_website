@@ -1,0 +1,39 @@
+,box,txt,score
+0,"[[188.0, 70.0], [430.0, 70.0], [430.0, 129.0], [188.0, 129.0]]",上海交通大学,0.9359102845191956
+1,"[[594.0, 87.0], [917.0, 87.0], [917.0, 118.0], [594.0, 118.0]]",电子信息与电气工程学院,0.9115391373634338
+2,"[[942.0, 96.0], [1102.0, 100.0], [1101.0, 139.0], [941.0, 134.0]]",学术报告,0.9652144908905029
+3,"[[186.0, 129.0], [426.0, 129.0], [426.0, 153.0], [186.0, 153.0]]",SHANGHAI JIAOTONG UNIVERSITY,0.9094249606132507
+4,"[[943.0, 177.0], [996.0, 177.0], [996.0, 214.0], [943.0, 214.0]]",系,0.9946432113647461
+5,"[[1056.0, 179.0], [1102.0, 179.0], [1102.0, 210.0], [1056.0, 210.0]]",列,0.7663523554801941
+6,"[[59.0, 199.0], [884.0, 201.0], [884.0, 244.0], [59.0, 242.0]]",Title: Reinforcement Learning for Intelligent Transportation,0.9682472348213196
+7,"[[402.0, 290.0], [1080.0, 292.0], [1079.0, 323.0], [402.0, 321.0]]","Speaker: Zhenhui (Jessie) Li, Pennsylvania State University",0.9421358108520508
+8,"[[406.0, 334.0], [722.0, 334.0], [722.0, 360.0], [406.0, 360.0]]","Time: 14:00-16:00, Nov.28",0.8872523307800293
+9,"[[406.0, 373.0], [648.0, 373.0], [648.0, 398.0], [406.0, 398.0]]",Venue:SEIEE3-412,0.9254167079925537
+10,"[[406.0, 430.0], [563.0, 430.0], [563.0, 461.0], [406.0, 461.0]]",Abstract:,0.907114565372467
+11,"[[469.0, 493.0], [1111.0, 493.0], [1111.0, 517.0], [469.0, 517.0]]",Large-scalemobilitydata canbecollected frommobile,0.9310387372970581
+12,"[[404.0, 531.0], [1111.0, 533.0], [1111.0, 559.0], [404.0, 557.0]]","phones, car navigation systems, road surveillance cameras,",0.9170140624046326
+13,"[[402.0, 568.0], [1109.0, 572.0], [1109.0, 598.0], [402.0, 594.0]]",and loop sensors. Turning such mobility data into knowledge,0.9359069466590881
+14,"[[70.0, 611.0], [954.0, 611.0], [954.0, 636.0], [70.0, 636.0]]",canprovide insights aboutour city and empowerthe citytobe more intelligent.,0.9055401682853699
+15,"[[135.0, 651.0], [1111.0, 651.0], [1111.0, 675.0], [135.0, 675.0]]",This talk presents how to utilize mobility data and advanced learning methods fortraffic,0.9065722823143005
+16,"[[70.0, 690.0], [1109.0, 690.0], [1109.0, 716.0], [70.0, 716.0]]","signal control. First, we examine the existing traffic signal control system and discuss why",0.93721604347229
+17,"[[68.0, 731.0], [1109.0, 731.0], [1109.0, 756.0], [68.0, 756.0]]","today wehave the opportunityfora potential breakthrough intrafficsignal control.Second,",0.921593964099884
+18,"[[66.0, 769.0], [1113.0, 769.0], [1113.0, 795.0], [66.0, 795.0]]",the talk presents our recent research results in traffic signal control via deep reinforcement,0.9141416549682617
+19,"[[68.0, 810.0], [1111.0, 810.0], [1111.0, 834.0], [68.0, 834.0]]",learning.We demonstratehow the classical transportation methods can be integrated to,0.9065097570419312
+20,"[[68.0, 849.0], [1111.0, 849.0], [1111.0, 874.0], [68.0, 874.0]]","guide our reinforcement learning approach. Finally, we would like to discuss the open",0.9011077880859375
+21,"[[68.0, 889.0], [1113.0, 889.0], [1113.0, 913.0], [68.0, 913.0]]",challenges in this research topic and share the experience in the field experiments of,0.8976653218269348
+22,"[[66.0, 926.0], [615.0, 928.0], [614.0, 954.0], [66.0, 952.0]]",controlling traffic signals in the city of Hangzhou.,0.9191159605979919
+23,"[[66.0, 992.0], [138.0, 992.0], [138.0, 1028.0], [66.0, 1028.0]]",Bio:,0.9931021332740784
+24,"[[133.0, 1046.0], [1111.0, 1046.0], [1111.0, 1072.0], [133.0, 1072.0]]",Dr. Zhenhui (Jessie) Li is a tenured associate professor of Information Sciences and,0.9068735837936401
+25,"[[70.0, 1087.0], [1113.0, 1087.0], [1113.0, 1112.0], [70.0, 1112.0]]",TechnologyatthePennsylvaniaStateUniversity.SheisHailefamily earlycareer endowed,0.911663293838501
+26,"[[68.0, 1125.0], [1111.0, 1125.0], [1111.0, 1151.0], [68.0, 1151.0]]","professor.Prior to joining Penn State, she received her PhD degree in Computer Science",0.914702832698822
+27,"[[68.0, 1166.0], [1111.0, 1166.0], [1111.0, 1190.0], [68.0, 1190.0]]","from Universityof Illinois Urbana-Champaign in2012,where she was a member of data",0.8858014345169067
+28,"[[68.0, 1205.0], [1111.0, 1205.0], [1111.0, 1230.0], [68.0, 1230.0]]",mining research group.Her research has beenfocused onmining spatial-temporal data with,0.8803824782371521
+29,"[[70.0, 1245.0], [1107.0, 1245.0], [1107.0, 1271.0], [70.0, 1271.0]]","applications in transportation,ecology,environment, social science,and urban computing",0.9386264681816101
+30,"[[68.0, 1284.0], [1109.0, 1284.0], [1109.0, 1310.0], [68.0, 1310.0]]",She is a passionate interdisciplinary researcher and has been actively collaborating with,0.9194908738136292
+31,"[[65.0, 1323.0], [1111.0, 1325.0], [1111.0, 1350.0], [65.0, 1349.0]]",cross-domain researchers. She has served as organizing committee or senior program,0.9395369291305542
+32,"[[68.0, 1363.0], [1111.0, 1363.0], [1111.0, 1389.0], [68.0, 1389.0]]","committee of many conferences including KDD, ICDM, SDM, CIKM, and SIGSPATIAL. She",0.9311607480049133
+33,"[[68.0, 1402.0], [1109.0, 1402.0], [1109.0, 1428.0], [68.0, 1428.0]]","has received NSF CAREER award,junior faculty excellence in research, and George J",0.8630814552307129
+34,"[[65.0, 1437.0], [1113.0, 1441.0], [1113.0, 1472.0], [65.0, 1468.0]]",McMurtry junior faculty excellence in teaching and learning award. She is currently taking,0.9372951984405518
+35,"[[68.0, 1483.0], [1111.0, 1483.0], [1111.0, 1507.0], [68.0, 1507.0]]",sabbatical leave (2018-2019) at Hangzhou China to conduct city brain research. She is,0.9091701507568359
+36,"[[68.0, 1522.0], [1111.0, 1522.0], [1111.0, 1548.0], [68.0, 1548.0]]","looking for interns to join her research team in Hangzhou. To learn more, please visit her",0.9324700832366943
+37,"[[63.0, 1559.0], [572.0, 1557.0], [572.0, 1588.0], [63.0, 1590.0]]",homepage: https:/faculty.ist.psu.edu/jessieli,0.9666159749031067

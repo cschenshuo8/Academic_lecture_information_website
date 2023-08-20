@@ -1,0 +1,43 @@
+,box,txt,score
+0,"[[188.0, 70.0], [430.0, 70.0], [430.0, 127.0], [188.0, 127.0]]",上海交通大学,0.849820613861084
+1,"[[594.0, 87.0], [917.0, 87.0], [917.0, 118.0], [594.0, 118.0]]",电子信息与电气工程学院,0.909345805644989
+2,"[[942.0, 96.0], [1102.0, 100.0], [1101.0, 139.0], [941.0, 134.0]]",学术报告,0.9652878046035767
+3,"[[186.0, 129.0], [424.0, 129.0], [424.0, 153.0], [186.0, 153.0]]",SHANGHAI JIAO TONG UNIVERSITY,0.9038023948669434
+4,"[[943.0, 173.0], [995.0, 173.0], [995.0, 214.0], [943.0, 214.0]]",系,0.9934804439544678
+5,"[[1052.0, 175.0], [1103.0, 175.0], [1103.0, 212.0], [1052.0, 212.0]]",列,0.9661367535591125
+6,"[[72.0, 212.0], [895.0, 214.0], [895.0, 251.0], [72.0, 249.0]]",Title:Tensor Decompositions for Big Multi-aspectData,0.9216421842575073
+7,"[[391.0, 293.0], [771.0, 293.0], [771.0, 319.0], [391.0, 319.0]]","Time:10:00-11:00am,Sep25",0.9058136940002441
+8,"[[391.0, 330.0], [638.0, 330.0], [638.0, 356.0], [391.0, 356.0]]",Venue:SEIEE-414,0.9168847799301147
+9,"[[388.0, 363.0], [631.0, 363.0], [631.0, 395.0], [388.0, 395.0]]",Host: Zhang Liqing,0.9076995849609375
+10,"[[388.0, 411.0], [541.0, 415.0], [540.0, 449.0], [387.0, 444.0]]",Abstract:,0.9583556056022644
+11,"[[445.0, 457.0], [1122.0, 459.0], [1122.0, 491.0], [445.0, 489.0]]",Tensors and tensor decompositions have been very,0.9461212158203125
+12,"[[391.0, 498.0], [1120.0, 498.0], [1120.0, 524.0], [391.0, 524.0]]",popularand effective tools foranalyzing multi-aspect data,0.9342383146286011
+13,"[[391.0, 533.0], [1120.0, 533.0], [1120.0, 559.0], [391.0, 559.0]]","in a widevariety of fields,rangingfrom Psychology to",0.8820586800575256
+14,"[[388.0, 563.0], [1124.0, 566.0], [1124.0, 598.0], [387.0, 594.0]]","Chemometrics, and from Signal Processing to Data Mining",0.9525439143180847
+15,"[[57.0, 601.0], [1122.0, 601.0], [1122.0, 633.0], [57.0, 633.0]]",and Machine Learning. Using tensors in the era of big data presents us with a rich,0.9420177340507507
+16,"[[57.0, 638.0], [1122.0, 638.0], [1122.0, 670.0], [57.0, 670.0]]","variety of applications, but also poses great challenges, especially when it comes to",0.9291895031929016
+17,"[[55.0, 671.0], [371.0, 673.0], [371.0, 705.0], [55.0, 703.0]]",scalability and efficiency.,0.9356182813644409
+18,"[[116.0, 710.0], [1122.0, 710.0], [1122.0, 736.0], [116.0, 736.0]]","Inthistalk,we will demonstratetheeffectiveness of tensordecompositions as",0.9280633926391602
+19,"[[61.0, 747.0], [1118.0, 747.0], [1118.0, 773.0], [61.0, 773.0]]","data analytic tools in a variety of exciting, real-world applications, including",0.9387267827987671
+20,"[[61.0, 782.0], [1118.0, 782.0], [1118.0, 808.0], [61.0, 808.0]]","Misinformation on the Web, Social Graph Analytics, Gravitational Waves, ano",0.8977143168449402
+21,"[[57.0, 814.0], [1120.0, 815.0], [1120.0, 847.0], [57.0, 845.0]]","Explainable Al. Finally, the talk will touch upon scalability issues, especially",0.940399169921875
+22,"[[57.0, 854.0], [995.0, 854.0], [995.0, 880.0], [57.0, 880.0]]",pertaining to the case of streaming tensors in the presence of concept drift.,0.9046831727027893
+23,"[[57.0, 900.0], [125.0, 900.0], [125.0, 935.0], [57.0, 935.0]]",Bio:,0.9936798810958862
+24,"[[116.0, 950.0], [1122.0, 950.0], [1122.0, 976.0], [116.0, 976.0]]",Evangelos(Vagelis)Papalexakisis anAssistantProfessorof theCSEDept.at,0.9146617650985718
+25,"[[61.0, 985.0], [1122.0, 985.0], [1122.0, 1011.0], [61.0, 1011.0]]",University of California Riverside. He received his PhD degree at the School of,0.8850698471069336
+26,"[[61.0, 1022.0], [1120.0, 1022.0], [1120.0, 1046.0], [61.0, 1046.0]]","ComputerScience atCarnegieMellonUniversity(CMU).PriortoCMU,heobtained",0.9343078136444092
+27,"[[59.0, 1057.0], [1122.0, 1057.0], [1122.0, 1083.0], [59.0, 1083.0]]",his Diploma and MSc in Electronic & Computer Engineering at the Technical,0.9095296859741211
+28,"[[61.0, 1090.0], [435.0, 1090.0], [435.0, 1116.0], [61.0, 1116.0]]","UniversityofCrete,inGreece",0.9233325719833374
+29,"[[113.0, 1123.0], [1120.0, 1125.0], [1120.0, 1157.0], [113.0, 1155.0]]","Broadly, his research interests span the fields of Data Mining, Machine Learning,",0.9414747953414917
+30,"[[59.0, 1164.0], [1120.0, 1164.0], [1120.0, 1190.0], [59.0, 1190.0]]",and Signal Processing. His research involves designing scalable algorithms for,0.9224804639816284
+31,"[[59.0, 1199.0], [1122.0, 1199.0], [1122.0, 1225.0], [59.0, 1225.0]]","mining large multi-aspect datasets,with specific emphasis on tensor factorization",0.9191071391105652
+32,"[[57.0, 1232.0], [1124.0, 1232.0], [1124.0, 1264.0], [57.0, 1264.0]]","models, and applying those algorithms to a variety of real world multi-aspect data",0.941370964050293
+33,"[[57.0, 1267.0], [1122.0, 1266.0], [1122.0, 1297.0], [57.0, 1299.0]]","problems. His work has appeared in KDD, ICDM, SDM, ECML-PKDD, WWW,",0.9400957226753235
+34,"[[57.0, 1337.0], [1124.0, 1337.0], [1124.0, 1369.0], [57.0, 1369.0]]","He has a best student paper award at PAKDD' 14 and SDM' 16, finalist best papers",0.9191228151321411
+35,"[[59.0, 1376.0], [1120.0, 1376.0], [1120.0, 1402.0], [59.0, 1402.0]]",forSDM'14andASONAM'13andhewasafinalistfortheMicrosoftPhDFellowship,0.9394129514694214
+36,"[[59.0, 1411.0], [1122.0, 1411.0], [1122.0, 1437.0], [59.0, 1437.0]]","and the Facebook PhD Fellowship. Besides his academic experience, he has",0.9174491167068481
+37,"[[59.0, 1448.0], [1120.0, 1448.0], [1120.0, 1474.0], [59.0, 1474.0]]",industrial research experience working at MicrosoftResearchSiliconValleyduring,0.9227473735809326
+38,"[[59.0, 1483.0], [1118.0, 1483.0], [1118.0, 1509.0], [59.0, 1509.0]]",thesummers of 2013 and2014andGoogleResearchduringthesummerof 2015.,0.9188709855079651
+39,"[[59.0, 1518.0], [1122.0, 1518.0], [1122.0, 1544.0], [59.0, 1544.0]]","Hehasbeennamedasoneof the""2016KDDRisingStarts""byMicrosoftAcademic",0.9468154311180115
+40,"[[59.0, 1555.0], [1122.0, 1555.0], [1122.0, 1581.0], [59.0, 1581.0]]","Search, and his doctoral dissertation received the 2017 SiGKDD Doctoral",0.8969376683235168
+41,"[[55.0, 1586.0], [452.0, 1588.0], [452.0, 1620.0], [55.0, 1618.0]]",Dissertation Award (runner up),0.9478811621665955

@@ -1,0 +1,30 @@
+,box,txt,score
+0,"[[203.0, 15.0], [531.0, 14.0], [531.0, 38.0], [203.0, 39.0]]",海外学者讲学计划,0.973914623260498
+1,"[[104.0, 27.0], [215.0, 18.0], [217.0, 47.0], [106.0, 56.0]]",北京大学,0.8937060832977295
+2,"[[107.0, 52.0], [205.0, 52.0], [205.0, 65.0], [107.0, 65.0]]",PEKINGUNIVERSITY,0.9470252394676208
+3,"[[210.0, 44.0], [531.0, 44.0], [531.0, 67.0], [210.0, 67.0]]",信息技术与信息化名家讲坛,0.9675053954124451
+4,"[[208.0, 69.0], [531.0, 71.0], [531.0, 85.0], [208.0, 83.0]]",Distinguished Lecture Series on Information Science and Technology,0.9294862151145935
+5,"[[42.0, 124.0], [523.0, 127.0], [523.0, 150.0], [42.0, 147.0]]",SILICON FOR THE OPTICS-OF-EVERYTHING (O2E),0.9350598454475403
+6,"[[36.0, 186.0], [337.0, 186.0], [337.0, 200.0], [36.0, 200.0]]",时间：2016年11月10日（星期四）14:30,0.9187989830970764
+7,"[[35.0, 213.0], [339.0, 213.0], [339.0, 230.0], [35.0, 230.0]]",地点：北京大学微纳电子学大厦103报告厅,0.9460563659667969
+8,"[[35.0, 241.0], [306.0, 241.0], [306.0, 258.0], [35.0, 258.0]]",主办单位：北京大学信息科学技术学院,0.8935607075691223
+9,"[[34.0, 269.0], [332.0, 270.0], [332.0, 287.0], [34.0, 286.0]]",特邀报告人：姜培（PatrickYinChiang）,0.9471197724342346
+10,"[[34.0, 307.0], [91.0, 307.0], [91.0, 324.0], [34.0, 324.0]]",报告摘要,0.9977767467498779
+11,"[[59.0, 339.0], [530.0, 339.0], [530.0, 352.0], [59.0, 352.0]]","Bigdata,internet-of-things,cloudcomputing,deeplearning,autonomousvehicles...All",0.9385460019111633
+12,"[[35.0, 360.0], [529.0, 360.0], [529.0, 373.0], [35.0, 373.0]]","ofthesecloud-computingapplicationsrequireexponentiallyincreasingbandwidth,resulting",0.9125752449035645
+13,"[[35.0, 381.0], [530.0, 381.0], [530.0, 395.0], [35.0, 395.0]]","intheexplosivegrowth in optical networking.Fortheseoptical l/O,themicrochips and",0.903366208076477
+14,"[[35.0, 403.0], [529.0, 403.0], [529.0, 416.0], [35.0, 416.0]]","silicon photonics inside are critical innovations,as theydirectly affect the cost,size,power,",0.9303144216537476
+15,"[[35.0, 424.0], [529.0, 424.0], [529.0, 437.0], [35.0, 437.0]]","bandwidth,scalability,and manufacturability.Inthistalk,Iwill describethecross-disciplinary",0.9411229491233826
+16,"[[35.0, 445.0], [530.0, 445.0], [530.0, 458.0], [35.0, 458.0]]","IC design inmy IntegratedPhotonicsgroupatFudan University,exploringthefrontiersof",0.9266591668128967
+17,"[[35.0, 466.0], [528.0, 466.0], [528.0, 480.0], [35.0, 480.0]]",datacenterinterconnectusingoptoelectronicsandsiliconphotonics:(1)100Gmicroring-,0.970242440700531
+18,"[[34.0, 485.0], [529.0, 487.0], [529.0, 501.0], [34.0, 499.0]]","WDMSi-photonics(ISSCC-2013,ISSCC-2015):(2)50G-PAM4(OFC-2016,OFC-2017);(3)",0.9354333877563477
+19,"[[35.0, 508.0], [413.0, 508.0], [413.0, 522.0], [35.0, 522.0]]","CMOS-Based25GLaserDrivers/Receivers(JSSC-2015,SSC-2016)",0.9708000421524048
+20,"[[36.0, 536.0], [103.0, 536.0], [103.0, 550.0], [36.0, 550.0]]",报告人简介,0.9947188496589661
+21,"[[63.0, 565.0], [528.0, 565.0], [528.0, 579.0], [63.0, 579.0]]",Patrick Yin Chiang received the B.S.degree in electrical engineering and computer sci-,0.8971898555755615
+22,"[[35.0, 589.0], [528.0, 589.0], [528.0, 602.0], [35.0, 602.0]]","ences from the University of California, Berkeley, and the M.S.and Ph.D. degrees in electri-",0.8882035613059998
+23,"[[35.0, 612.0], [529.0, 612.0], [529.0, 626.0], [35.0, 626.0]]",cal engineering from Stanford University.He is CTO and a co-founder of PhotonlC,0.9221875071525574
+24,"[[36.0, 635.0], [530.0, 635.0], [530.0, 649.0], [36.0, 649.0]]","Technologies,basedinShanghai,China.Heis also a10o0-TalentsYoungProfessorat",0.9381723403930664
+25,"[[35.0, 657.0], [526.0, 657.0], [526.0, 671.0], [35.0, 671.0]]","FudanUniversity,andatenuredprofessor(on-leave)fromOregonStateUniversity,USA",0.9292146563529968
+26,"[[36.0, 681.0], [527.0, 681.0], [527.0, 695.0], [36.0, 695.0]]",Heistherecipientofa2010DepartmentofEnergyEarlyCAREERawardanda2012NSF,0.9305867552757263
+27,"[[35.0, 702.0], [530.0, 703.0], [530.0, 720.0], [35.0, 719.0]]","CAREERaward,forenergy-efficient interconnects and robust near-thresholdcomputing.He",0.9297215342521667
+28,"[[33.0, 727.0], [516.0, 728.0], [516.0, 742.0], [33.0, 741.0]]","haspublishedmorethan130conference/journalpublications,including10isSCCpapers.",0.9161544442176819

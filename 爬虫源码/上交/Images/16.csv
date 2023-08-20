@@ -1,0 +1,38 @@
+,box,txt,score
+0,"[[188.0, 70.0], [430.0, 70.0], [430.0, 127.0], [188.0, 127.0]]",上海交通大学,0.849820613861084
+1,"[[594.0, 87.0], [917.0, 87.0], [917.0, 118.0], [594.0, 118.0]]",电子信息与电气工程学院,0.9102115035057068
+2,"[[942.0, 96.0], [1102.0, 100.0], [1101.0, 139.0], [941.0, 134.0]]",学术报告,0.9652144908905029
+3,"[[186.0, 129.0], [426.0, 129.0], [426.0, 153.0], [186.0, 153.0]]",SHANGHAI JIAOTONG UNIVERSITY,0.9024544954299927
+4,"[[638.0, 122.0], [895.0, 122.0], [895.0, 135.0], [638.0, 135.0]]",of ElectronicInformationandElectricalEnginee,0.9415483474731445
+5,"[[941.0, 172.0], [998.0, 172.0], [998.0, 216.0], [941.0, 216.0]]",系,0.9949411153793335
+6,"[[1052.0, 175.0], [1103.0, 175.0], [1103.0, 212.0], [1052.0, 212.0]]",列,0.9661367535591125
+7,"[[81.0, 190.0], [777.0, 190.0], [777.0, 221.0], [81.0, 221.0]]",Title:Semantic-AwareDetection of,0.9545738697052002
+8,"[[179.0, 240.0], [875.0, 240.0], [875.0, 277.0], [179.0, 277.0]]",Missing-Check Bugs inOS Kernels,0.9235385656356812
+9,"[[428.0, 319.0], [768.0, 319.0], [768.0, 345.0], [428.0, 345.0]]",Time:Nov2110:00-12:00,0.9689964056015015
+10,"[[428.0, 358.0], [703.0, 358.0], [703.0, 384.0], [428.0, 384.0]]",Venue:SEIEE3-404,0.9058507084846497
+11,"[[428.0, 410.0], [579.0, 410.0], [579.0, 441.0], [428.0, 441.0]]",Abstract:,0.9747351408004761
+12,"[[485.0, 458.0], [1116.0, 458.0], [1116.0, 483.0], [485.0, 483.0]]",Operatingsystem(OS)kernelsplayacritical role,0.9379451870918274
+13,"[[423.0, 494.0], [1118.0, 494.0], [1118.0, 526.0], [423.0, 526.0]]","in computer systems, which not only manage",0.9344021081924438
+14,"[[426.0, 535.0], [1116.0, 535.0], [1116.0, 561.0], [426.0, 561.0]]","hardware and system resources,but also provide",0.9459372758865356
+15,"[[426.0, 574.0], [1116.0, 574.0], [1116.0, 600.0], [426.0, 600.0]]",services and protection. To safely perform these,0.9395403265953064
+16,"[[428.0, 612.0], [1116.0, 612.0], [1116.0, 638.0], [428.0, 638.0]]","complicatedand error-pronetasks,Os kernelsrely",0.9209408164024353
+17,"[[63.0, 651.0], [1115.0, 651.0], [1115.0, 677.0], [63.0, 677.0]]","on a large number of security checks to validate system states.Unfortunately,",0.9369906187057495
+18,"[[63.0, 690.0], [1116.0, 690.0], [1116.0, 716.0], [63.0, 716.0]]","security checks are often missing, due to the complexity of Os kernels, which can",0.9120134115219116
+19,"[[61.0, 767.0], [1116.0, 767.0], [1116.0, 793.0], [61.0, 793.0]]","out-of-bound accesses,andsystemcrashes.Inthistalk,Iwill shareourresearch",0.9415594935417175
+20,"[[61.0, 806.0], [1118.0, 806.0], [1118.0, 832.0], [61.0, 832.0]]",on automatically detecting missing-check bugs in a semantic-aware manner.1,0.9109447598457336
+21,"[[61.0, 845.0], [1118.0, 845.0], [1118.0, 871.0], [61.0, 871.0]]",will firsttalkabouthowto automatically identify security checksandthen present a,0.9177318811416626
+22,"[[57.0, 919.0], [1118.0, 921.0], [1118.0, 952.0], [57.0, 950.0]]","security check. Several techniques such as finding indirect-call targets, identifying",0.9398670792579651
+23,"[[57.0, 957.0], [1118.0, 959.0], [1118.0, 991.0], [57.0, 989.0]]","critical variables, and finding semantically-similar code paths are generic and thus",0.9299902319908142
+24,"[[59.0, 1000.0], [1122.0, 1000.0], [1122.0, 1026.0], [59.0, 1026.0]]","canalsobenefitfutureresearchonbugdetectionandsystemhardening.Intheend,",0.9229627251625061
+25,"[[56.0, 1072.0], [491.0, 1077.0], [491.0, 1109.0], [55.0, 1103.0]]",hundreds of missing-check bugs.,0.9444289803504944
+26,"[[55.0, 1121.0], [126.0, 1126.0], [124.0, 1161.0], [53.0, 1156.0]]",Bio:,0.9988161325454712
+27,"[[116.0, 1166.0], [1118.0, 1166.0], [1118.0, 1197.0], [116.0, 1197.0]]",Dr. Kangjie Lu is an assistant professor in the Computer Science &,0.9298251867294312
+28,"[[61.0, 1206.0], [1116.0, 1206.0], [1116.0, 1232.0], [61.0, 1232.0]]",EngineeringDepartment of the Universityof Minnesota-TwinCities.His research,0.917714536190033
+29,"[[57.0, 1242.0], [1116.0, 1243.0], [1116.0, 1275.0], [57.0, 1273.0]]","interests include security and privacy, program analysis, and operating systems",0.9461386799812317
+30,"[[57.0, 1280.0], [1115.0, 1282.0], [1115.0, 1314.0], [57.0, 1312.0]]","He is particularly interested in automatically finding classes of vulnerabilities,",0.9523234367370605
+31,"[[57.0, 1360.0], [1120.0, 1360.0], [1120.0, 1391.0], [57.0, 1391.0]]",hardening systems while preserving their reliability and efficiency. He won the best,0.9232077598571777
+32,"[[59.0, 1398.0], [1120.0, 1398.0], [1120.0, 1430.0], [59.0, 1430.0]]",paper award at ACM CCS 2019. His research results are mainly published at,0.9367132186889648
+33,"[[61.0, 1439.0], [1116.0, 1439.0], [1116.0, 1465.0], [61.0, 1465.0]]","top-tier venues and have led to many important updates in the Linux kernel, the",0.8970910310745239
+34,"[[61.0, 1478.0], [1116.0, 1478.0], [1116.0, 1504.0], [61.0, 1504.0]]","Android OS, the FreeBSD kernel, and Apple' s iOS. He received his Ph.D.in",0.899655818939209
+35,"[[57.0, 1511.0], [829.0, 1515.0], [828.0, 1546.0], [57.0, 1542.0]]",Computer Science from the Georgia Institute of Technology.,0.9106669425964355
+36,"[[114.0, 1551.0], [956.0, 1553.0], [956.0, 1585.0], [114.0, 1583.0]]",More details can be found at https:/www-users.cs.umn.edu/~kilu,0.9467064738273621

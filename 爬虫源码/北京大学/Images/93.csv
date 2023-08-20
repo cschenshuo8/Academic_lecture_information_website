@@ -1,0 +1,29 @@
+,box,txt,score
+0,"[[415.0, 33.0], [1063.0, 30.0], [1064.0, 75.0], [415.0, 78.0]]",海外学者讲学计划,0.9907728433609009
+1,"[[208.0, 49.0], [407.0, 41.0], [409.0, 101.0], [210.0, 109.0]]",北京大学,0.9181366562843323
+2,"[[420.0, 90.0], [1062.0, 90.0], [1062.0, 130.0], [420.0, 130.0]]",信息技术与信息化名家讲坛,0.957682192325592
+3,"[[213.0, 105.0], [408.0, 105.0], [408.0, 128.0], [213.0, 128.0]]",PEKINGUNIVERSITY,0.950420081615448
+4,"[[420.0, 142.0], [1062.0, 142.0], [1062.0, 165.0], [420.0, 165.0]]",Distinguished Lecture Series on Information Science and Technology,0.8954341411590576
+5,"[[222.0, 228.0], [911.0, 228.0], [911.0, 268.0], [222.0, 268.0]]",ExplainingandVerifyingAlSystems,0.8919371366500854
+6,"[[74.0, 400.0], [786.0, 400.0], [786.0, 423.0], [74.0, 423.0]]",报告时间：2018年9月17日（星期一）10:00-11:30,0.9312402606010437
+7,"[[72.0, 443.0], [601.0, 443.0], [601.0, 467.0], [72.0, 467.0]]",报告地点：北京大学理科二号楼2111室,0.9447831511497498
+8,"[[71.0, 483.0], [583.0, 483.0], [583.0, 512.0], [71.0, 512.0]]",主办单位：北京大学信息科学技术学院,0.9462014436721802
+9,"[[69.0, 527.0], [484.0, 528.0], [484.0, 557.0], [69.0, 555.0]]",特邀报告人：AdnanDarwiche,0.9239848256111145
+10,"[[72.0, 613.0], [190.0, 613.0], [190.0, 643.0], [72.0, 643.0]]",报告摘要,0.9961050152778625
+11,"[[118.0, 662.0], [1058.0, 662.0], [1058.0, 685.0], [118.0, 685.0]]",Explaining thedecisionsofAlsystemsandformallyverifyingtheirpropertieshave comeinto,0.9353107213973999
+12,"[[69.0, 693.0], [1058.0, 695.0], [1058.0, 718.0], [69.0, 717.0]]","focus recently.In this talk,Iwill discuss an approachfor compilingBayesian network classifiers into",0.9323039054870605
+13,"[[72.0, 728.0], [1058.0, 728.0], [1058.0, 752.0], [72.0, 752.0]]",symbolic decision graphs thatare guaranteedto reach the same decisions.Iwillthen showhow one,0.9272211194038391
+14,"[[71.0, 795.0], [1058.0, 795.0], [1058.0, 818.0], [71.0, 818.0]]",techniquestothe compileddecisiongraph.Iwill furthersharerecentresultsonanewclassofAl,0.9509487152099609
+15,"[[71.0, 828.0], [1057.0, 828.0], [1057.0, 852.0], [71.0, 852.0]]","systems:TestingArithmeticCircuits(TACs),whichareuniversalapproximatorsandhenceasexpres-",0.96306312084198
+16,"[[71.0, 862.0], [1058.0, 862.0], [1058.0, 885.0], [71.0, 885.0]]",sive asneuralnetworks.TACs canbe synthesizedfrompartiallyparameterizedBayesian network,0.9004941582679749
+17,"[[71.0, 895.0], [1058.0, 895.0], [1058.0, 918.0], [71.0, 918.0]]","models,allowing onetointegratebackgroundknowledgeintoTACs,whilealsoprovidingsomeformal",0.9468945264816284
+18,"[[71.0, 927.0], [887.0, 927.0], [887.0, 950.0], [71.0, 950.0]]",guaranteesontheirbehaviorregardlessofhowtheTACsarelatertrainedfromdata,0.9531586766242981
+19,"[[72.0, 1007.0], [218.0, 1007.0], [218.0, 1037.0], [72.0, 1037.0]]",报告人简介,0.991707444190979
+20,"[[119.0, 1048.0], [1057.0, 1048.0], [1057.0, 1072.0], [119.0, 1072.0]]",AdnanDarwicheisa professorandchairmanofthecomputersciencedepartmentatUcLA.He,0.9352867007255554
+21,"[[72.0, 1082.0], [1055.0, 1082.0], [1055.0, 1105.0], [72.0, 1105.0]]","directstheautomatedreasoninggroupwhichfocusesonprobabilisticandlogical reasoning,andtheir",0.9409849047660828
+22,"[[72.0, 1117.0], [1057.0, 1117.0], [1057.0, 1140.0], [72.0, 1140.0]]",applicationsincludingtomachinelearning(http://reasoning.cs.ucla.edu/).ProfessorDarwicheholdsM.S.,0.9209721684455872
+23,"[[72.0, 1150.0], [1058.0, 1150.0], [1058.0, 1172.0], [72.0, 1172.0]]","(1989)andPh.D.(1993)degreesincomputersciencefromStanfordUniversity.HeisaAAAFellow,a",0.94773930311203
+24,"[[71.0, 1183.0], [1057.0, 1183.0], [1057.0, 1205.0], [71.0, 1205.0]]","formerEditor-in-ChiefoftheJournalofArtificialIntelligenceResearch(JAiR),andauthorof""Modelingand",0.9242680668830872
+25,"[[71.0, 1217.0], [1058.0, 1217.0], [1058.0, 1240.0], [71.0, 1240.0]]","ReasoningwithBayesianNetworks,byCambridgeUniversityPress.Hisgrouprecentlyreleaseda",0.9510563015937805
+26,"[[72.0, 1248.0], [1058.0, 1248.0], [1058.0, 1272.0], [72.0, 1272.0]]","YouTubechannelthatfeatureslectures,tutorialsandtalks:https://www.youtube.com/c/UCLAAutomate-",0.9280056357383728
+27,"[[72.0, 1283.0], [247.0, 1283.0], [247.0, 1305.0], [72.0, 1305.0]]",dReasoningGroup,0.9450566172599792

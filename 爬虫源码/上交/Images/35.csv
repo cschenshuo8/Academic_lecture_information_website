@@ -1,0 +1,41 @@
+,box,txt,score
+0,"[[86.0, 38.0], [219.0, 38.0], [219.0, 71.0], [86.0, 71.0]]",上海交通大学,0.9029276967048645
+1,"[[311.0, 47.0], [490.0, 47.0], [490.0, 65.0], [311.0, 65.0]]",电子信息与电气工程学院,0.9339088201522827
+2,"[[518.0, 51.0], [606.0, 54.0], [605.0, 75.0], [518.0, 73.0]]",学术报告,0.902617871761322
+3,"[[90.0, 71.0], [215.0, 71.0], [215.0, 84.0], [90.0, 84.0]]",HANGHAI JIAO TONG UNIVERSIT,0.9697079062461853
+4,"[[519.0, 95.0], [549.0, 95.0], [549.0, 115.0], [519.0, 115.0]]",系,0.9942173957824707
+5,"[[574.0, 96.0], [606.0, 96.0], [606.0, 115.0], [574.0, 115.0]]",列,0.9919528365135193
+6,"[[38.0, 116.0], [257.0, 116.0], [257.0, 130.0], [38.0, 130.0]]",September 29 (Thursday) 16:00-17:30,0.9570887684822083
+7,"[[35.0, 131.0], [141.0, 135.0], [141.0, 152.0], [34.0, 148.0]]",Tencent Meeting:,0.952968955039978
+8,"[[37.0, 154.0], [123.0, 154.0], [123.0, 168.0], [37.0, 168.0]]",ID:368512959,0.9584824442863464
+9,"[[36.0, 171.0], [143.0, 171.0], [143.0, 185.0], [36.0, 185.0]]",Password:123456,0.9155901670455933
+10,"[[36.0, 207.0], [222.0, 208.0], [222.0, 225.0], [36.0, 224.0]]",Data Science for Deep Learning,0.9074227809906006
+11,"[[38.0, 228.0], [610.0, 228.0], [610.0, 242.0], [38.0, 242.0]]","Speaker: Lei CHEN, chair professor in the Department of Computer Science and Engineering,",0.9088825583457947
+12,"[[37.0, 248.0], [376.0, 248.0], [376.0, 262.0], [37.0, 262.0]]",Hong Kong University of Science and Technology (HKUST),0.9059361815452576
+13,"[[170.0, 285.0], [221.0, 285.0], [221.0, 299.0], [170.0, 299.0]]",Abstract,0.9338029623031616
+14,"[[170.0, 306.0], [610.0, 306.0], [610.0, 320.0], [170.0, 320.0]]","In recent years, deep learning (DL) has significantly penetrated and has",0.9321186542510986
+15,"[[170.0, 328.0], [610.0, 328.0], [610.0, 342.0], [170.0, 342.0]]","been widely adopted in various fields of application, including facial",0.9358436465263367
+16,"[[170.0, 350.0], [610.0, 350.0], [610.0, 364.0], [170.0, 364.0]]","recognition, strategy games (AlphaGo and Texas hold'em) and question",0.9429149627685547
+17,"[[169.0, 370.0], [609.0, 370.0], [609.0, 384.0], [169.0, 384.0]]","answering. However, the effectiveness of the models and efficiency of the",0.9310505390167236
+18,"[[169.0, 392.0], [611.0, 392.0], [611.0, 406.0], [169.0, 406.0]]",training process strongly depend on how well the associated data is,0.8910030722618103
+19,"[[171.0, 414.0], [611.0, 414.0], [611.0, 427.0], [171.0, 427.0]]",managed. It is very challenging to train an effective deep learning-based,0.9296327233314514
+20,"[[170.0, 434.0], [611.0, 434.0], [611.0, 449.0], [170.0, 449.0]]",image classifier without properly labelled training data. Furthermore,0.9210163354873657
+21,"[[38.0, 457.0], [610.0, 457.0], [610.0, 470.0], [38.0, 470.0]]","training efficiency is severely affected by a large amount of training data, complex structures of the",0.9099567532539368
+22,"[[37.0, 478.0], [610.0, 478.0], [610.0, 492.0], [37.0, 492.0]]",models and tones of hyper parameters. A lack of validation for result data and explanation also,0.9406272768974304
+23,"[[37.0, 499.0], [611.0, 499.0], [611.0, 512.0], [37.0, 512.0]]","seriously affect the applicability of trained models. In this talk, I will discuss three important issues",0.9358457326889038
+24,"[[37.0, 520.0], [611.0, 520.0], [611.0, 535.0], [37.0, 535.0]]","related to data science for Al: 1) how to prepare data for effective DL, which includes data",0.9242802262306213
+25,"[[37.0, 542.0], [610.0, 542.0], [610.0, 556.0], [37.0, 556.0]]","extraction and integration as well as data labelling; 2) how to optimize DL training, including data",0.9432300329208374
+26,"[[37.0, 563.0], [610.0, 563.0], [610.0, 577.0], [37.0, 577.0]]",compression and computation graph optimization; and 3) how to conduct explanation to make the,0.9373905658721924
+27,"[[37.0, 585.0], [611.0, 585.0], [611.0, 598.0], [37.0, 598.0]]",model robust and transparent. Some future work will be highlighted at the end. At the end of my,0.9363361597061157
+28,"[[37.0, 606.0], [611.0, 606.0], [611.0, 619.0], [37.0, 619.0]]","talk, I will give a brief introduction of Data Science and Analytic Program in HKUST (GZ) and",0.9242146015167236
+29,"[[37.0, 627.0], [379.0, 627.0], [379.0, 642.0], [37.0, 642.0]]",Postgraduate recruitment information of the DSA program.,0.9262650609016418
+30,"[[36.0, 669.0], [63.0, 669.0], [63.0, 684.0], [36.0, 684.0]]",Bio:,0.9975793957710266
+31,"[[37.0, 691.0], [610.0, 691.0], [610.0, 705.0], [37.0, 705.0]]","Lei Chen has BS degree in computer science and engineering from Tianjin University, Tianjin, China",0.9246612787246704
+32,"[[37.0, 712.0], [611.0, 712.0], [611.0, 726.0], [37.0, 726.0]]","MA degree from Asian Institute of Technology, Bangkok, Thailand, and PhD in computer science",0.9270718693733215
+33,"[[36.0, 733.0], [610.0, 735.0], [610.0, 749.0], [36.0, 747.0]]","from the University of Waterloo, Canada. He is a chair professor in the Department of Computer",0.9379550814628601
+34,"[[37.0, 755.0], [609.0, 755.0], [609.0, 769.0], [37.0, 769.0]]","Science and Engineering, Hong Kong University of Science and Technology (HKUST). Currently, Prof",0.9468207359313965
+35,"[[36.0, 776.0], [611.0, 777.0], [611.0, 791.0], [36.0, 790.0]]","Chen serves as the head of Data Science and Analytic trust at HKUST (GZ), director of Big Data",0.9299564957618713
+36,"[[37.0, 798.0], [610.0, 798.0], [610.0, 812.0], [37.0, 812.0]]","Institute at HKUST, director of HKUST MOE/MSRA Information Technology Key Laboratory. Prof.",0.9355828166007996
+37,"[[37.0, 818.0], [610.0, 819.0], [610.0, 834.0], [37.0, 833.0]]","Chen's research interests include human-powered machine learning, crowdsourcing, Blockchain,",0.9599513411521912
+38,"[[37.0, 842.0], [610.0, 842.0], [610.0, 856.0], [37.0, 856.0]]","graph data analysis, probabilistic and uncertain databases and time series and multimedia",0.9220043420791626
+39,"[[37.0, 862.0], [100.0, 862.0], [100.0, 876.0], [37.0, 876.0]]",databases.,0.9371618032455444

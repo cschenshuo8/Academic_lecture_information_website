@@ -1,0 +1,37 @@
+,box,txt,score
+0,"[[1291.0, 105.0], [3332.0, 94.0], [3332.0, 235.0], [1292.0, 246.0]]",海外学者讲学计划,0.9465538263320923
+1,"[[657.0, 154.0], [1281.0, 129.0], [1289.0, 312.0], [664.0, 337.0]]",北京大学,0.7117651700973511
+2,"[[1318.0, 288.0], [3327.0, 288.0], [3327.0, 408.0], [1318.0, 408.0]]",信息技术与信息化名家讲坛,0.8927368521690369
+3,"[[664.0, 324.0], [1281.0, 324.0], [1281.0, 397.0], [664.0, 397.0]]",PEKING UNIVERSITY,0.9528137445449829
+4,"[[1318.0, 444.0], [3332.0, 444.0], [3332.0, 518.0], [1318.0, 518.0]]",Distinguished Lecture Series on Information Science and Technology,0.9632757306098938
+5,"[[601.0, 711.0], [2942.0, 711.0], [2942.0, 816.0], [601.0, 816.0]]",Computer Assisted Mathematical Proofs:,0.9187784790992737
+6,"[[427.0, 857.0], [3116.0, 868.0], [3116.0, 994.0], [427.0, 983.0]]",Improving Automation Using Machine Learning,0.9222483038902283
+7,"[[221.0, 1161.0], [2504.0, 1161.0], [2504.0, 1250.0], [221.0, 1250.0]]",报告时间：2016年11月17日（星期四）15:30-16:30,0.9466132521629333
+8,"[[227.0, 1307.0], [2061.0, 1307.0], [2061.0, 1380.0], [227.0, 1380.0]]",报告地点：北京大学理科二号楼2736报告厅,0.9732651710510254
+9,"[[221.0, 1433.0], [2114.0, 1433.0], [2114.0, 1522.0], [221.0, 1522.0]]",主办单位：机器感知与智能教育部重点实验室,0.9360639452934265
+10,"[[696.0, 1569.0], [1840.0, 1569.0], [1840.0, 1658.0], [696.0, 1658.0]]",北京大学信息科学技术学院,0.9460556507110596
+11,"[[221.0, 1705.0], [1735.0, 1705.0], [1735.0, 1794.0], [221.0, 1794.0]]",特邀报告人：Prof.Herman Geuvers,0.9341553449630737
+12,"[[227.0, 2013.0], [564.0, 2013.0], [564.0, 2102.0], [227.0, 2102.0]]",报告摘要,0.9977182149887085
+13,"[[374.0, 2139.0], [3316.0, 2139.0], [3316.0, 2212.0], [374.0, 2212.0]]",Mathematical proofs get more and more difficult and complex. At the same time more,0.9420472383499146
+14,"[[227.0, 2243.0], [3311.0, 2243.0], [3311.0, 2317.0], [227.0, 2317.0]]",and more computer systems (software and hardware) can be verified rigidly using mathe-,0.946769118309021
+15,"[[227.0, 2348.0], [3306.0, 2348.0], [3306.0, 2421.0], [227.0, 2421.0]]","matical proof, so there is an increasing request for completely verified mathematical proofs.",0.9420044422149658
+16,"[[222.0, 2437.0], [3322.0, 2442.0], [3321.0, 2531.0], [221.0, 2526.0]]",The field of Computer Assisted Mathematical Proofs fills this gap by allowing users to create,0.9257689714431763
+17,"[[221.0, 2557.0], [3322.0, 2557.0], [3322.0, 2630.0], [221.0, 2630.0]]","complete mathematical proofs, interactively with the computer, where the computer checks",0.9482924938201904
+18,"[[221.0, 2662.0], [1123.0, 2662.0], [1123.0, 2735.0], [221.0, 2735.0]]",each small reasoning step.,0.9156091213226318
+19,"[[374.0, 2782.0], [3316.0, 2782.0], [3316.0, 2855.0], [374.0, 2855.0]]","In the talk, I will illustrate this with two examples where the computer has been used to",0.9321494698524475
+20,"[[227.0, 2892.0], [3311.0, 2892.0], [3311.0, 2965.0], [227.0, 2965.0]]",completely verify a proof: (1) From pure mathematics: The proof of the Kepler conjecture (2),0.8969592452049255
+21,"[[232.0, 2991.0], [3316.0, 2991.0], [3316.0, 3064.0], [232.0, 3064.0]]",From computer science: The proof of the correctness of a C compiler. Then I will discuss,0.926211416721344
+22,"[[227.0, 3096.0], [3322.0, 3096.0], [3322.0, 3169.0], [227.0, 3169.0]]","the present day limitations of Computer Assisted Mathematical Proofs, which basically rest",0.9353184103965759
+23,"[[222.0, 3195.0], [3316.0, 3206.0], [3316.0, 3279.0], [221.0, 3268.0]]",on the limitations of proof automation. It has recently become clear that Machine Learning,0.9461129307746887
+24,"[[232.0, 3305.0], [3306.0, 3305.0], [3306.0, 3378.0], [232.0, 3378.0]]",provides methods that apply very well to speeding up proof automation. Machine Learning,0.9332855939865112
+25,"[[227.0, 3409.0], [3316.0, 3409.0], [3316.0, 3483.0], [227.0, 3483.0]]",does not supersede standard techniques (from Automated Theorem Proving) but provide,0.908507764339447
+26,"[[221.0, 3509.0], [3327.0, 3509.0], [3327.0, 3598.0], [221.0, 3598.0]]",the ideal additional technique. I will show how Machine Learning techniques fit in and what,0.9415349364280701
+27,"[[221.0, 3619.0], [1956.0, 3619.0], [1956.0, 3692.0], [221.0, 3692.0]]",successes have been obtained in proof automation.,0.9212784171104431
+28,"[[227.0, 3781.0], [643.0, 3781.0], [643.0, 3870.0], [227.0, 3870.0]]",报告人简介,0.9098306894302368
+29,"[[374.0, 3906.0], [3322.0, 3906.0], [3322.0, 3979.0], [374.0, 3979.0]]",Herman Geuvers is professor of Theoretical Computer Science in the Institute for,0.9412097930908203
+30,"[[227.0, 4011.0], [3322.0, 4011.0], [3322.0, 4084.0], [227.0, 4084.0]]",Computing and Information Science (ICiS) of Radboud University Nijmegen in the,0.8851392865180969
+31,"[[227.0, 4115.0], [3322.0, 4115.0], [3322.0, 4183.0], [227.0, 4183.0]]",Netherlands. He is also the head of the research institute ICiS. His research interest are:,0.9197911024093628
+32,"[[227.0, 4220.0], [3316.0, 4220.0], [3316.0, 4293.0], [227.0, 4293.0]]","Logic in Computer Science in general. Type theory, lambda calculus, logic, theorem provers",0.9686710834503174
+33,"[[221.0, 4325.0], [3311.0, 4325.0], [3311.0, 4398.0], [221.0, 4398.0]]","(especially interactive ones, with a bias to those based on type theory), formalizing mathe-",0.9332147836685181
+34,"[[221.0, 4429.0], [3311.0, 4429.0], [3311.0, 4502.0], [221.0, 4502.0]]","matics, computer mathematics (combining proving and computing in one integrated com-",0.9207788109779358
+35,"[[211.0, 4518.0], [2694.0, 4523.0], [2694.0, 4612.0], [211.0, 4607.0]]"," puter environment), software verification, automata and formal languages.",0.9568068981170654

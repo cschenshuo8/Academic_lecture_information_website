@@ -1,0 +1,39 @@
+,box,txt,score
+0,"[[1297.0, 105.0], [3331.0, 89.0], [3332.0, 230.0], [1298.0, 246.0]]",海外学者讲学计划,0.9237496852874756
+1,"[[652.0, 153.0], [1292.0, 129.0], [1299.0, 317.0], [659.0, 342.0]]",北京大学,0.9201892614364624
+2,"[[1318.0, 282.0], [3327.0, 282.0], [3327.0, 408.0], [1318.0, 408.0]]",信息技术与信息化名家讲坛,0.9204073548316956
+3,"[[664.0, 330.0], [1270.0, 319.0], [1271.0, 392.0], [665.0, 403.0]]", PEKING UNIVERSITY,0.9426697492599487
+4,"[[1308.0, 434.0], [3337.0, 439.0], [3337.0, 528.0], [1307.0, 523.0]]",Distinguished Lecture Series on Information Science and Technology,0.9253726005554199
+5,"[[332.0, 837.0], [3216.0, 831.0], [3216.0, 957.0], [332.0, 962.0]]",Automated Driving and Connected Vehicles,0.9447730779647827
+6,"[[264.0, 1229.0], [2536.0, 1229.0], [2536.0, 1302.0], [264.0, 1302.0]]",报告时间：2018年11月27日（星期二）10:00－12:00,0.9357560873031616
+7,"[[264.0, 1365.0], [2104.0, 1365.0], [2104.0, 1438.0], [264.0, 1438.0]]",报告地点：北京大学理科二号楼2736会议室,0.9396153688430786
+8,"[[253.0, 1485.0], [1867.0, 1490.0], [1866.0, 1579.0], [253.0, 1574.0]]",主办单位：北京大学信息科学技术学院,0.8909764289855957
+9,"[[243.0, 1610.0], [2310.0, 1627.0], [2309.0, 1731.0], [242.0, 1715.0]]","特邀报告人：Xuemin（Sherman）Shen,PhD,PEng",0.8877326846122742
+10,"[[817.0, 1767.0], [2109.0, 1767.0], [2109.0, 1841.0], [817.0, 1841.0]]","Fellow of RSC, EIC, CAE and IEEE",0.9299331903457642
+11,"[[828.0, 1903.0], [1550.0, 1903.0], [1550.0, 1977.0], [828.0, 1977.0]]",University Professor,0.952679455280304
+12,"[[823.0, 2008.0], [2647.0, 2013.0], [2647.0, 2102.0], [822.0, 2097.0]]",Department of Electrical and Computer Engineering,0.9466724991798401
+13,"[[828.0, 2134.0], [1634.0, 2134.0], [1634.0, 2207.0], [828.0, 2207.0]]",University of Waterloo,0.9522072076797485
+14,"[[269.0, 2322.0], [612.0, 2322.0], [612.0, 2416.0], [269.0, 2416.0]]",报告摘要,0.943787157535553
+15,"[[406.0, 2463.0], [3258.0, 2463.0], [3258.0, 2536.0], [406.0, 2536.0]]","Modern society depends on faster, safer, and environment friendly transportation system.",0.9317380785942078
+16,"[[274.0, 2547.0], [3269.0, 2552.0], [3269.0, 2625.0], [274.0, 2620.0]]","Vehicular communications network in terms of vehicle to vehicle, vehicle to infrastructure, vehicle",0.9279314875602722
+17,"[[274.0, 2646.0], [3258.0, 2646.0], [3258.0, 2714.0], [274.0, 2714.0]]","to pedestrian, vehicle to cloud, and sensor, etc., can provide a potential solution to such transpor",0.9556176662445068
+18,"[[274.0, 2735.0], [3258.0, 2735.0], [3258.0, 2803.0], [274.0, 2803.0]]","tation system. In this talk, we first introduce all connected vehicles. We then present the applica",0.9058356285095215
+19,"[[274.0, 2824.0], [3269.0, 2824.0], [3269.0, 2897.0], [274.0, 2897.0]]","tions, challenges and scientific research issues of vehicular communications network. We also",0.9420084953308105
+20,"[[274.0, 2913.0], [3258.0, 2913.0], [3258.0, 2986.0], [274.0, 2986.0]]",explain the role of vehicular networking in the automated driving era. We conclude the talk by dis-,0.9444137215614319
+21,"[[274.0, 3002.0], [3274.0, 3002.0], [3274.0, 3075.0], [274.0, 3075.0]]",cussing the future Space-Air-Ground (SAG) Integrated vehicular networks for full automated,0.9313645362854004
+22,"[[269.0, 3085.0], [1550.0, 3091.0], [1550.0, 3164.0], [269.0, 3158.0]]",driving and presenting the SAG simulator.,0.9473642706871033
+23,"[[274.0, 3258.0], [691.0, 3258.0], [691.0, 3347.0], [274.0, 3347.0]]",报告人简介,0.9939370155334473
+24,"[[401.0, 3399.0], [3258.0, 3404.0], [3258.0, 3477.0], [401.0, 3472.0]]","Xuemin (Sherman) Shen is a University Professor, and Associate Chair for Graduate Study,",0.9416027069091797
+25,"[[274.0, 3493.0], [3269.0, 3493.0], [3269.0, 3566.0], [274.0, 3566.0]]","Department of Electrical and Computer Engineering,University of Waterloo, Canada. Dr. Shen's",0.9525099396705627
+26,"[[274.0, 3587.0], [3269.0, 3587.0], [3269.0, 3655.0], [274.0, 3655.0]]","research focuses on wireless resource management, wireless network security, smart grid and",0.9597159624099731
+27,"[[274.0, 3676.0], [3258.0, 3676.0], [3258.0, 3744.0], [274.0, 3744.0]]",vehicular adhoc and sensor networks. He is the Editor-in-Chief of IEEE loT J. He serves as the,0.9249269366264343
+28,"[[279.0, 3849.0], [3258.0, 3849.0], [3258.0, 3922.0], [279.0, 3922.0]]","Infocom'14, IEEE VTC'10, the Symposia Chair for IEEE ICC'10, the Technical Program Committee",0.94635409116745
+29,"[[274.0, 3943.0], [3269.0, 3943.0], [3269.0, 4011.0], [274.0, 4011.0]]","Chair for IEEE Globecom'O7, the Chair for IEEE Communications Society Technical Committee on",0.944902777671814
+30,"[[274.0, 4032.0], [3269.0, 4032.0], [3269.0, 4100.0], [274.0, 4100.0]]","Wireless Communications. Dr. Shen is an elected IEEE ComSoc Vice President -Publications, the",0.9275742173194885
+31,"[[274.0, 4121.0], [3269.0, 4121.0], [3269.0, 4194.0], [274.0, 4194.0]]","chair of IEEE ComSoc Distinguish Lecturer selection committee, and a member of IEEE ComSoc",0.9487606287002563
+32,"[[274.0, 4215.0], [3258.0, 4215.0], [3258.0, 4283.0], [274.0, 4283.0]]",Fellow evaluation committee. Dr. Shen received the Excellent Graduate Supervision Award in 2006,0.9213322401046753
+33,"[[269.0, 4304.0], [3258.0, 4304.0], [3258.0, 4372.0], [269.0, 4372.0]]","and the Premier's Research Excellence Award (PREA) in 2003 from the Province of Ontario,",0.9413495659828186
+34,"[[274.0, 4387.0], [3269.0, 4387.0], [3269.0, 4460.0], [274.0, 4460.0]]","Canada. Dr. Shen is a registered Professional Engineer of Ontario, Canada,an IEEE Fellow, an",0.9586609601974487
+35,"[[279.0, 4481.0], [3274.0, 4481.0], [3274.0, 4555.0], [279.0, 4555.0]]","Engineering Institute of Canada Fellow, a Canadian Academy of Engineering Fellow, a Royal",0.9597851037979126
+36,"[[279.0, 4570.0], [3274.0, 4570.0], [3274.0, 4644.0], [279.0, 4644.0]]","Society of Canada Fellow, and a Distinguished Lecturer of IEEE Vehicular Technology Society and",0.9352225065231323
+37,"[[264.0, 4643.0], [1071.0, 4654.0], [1069.0, 4743.0], [263.0, 4732.0]]",Communications Society.,0.9414392709732056

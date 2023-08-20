@@ -1,0 +1,44 @@
+,box,txt,score
+0,"[[188.0, 70.0], [430.0, 70.0], [430.0, 127.0], [188.0, 127.0]]",上海交通大学,0.849820613861084
+1,"[[594.0, 87.0], [917.0, 87.0], [917.0, 118.0], [594.0, 118.0]]",电子信息与电气工程学院,0.9103367328643799
+2,"[[942.0, 96.0], [1102.0, 100.0], [1101.0, 137.0], [941.0, 133.0]]",学术报告,0.9760648608207703
+3,"[[186.0, 129.0], [426.0, 129.0], [426.0, 153.0], [186.0, 153.0]]",SHANGHAI JIAO TONG UNIVERSITY,0.9040915966033936
+4,"[[638.0, 122.0], [895.0, 122.0], [895.0, 135.0], [638.0, 135.0]]",ofElectronicInformationandElectricalEnginee,0.9700771570205688
+5,"[[90.0, 179.0], [550.0, 181.0], [550.0, 212.0], [90.0, 210.0]]",Cybersecurityand Privacy:,0.9173046350479126
+6,"[[943.0, 175.0], [996.0, 175.0], [996.0, 214.0], [943.0, 214.0]]",系,0.9915551543235779
+7,"[[1048.0, 175.0], [1103.0, 175.0], [1103.0, 210.0], [1048.0, 210.0]]",列,0.9397224187850952
+8,"[[90.0, 225.0], [845.0, 225.0], [845.0, 256.0], [90.0, 256.0]]","State-of-Art,Challenges,andOpportunities",0.9561342000961304
+9,"[[319.0, 280.0], [733.0, 280.0], [733.0, 306.0], [319.0, 306.0]]","Presenter: Dr.Rongxing LuProfessor,",0.9517588019371033
+10,"[[437.0, 315.0], [803.0, 315.0], [803.0, 339.0], [437.0, 339.0]]",Facultyof ComputerScience(FCS),0.9497320652008057
+11,"[[434.0, 350.0], [895.0, 354.0], [895.0, 380.0], [434.0, 376.0]]","University of New Brunswick (UNB), Canada",0.920883297920227
+12,"[[321.0, 389.0], [782.0, 389.0], [782.0, 415.0], [321.0, 415.0]]","Talk Time:Monday,May20, 2019, 10:00am,",0.9268700480461121
+13,"[[321.0, 426.0], [568.0, 426.0], [568.0, 450.0], [321.0, 450.0]]","Location:SEIEE,3-308",0.8687740564346313
+14,"[[321.0, 461.0], [463.0, 461.0], [463.0, 493.0], [321.0, 493.0]]",Abstract:,0.9579481482505798
+15,"[[369.0, 502.0], [1111.0, 502.0], [1111.0, 526.0], [369.0, 526.0]]",The pervasiveness of information and communications technologies,0.9288760423660278
+16,"[[319.0, 539.0], [1111.0, 539.0], [1111.0, 563.0], [319.0, 563.0]]",as well as intelligent electronic devices leads to an expanded attack,0.9324688911437988
+17,"[[68.0, 572.0], [1111.0, 576.0], [1111.0, 601.0], [68.0, 598.0]]","surface in smart grids, making it increasingly challenging to withstand the high-profile false data",0.9310641884803772
+18,"[[70.0, 611.0], [1111.0, 611.0], [1111.0, 636.0], [70.0, 636.0]]","injection (FDl) attacks. In this talk, we discuss a proactive approach to mitigate FDl attacks",0.9329251050949097
+19,"[[70.0, 646.0], [1113.0, 646.0], [1113.0, 672.0], [70.0, 672.0]]","(PAMA) in smart grids. With PAMA scheme, the critical information -power grid connections and",0.927557110786438
+20,"[[70.0, 683.0], [1111.0, 683.0], [1111.0, 707.0], [70.0, 707.0]]",configurations as well as the original measurement data - used for constructing FDl attacks is,0.9314385056495667
+21,"[[68.0, 718.0], [1111.0, 719.0], [1111.0, 745.0], [68.0, 743.0]]","well protected from leakage or theft, so that FDl attacks are effectively mitigated. Specifically, we",0.9174253344535828
+22,"[[68.0, 755.0], [1111.0, 755.0], [1111.0, 780.0], [68.0, 780.0]]",transform the state estimation and FDl detection application into a distributed one equipped with,0.8978941440582275
+23,"[[68.0, 791.0], [1111.0, 791.0], [1111.0, 817.0], [68.0, 817.0]]","converted information from the critical information provided by the control center. In addition, the",0.9169848561286926
+24,"[[70.0, 828.0], [1111.0, 828.0], [1111.0, 854.0], [70.0, 854.0]]",original measurement data is also protected by using a secure hybrid Paillier cryptosystem. Our,0.9333383440971375
+25,"[[68.0, 862.0], [1111.0, 863.0], [1111.0, 889.0], [68.0, 887.0]]",PAMA scheme is proved to be secure and effective in mitigating FDI attacks on smart grids. The,0.9198348522186279
+26,"[[68.0, 900.0], [1111.0, 900.0], [1111.0, 926.0], [68.0, 926.0]]",computational complexity and the communication overhead are evaluated on the standard IEEE,0.9165723323822021
+27,"[[69.0, 933.0], [288.0, 937.0], [288.0, 963.0], [68.0, 959.0]]",14-bus test system.,0.9149227142333984
+28,"[[74.0, 983.0], [135.0, 983.0], [135.0, 1015.0], [74.0, 1015.0]]",Bio:,0.9348976016044617
+29,"[[114.0, 1020.0], [1115.0, 1018.0], [1115.0, 1050.0], [114.0, 1052.0]]",Rongxing Lu (S' 99-M' 11-SM' 15) has been an assistant professor at the Faculty of,0.9513117074966431
+30,"[[70.0, 1061.0], [1111.0, 1061.0], [1111.0, 1085.0], [70.0, 1085.0]]","Computer Science (FCS),University of New Brunswick (UNB),Canada,since August2016.",0.8929334282875061
+31,"[[70.0, 1096.0], [1113.0, 1096.0], [1113.0, 1120.0], [70.0, 1120.0]]","Before that, he worked as an assistant professor at the School of Electrical and Electronic",0.9218978881835938
+32,"[[68.0, 1170.0], [1111.0, 1170.0], [1111.0, 1195.0], [68.0, 1195.0]]",2016.Rongxing Lu worked as a Postdoctoral Fellow at the University of Waterloo from May2012,0.906865119934082
+33,"[[68.0, 1205.0], [1113.0, 1205.0], [1113.0, 1230.0], [68.0, 1230.0]]","toApril 2013.Hewasawardedthe mostprestigious“GovernorGeneral'sGoldMedal"",when",0.9316617250442505
+34,"[[70.0, 1278.0], [1111.0, 1278.0], [1111.0, 1302.0], [70.0, 1302.0]]","University of Waterloo, Canada,in 2012;and won the 8th IEEE Communications Society",0.9017655253410339
+35,"[[70.0, 1313.0], [1115.0, 1313.0], [1115.0, 1339.0], [70.0, 1339.0]]","(ComSoc)Asia Pacific (AP)Outstanding Young Researcher Award,in 2013.He is presently a",0.879869282245636
+36,"[[68.0, 1349.0], [1111.0, 1349.0], [1111.0, 1374.0], [68.0, 1374.0]]",senior member of IEEE Communications Society.His research interests include applied,0.9152750372886658
+37,"[[66.0, 1387.0], [1113.0, 1385.0], [1113.0, 1411.0], [66.0, 1413.0]]","cryptography, privacy enhancing technologies, and loT-Big Data security and privacy.He has",0.9222659468650818
+38,"[[68.0, 1422.0], [1111.0, 1420.0], [1111.0, 1446.0], [68.0, 1448.0]]","published extensively in his areas of expertise (with citation 14,900+ and H-index 60 from Google",0.9121065139770508
+39,"[[68.0, 1457.0], [1111.0, 1459.0], [1111.0, 1485.0], [68.0, 1483.0]]","Scholar as of March 2o19), and was the recipient of 9 best (student) paper awards from some",0.9324978590011597
+40,"[[70.0, 1496.0], [1113.0, 1496.0], [1113.0, 1520.0], [70.0, 1520.0]]","reputable journals and conferences.Currently,Dr.Lu currently serves as the Vice-Chair",0.9196881651878357
+41,"[[72.0, 1531.0], [1115.0, 1531.0], [1115.0, 1557.0], [72.0, 1557.0]]",(Publication) of IEEE ComSoc CIS-TC (Communications and Information Security Technical,0.9207107424736023
+42,"[[70.0, 1568.0], [1019.0, 1568.0], [1019.0, 1594.0], [70.0, 1594.0]]","Committee). Dr. Lu is the Winner of 2016-17 Excellence in Teaching Award, FCS, UNB.",0.9199870228767395

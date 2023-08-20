@@ -1,0 +1,36 @@
+,box,txt,score
+0,"[[79.0, 56.0], [162.0, 56.0], [162.0, 73.0], [79.0, 73.0]]",上海艾通大学,0.8620474934577942
+1,"[[430.0, 56.0], [490.0, 56.0], [490.0, 73.0], [430.0, 73.0]]",学术报告,0.9717256426811218
+2,"[[433.0, 74.0], [487.0, 72.0], [487.0, 90.0], [433.0, 92.0]]",系列,0.9985555410385132
+3,"[[49.0, 132.0], [495.0, 132.0], [495.0, 146.0], [49.0, 146.0]]",Title:OnComputationalShortcutsforInformation-theoreticPiR,0.9318855404853821
+4,"[[218.0, 219.0], [289.0, 219.0], [289.0, 245.0], [218.0, 245.0]]",洪文浩,0.996565043926239
+5,"[[216.0, 254.0], [410.0, 255.0], [410.0, 272.0], [216.0, 271.0]]",Speaker: Matthew M.Hong,0.922491729259491
+6,"[[217.0, 275.0], [370.0, 275.0], [370.0, 292.0], [217.0, 292.0]]",Venue:SEIEE3-414,0.9412919282913208
+7,"[[216.0, 294.0], [432.0, 295.0], [432.0, 312.0], [216.0, 311.0]]","Time:3pm,November4,2020",0.9477148652076721
+8,"[[52.0, 316.0], [131.0, 316.0], [131.0, 333.0], [52.0, 333.0]]",Abstract:,0.9872314929962158
+9,"[[88.0, 335.0], [523.0, 335.0], [523.0, 349.0], [88.0, 349.0]]",Informationtheoretic private information retrieval (PiR) schemes have at-,0.9121201634407043
+10,"[[50.0, 352.0], [525.0, 352.0], [525.0, 365.0], [50.0, 365.0]]","tractive concrete efficiency features. However, in the standard PiR model, the",0.9284350275993347
+11,"[[50.0, 367.0], [525.0, 367.0], [525.0, 381.0], [50.0, 381.0]]",computational complexity of the servers must scale linearly with the database,0.9371334910392761
+12,"[[52.0, 384.0], [77.0, 384.0], [77.0, 394.0], [52.0, 394.0]]",size,0.9938758015632629
+13,"[[79.0, 397.0], [524.0, 397.0], [524.0, 410.0], [79.0, 410.0]]",We study the possibility of bypassing this limitation in the case where the da-,0.9013584852218628
+14,"[[51.0, 413.0], [524.0, 413.0], [524.0, 426.0], [51.0, 426.0]]","tabase is a truth table of a ""simple"" function, such as a union of (multi-dimen-",0.9079307317733765
+15,"[[52.0, 428.0], [522.0, 428.0], [522.0, 441.0], [52.0, 441.0]]","sional) intervals or convex shapes, a decision tree, or a DNF formula. This ques-",0.9135768413543701
+16,"[[50.0, 443.0], [524.0, 444.0], [524.0, 458.0], [50.0, 457.0]]",tion is motivated by the goal of obtaining lightweight homomorphic secret sharing,0.936920166015625
+17,"[[52.0, 460.0], [523.0, 460.0], [523.0, 472.0], [52.0, 472.0]]",(HSS)schemesandsecuremultipartycomputation (MPC)protocolsforthecor-,0.9185963273048401
+18,"[[51.0, 474.0], [523.0, 474.0], [523.0, 487.0], [51.0, 487.0]]","responding families.We obtain both positive and negative results. For""first-gen-",0.9091415405273438
+19,"[[51.0, 490.0], [525.0, 490.0], [525.0, 503.0], [51.0, 503.0]]","eration""PiR schemes based on Reed-Muller codes, we obtain computational",0.9136669635772705
+20,"[[51.0, 505.0], [524.0, 505.0], [524.0, 518.0], [51.0, 518.0]]","shortcuts for the above function families, with the exception of DNF formulas for",0.9357752799987793
+21,"[[50.0, 520.0], [525.0, 519.0], [525.0, 532.0], [50.0, 533.0]]","which we show a (conditional) hardness result.For """"third-generation""PiR",0.9152836203575134
+22,"[[51.0, 536.0], [525.0, 536.0], [525.0, 549.0], [51.0, 549.0]]","schemes based on matching vectors, we obtain stronger hardness results that",0.9085281491279602
+23,"[[51.0, 551.0], [243.0, 550.0], [243.0, 564.0], [51.0, 565.0]]",apply to all of the above families,0.9230343699455261
+24,"[[77.0, 564.0], [526.0, 563.0], [526.0, 580.0], [77.0, 581.0]]",Our positive results yield new informationtheoretic HSS schemes and MPC,0.9421854019165039
+25,"[[52.0, 582.0], [524.0, 582.0], [524.0, 596.0], [52.0, 596.0]]",protocols with attractive efficiency features for simple but useful function families.,0.9411072134971619
+26,"[[50.0, 596.0], [525.0, 597.0], [525.0, 610.0], [50.0, 609.0]]",Our negative results establish new connections between information-theoretic,0.9141321778297424
+27,"[[50.0, 612.0], [525.0, 611.0], [525.0, 625.0], [50.0, 626.0]]","cryptography and fine-grained complexity.This is joint work with Yuval Ishai,",0.9266055226325989
+28,"[[51.0, 628.0], [497.0, 628.0], [497.0, 642.0], [51.0, 642.0]]",Victor I. Kolobov and Russell W. F. Lai. Work done in part visiting Technion.,0.9222583770751953
+29,"[[51.0, 654.0], [81.0, 654.0], [81.0, 670.0], [51.0, 670.0]]",Bio,0.9828140139579773
+30,"[[83.0, 674.0], [522.0, 674.0], [522.0, 687.0], [83.0, 687.0]]",MatthewM.Hong(洪文浩)is a researchassistantatShanghaiQiZhiInsti-,0.9171143174171448
+31,"[[51.0, 689.0], [523.0, 689.0], [523.0, 702.0], [51.0, 702.0]]",tute working under the supervision of Professor Yu Yu (SJTU). He obtained his,0.932318925857544
+32,"[[52.0, 704.0], [525.0, 704.0], [525.0, 717.0], [52.0, 717.0]]",B.Eng. in Computer Science (Yao Class) from Tsinghua University in 2020. His,0.9107847809791565
+33,"[[51.0, 720.0], [521.0, 720.0], [521.0, 734.0], [51.0, 734.0]]",research interests include cryptography and theoretical computer science in gen-,0.9219252467155457
+34,"[[52.0, 736.0], [78.0, 736.0], [78.0, 747.0], [52.0, 747.0]]",eral.,0.8010546565055847

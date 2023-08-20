@@ -1,0 +1,42 @@
+,box,txt,score
+0,"[[149.0, 5.0], [353.0, 0.0], [355.0, 50.0], [151.0, 59.0]]",上海交通大学,0.9697412848472595
+1,"[[490.0, 16.0], [755.0, 16.0], [755.0, 40.0], [490.0, 40.0]]",电子信息与电气工程学院,0.9775312542915344
+2,"[[775.0, 24.0], [903.0, 24.0], [903.0, 54.0], [775.0, 54.0]]",学术报告,0.9768635034561157
+3,"[[490.0, 40.0], [740.0, 40.0], [740.0, 58.0], [490.0, 58.0]]",SchoolofElectronic Information andElectrical Engineer,0.8960707783699036
+4,"[[149.0, 50.0], [350.0, 50.0], [350.0, 68.0], [149.0, 68.0]]",SHANGHAI JIAO TONG UNIVERSITY,0.9140122532844543
+5,"[[773.0, 85.0], [855.0, 85.0], [855.0, 120.0], [773.0, 120.0]]",系,0.9950142502784729
+6,"[[861.0, 88.0], [906.0, 88.0], [906.0, 116.0], [861.0, 116.0]]",列,0.5447173714637756
+7,"[[60.0, 105.0], [683.0, 106.0], [683.0, 134.0], [59.0, 133.0]]",Title:Causal DiscoveryandPredictionin,0.953645646572113
+8,"[[151.0, 149.0], [677.0, 149.0], [677.0, 173.0], [151.0, 173.0]]",thePresenceofDistributionShifts,0.9444921612739563
+9,"[[48.0, 214.0], [628.0, 212.0], [628.0, 240.0], [48.0, 242.0]]","Speaker: Biwei Huang, Carnegie Mellon University (CMU)",0.9539670348167419
+10,"[[50.0, 242.0], [436.0, 242.0], [436.0, 266.0], [50.0, 266.0]]","Time:10:00-11:00am,July15,2019",0.8989575505256653
+11,"[[48.0, 267.0], [426.0, 269.0], [426.0, 293.0], [48.0, 291.0]]","Venue:Room412,SEIEEbuilding#3",0.9280478954315186
+12,"[[46.0, 293.0], [732.0, 291.0], [732.0, 320.0], [46.0, 321.0]]","Host: Shikui Tu, Dept. of Computer Science and Engineering, SJTU",0.9434807300567627
+13,"[[331.0, 373.0], [430.0, 373.0], [430.0, 397.0], [331.0, 397.0]]",Abstract:,0.9236176013946533
+14,"[[329.0, 399.0], [927.0, 400.0], [927.0, 424.0], [329.0, 423.0]]",Manytasks in empirical sciences or engineering relyonthe,0.8758543729782104
+15,"[[331.0, 427.0], [927.0, 429.0], [927.0, 453.0], [331.0, 451.0]]",underlying causal information. As it is often difficult to carry,0.9529080986976624
+16,"[[331.0, 454.0], [927.0, 453.0], [927.0, 477.0], [331.0, 478.0]]","out randomized experiments, inferring causal relations from",0.9582087993621826
+17,"[[333.0, 482.0], [927.0, 482.0], [927.0, 502.0], [333.0, 502.0]]","purelyobservational data,known as thetask of causal",0.9177159070968628
+18,"[[333.0, 509.0], [931.0, 509.0], [931.0, 529.0], [333.0, 529.0]]","discovery,hasdrawnmuchattention.Overthelastfewyears",0.9207270741462708
+19,"[[332.0, 533.0], [928.0, 533.0], [928.0, 557.0], [332.0, 557.0]]","with the rapid accumulation of huge volumes of data, causal",0.9227368235588074
+20,"[[332.0, 560.0], [931.0, 560.0], [931.0, 584.0], [332.0, 584.0]]",discovery is facing exciting opportunities but also great,0.9475050568580627
+21,"[[332.0, 588.0], [928.0, 588.0], [928.0, 608.0], [332.0, 608.0]]",challenges.Onefeaturesuchdataoftenexhibitisdistribution,0.9348992109298706
+22,"[[332.0, 614.0], [927.0, 614.0], [927.0, 634.0], [332.0, 634.0]]","shift.In thistalk,Iwillpresenta principled framework for",0.9201864004135132
+23,"[[332.0, 641.0], [928.0, 641.0], [928.0, 661.0], [332.0, 661.0]]","causaldiscoveryfromsuchdata,calledConstraint-based",0.9342578053474426
+24,"[[48.0, 663.0], [930.0, 665.0], [930.0, 689.0], [48.0, 687.0]]",causal Discovery fromheterogeneous/NOnstationary Data (CD-NOD).Iwillthen show,0.9258984923362732
+25,"[[50.0, 692.0], [930.0, 692.0], [930.0, 716.0], [50.0, 716.0]]","how to efficiently estimate the “driving force"" of changing causal mechanisms after",0.8755701780319214
+26,"[[47.0, 717.0], [340.0, 719.0], [340.0, 743.0], [47.0, 741.0]]",learning the causal structure.,0.9038777947425842
+27,"[[48.0, 768.0], [930.0, 770.0], [930.0, 794.0], [48.0, 792.0]]","On the other hand, due to the ubiquity of distribution shift, transfer learning has been an",0.9419270753860474
+28,"[[48.0, 798.0], [927.0, 798.0], [927.0, 822.0], [48.0, 822.0]]","important research topic. In the second part of the talk, I will present an approach to time-",0.9204248189926147
+29,"[[48.0, 825.0], [930.0, 823.0], [930.0, 847.0], [48.0, 849.0]]","varying causal modeling and prediction, where the causal coefficients follow dynamic",0.9300212860107422
+30,"[[47.0, 849.0], [927.0, 850.0], [927.0, 874.0], [47.0, 873.0]]","models. Given the causal model, we treat prediction as a problem in Bayesian inference,",0.9582460522651672
+31,"[[48.0, 877.0], [930.0, 877.0], [930.0, 901.0], [48.0, 901.0]]",which exploits thetime-varying property of the data and adapts to new observations ina,0.9023368954658508
+32,"[[50.0, 904.0], [928.0, 904.0], [928.0, 928.0], [50.0, 928.0]]","principled manner.Essentially, causal knowledge describes the changeability of the",0.9362123012542725
+33,"[[49.0, 928.0], [477.0, 931.0], [477.0, 955.0], [48.0, 952.0]]",distribution and facilitates transfer learning.,0.9171693921089172
+34,"[[50.0, 1007.0], [147.0, 1007.0], [147.0, 1031.0], [50.0, 1031.0]]",Speaker:,0.9623157978057861
+35,"[[48.0, 1035.0], [928.0, 1035.0], [928.0, 1060.0], [48.0, 1060.0]]",Biwei Huang（黄碧薇)is a Ph.D.candidate in the philosophydepartment at Carnegie,0.911689043045044
+36,"[[48.0, 1065.0], [930.0, 1065.0], [930.0, 1089.0], [48.0, 1089.0]]","MellonUniversity(CMU),supervisedbyProf.KunZhangandProf.ClarkGlymour.Before",0.9159944653511047
+37,"[[47.0, 1091.0], [928.0, 1092.0], [928.0, 1116.0], [47.0, 1115.0]]","joining CMU, she studied at the University of Tubingen and Max-Planck Institute for",0.9396495819091797
+38,"[[51.0, 1122.0], [926.0, 1122.0], [926.0, 1142.0], [51.0, 1142.0]]",IntelligentSystemsinGermany.Hermainresearchinterestsincludecausaldiscovery,0.9304445385932922
+39,"[[50.0, 1146.0], [928.0, 1146.0], [928.0, 1170.0], [50.0, 1170.0]]","machine learning,and computational neuroscience.She is actively exploring theoretical",0.8946950435638428
+40,"[[50.0, 1201.0], [646.0, 1201.0], [646.0, 1221.0], [50.0, 1221.0]]","andpracticalusesofcausalityinneuroscience,biology,etc.",0.9356646537780762

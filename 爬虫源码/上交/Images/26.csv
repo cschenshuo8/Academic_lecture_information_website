@@ -1,0 +1,34 @@
+,box,txt,score
+0,"[[85.0, 55.0], [168.0, 58.0], [167.0, 79.0], [85.0, 76.0]]",上海艾通大学,0.7673831582069397
+1,"[[231.0, 63.0], [350.0, 63.0], [350.0, 76.0], [231.0, 76.0]]",电子信息与电气工程学院,0.9059575796127319
+2,"[[434.0, 60.0], [495.0, 60.0], [495.0, 78.0], [434.0, 78.0]]",学术报告,0.9951566457748413
+3,"[[439.0, 79.0], [491.0, 76.0], [491.0, 93.0], [440.0, 96.0]]",系 列,0.7703590989112854
+4,"[[55.0, 127.0], [413.0, 127.0], [413.0, 141.0], [55.0, 141.0]]",Title:EfficientZeroKnowledgeProofProtocolsand,0.9613819718360901
+5,"[[94.0, 147.0], [527.0, 147.0], [527.0, 161.0], [94.0, 161.0]]",TheirApplicationsto DecisionTreePredictionsandAccuracy,0.9504871368408203
+6,"[[223.0, 226.0], [294.0, 226.0], [294.0, 251.0], [223.0, 251.0]]",张嘉恒,0.8597714900970459
+7,"[[223.0, 262.0], [397.0, 263.0], [397.0, 281.0], [223.0, 280.0]]",Speaker:JiahengZhang,0.9710351824760437
+8,"[[224.0, 285.0], [374.0, 285.0], [374.0, 299.0], [224.0, 299.0]]",Venue:SEIEE3-414,0.9204481840133667
+9,"[[224.0, 304.0], [438.0, 304.0], [438.0, 321.0], [224.0, 321.0]]","Time:2pm,November4,2020",0.97942054271698
+10,"[[57.0, 334.0], [137.0, 334.0], [137.0, 351.0], [57.0, 351.0]]",Abstract:,0.995676577091217
+11,"[[108.0, 355.0], [531.0, 355.0], [531.0, 369.0], [108.0, 369.0]]",We present two efficient zero knowledge proofs protocols with optimal,0.9403517246246338
+12,"[[57.0, 372.0], [528.0, 372.0], [528.0, 386.0], [57.0, 386.0]]","prover computation, Libra and Virgo. Libra has linear prover time, logarithmic ver-",0.9310521483421326
+13,"[[57.0, 389.0], [531.0, 389.0], [531.0, 403.0], [57.0, 403.0]]",ification time and proof size. It needs a universal trusted setup. Virgo removes the,0.9233399629592896
+14,"[[55.0, 405.0], [530.0, 406.0], [530.0, 420.0], [55.0, 419.0]]",trusted setup of Libra and remains roughly the same complexity by a new trans-,0.9394606351852417
+15,"[[57.0, 423.0], [532.0, 423.0], [532.0, 435.0], [57.0, 435.0]]",parentzero knowledge verifiable polynomial delegation scheme withlogarithmic,0.9239007830619812
+16,"[[57.0, 438.0], [529.0, 438.0], [529.0, 452.0], [57.0, 452.0]]","proof size and verification time. In addition, we initiate the study of zero knowl-",0.9011691808700562
+17,"[[58.0, 456.0], [531.0, 456.0], [531.0, 469.0], [58.0, 469.0]]",edge machine learning and propose protocols for zero knowledge decision tree,0.9072185158729553
+18,"[[57.0, 472.0], [529.0, 472.0], [529.0, 485.0], [57.0, 485.0]]",predictions and accuracy tests(ZKDT). The protocols allow the owner of a deci-,0.9302197098731995
+19,"[[57.0, 489.0], [532.0, 489.0], [532.0, 502.0], [57.0, 502.0]]",sion tree model to convince others that the model computes a prediction on a data,0.9148804545402527
+20,"[[57.0, 505.0], [530.0, 505.0], [530.0, 519.0], [57.0, 519.0]]","sample, or achieves a certain accuracy on a public dataset, without leaking any",0.9397624731063843
+21,"[[56.0, 522.0], [258.0, 522.0], [258.0, 535.0], [56.0, 535.0]]",information aboutthe model itself.,0.9127469062805176
+22,"[[110.0, 556.0], [532.0, 556.0], [532.0, 570.0], [110.0, 570.0]]",Bio: Jiaheng is a third-year Ph.D. student in Computer Science at UC,0.9589790105819702
+23,"[[57.0, 571.0], [530.0, 571.0], [530.0, 585.0], [57.0, 585.0]]","Berkeley, where he is very fortunate to be advised by Prof. Dawn Song. He also",0.9190567135810852
+24,"[[57.0, 589.0], [531.0, 589.0], [531.0, 602.0], [57.0, 602.0]]","works closely with Prof. Yupeng Zhang. And he is a member of RiSE Lab, Initia-",0.893839418888092
+25,"[[57.0, 605.0], [529.0, 605.0], [529.0, 619.0], [57.0, 619.0]]","tive for Cryptocurrencies&Contracts Lab(IC3) and Berkeley Al Research(BAIR),",0.9416935443878174
+26,"[[57.0, 622.0], [527.0, 622.0], [527.0, 635.0], [57.0, 635.0]]","His research interests lie in computer security and cryptography, especially ze-",0.9242433309555054
+27,"[[57.0, 639.0], [530.0, 639.0], [530.0, 652.0], [57.0, 652.0]]",ro-knowledge proofs and their applications on blockchains and machine learning,0.9361348152160645
+28,"[[57.0, 656.0], [531.0, 656.0], [531.0, 669.0], [57.0, 669.0]]","models. Prior to coming to Berkeley, he received his Bachelor's degree in ACM",0.9439710974693298
+29,"[[57.0, 672.0], [529.0, 672.0], [529.0, 686.0], [57.0, 686.0]]","Honors Class of Shanghai Jiao Tong University, where he worked under the su-",0.9371644854545593
+30,"[[57.0, 689.0], [532.0, 689.0], [532.0, 703.0], [57.0, 703.0]]","pervision of Prof. Xiaotie Deng. During his undergraduate, he was also a research",0.9255231022834778
+31,"[[56.0, 706.0], [320.0, 706.0], [320.0, 719.0], [56.0, 719.0]]","intern at Cornell, advised by Prof. Elaine Shi.",0.9266351461410522
+32,"[[94.0, 739.0], [319.0, 739.0], [319.0, 753.0], [94.0, 753.0]]",Homepage: https://zjhzjh123.github.io/,0.9598352313041687

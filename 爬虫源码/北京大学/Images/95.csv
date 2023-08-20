@@ -1,0 +1,35 @@
+,box,txt,score
+0,"[[524.0, 42.0], [1326.0, 37.0], [1327.0, 96.0], [525.0, 100.0]]",海外学者讲学计划,0.9237602949142456
+1,"[[254.0, 66.0], [510.0, 53.0], [514.0, 134.0], [259.0, 147.0]]",北京大学,0.9508381485939026
+2,"[[531.0, 116.0], [1322.0, 120.0], [1322.0, 170.0], [531.0, 166.0]]",信息技术与信息化名家讲坛,0.9401834011077881
+3,"[[260.0, 144.0], [504.0, 144.0], [504.0, 172.0], [260.0, 172.0]]",PEKINGUNIVERSITY,0.9601753950119019
+4,"[[529.0, 183.0], [1338.0, 185.0], [1338.0, 216.0], [529.0, 214.0]]",Distinguished Lecture Series on Information Science and Technology,0.944916307926178
+5,"[[489.0, 281.0], [938.0, 286.0], [937.0, 338.0], [489.0, 334.0]]",Silicon Photonics,0.9560376405715942
+6,"[[84.0, 386.0], [882.0, 382.0], [882.0, 419.0], [85.0, 423.0]]",报告时间：2017年10月27日（星期五）14:00-17:00,0.9032124876976013
+7,"[[91.0, 445.0], [651.0, 445.0], [651.0, 476.0], [91.0, 476.0]]",报告地点：北京大学理科二号楼2736,0.967423677444458
+8,"[[87.0, 495.0], [678.0, 497.0], [678.0, 534.0], [87.0, 532.0]]",主办单位：北京大学信息科学技术学院,0.9519922733306885
+9,"[[269.0, 556.0], [1029.0, 556.0], [1029.0, 587.0], [269.0, 587.0]]",区域光纤通信网与新型光通信系统国家重点实验室,0.9538681507110596
+10,"[[91.0, 613.0], [609.0, 613.0], [609.0, 643.0], [91.0, 643.0]]",特邀报告人：Prof.John E.Bowers,0.9385273456573486
+11,"[[89.0, 672.0], [1031.0, 672.0], [1031.0, 709.0], [89.0, 709.0]]",（美国工程院院士，IEEE、OSAand APS Fellow，UCSB 教授）,0.9303692579269409
+12,"[[93.0, 742.0], [240.0, 742.0], [240.0, 781.0], [93.0, 781.0]]",报告摘要,0.9993706941604614
+13,"[[156.0, 803.0], [1335.0, 803.0], [1335.0, 833.0], [156.0, 833.0]]",Photonic Integrated Circuits (PlCs) are currently fueling high bandwidth density interconnection,0.9408700466156006
+14,"[[93.0, 849.0], [1329.0, 849.0], [1329.0, 879.0], [93.0, 879.0]]","links, and are primed to serve other growth markets such as LIDAR and chip-scale wearable sensors.",0.9175142645835876
+15,"[[93.0, 892.0], [1335.0, 892.0], [1335.0, 923.0], [93.0, 923.0]]","Various material platforms for photonic integration exist, each with their own unique advantages and",0.9518739581108093
+16,"[[93.0, 936.0], [1333.0, 936.0], [1333.0, 966.0], [93.0, 966.0]]",shortcomings. Four different approaches are differentiated among these based on potential to deliver,0.9642879962921143
+17,"[[93.0, 979.0], [1331.0, 979.0], [1331.0, 1010.0], [93.0, 1010.0]]",high performance with a monolithically integrated solution combining both active and passive func-,0.9402949213981628
+18,"[[91.0, 1023.0], [1333.0, 1023.0], [1333.0, 1051.0], [91.0, 1051.0]]","tionalities, and the ability to scale at low cost with the expected growth of the overall photonic inte-",0.9274197816848755
+19,"[[91.0, 1067.0], [1333.0, 1067.0], [1333.0, 1097.0], [91.0, 1097.0]]","grated circuit market: 1) pure Ill-V (lnP), 2) silicon on insulator (SOl), 3) heterogeneous integration of",0.932415246963501
+20,"[[93.0, 1106.0], [742.0, 1108.0], [742.0, 1139.0], [93.0, 1136.0]]",III-V on SOl and 4) epitaxial growth of III-V on silicon.,0.9240134358406067
+21,"[[147.0, 1158.0], [1333.0, 1163.0], [1333.0, 1193.0], [147.0, 1189.0]]","His talk will present the evolution of these four different platforms for photonic integration, along",0.9379338026046753
+22,"[[93.0, 1206.0], [842.0, 1206.0], [842.0, 1235.0], [93.0, 1235.0]]",with some prominent commercial examples where applicable.,0.9647200703620911
+23,"[[93.0, 1307.0], [273.0, 1307.0], [273.0, 1346.0], [93.0, 1346.0]]",报告人简介,0.9855582118034363
+24,"[[153.0, 1372.0], [1331.0, 1372.0], [1331.0, 1403.0], [153.0, 1403.0]]",John E. Bowers holds the Fred Kavli Chair in Nanotechnology and is the Director of the Institute for,0.9250630736351013
+25,"[[93.0, 1418.0], [1331.0, 1418.0], [1331.0, 1448.0], [93.0, 1448.0]]",Energy Efficiency and a Professor in the Department of Electrical and Computer Engineering. Dr. Bowers,0.9594152569770813
+26,"[[93.0, 1505.0], [611.0, 1505.0], [611.0, 1533.0], [93.0, 1533.0]]",Honeywell before joining UC Santa Barbara.,0.963355541229248
+27,"[[158.0, 1547.0], [1331.0, 1547.0], [1331.0, 1577.0], [158.0, 1577.0]]","Dr. Bowers is a member of the National Academy of Engineering, a fellow of the IEEE, OSA and the",0.9258531928062439
+28,"[[96.0, 1632.0], [1331.0, 1632.0], [1331.0, 1662.0], [96.0, 1662.0]]",Award and the South Coast Business and Technology Entrepreneur of the Year Award. He and coworkers,0.9422752857208252
+29,"[[93.0, 1677.0], [1335.0, 1677.0], [1335.0, 1708.0], [93.0, 1708.0]]",received the ACE Award for Most Promising Technology for the hybrid silicon laser in 2007. Dr. Bowers,0.9455574750900269
+30,"[[93.0, 1765.0], [844.0, 1765.0], [844.0, 1795.0], [93.0, 1795.0]]",Institute for Manufacturing Integrated Photonics (AlM Photonics).,0.9430751800537109
+31,"[[96.0, 1852.0], [1331.0, 1852.0], [1331.0, 1882.0], [96.0, 1882.0]]","coherent optical systems. He has published ten book chapters, 600 journal papers, 900 conference",0.9477638602256775
+32,"[[93.0, 1939.0], [533.0, 1939.0], [533.0, 1970.0], [93.0, 1970.0]]",given 16 plenary talks at conferences.,0.9261003732681274
+33,"[[156.0, 2018.0], [1133.0, 2020.0], [1133.0, 2057.0], [155.0, 2055.0]]",邀请人：王兴军教授　办公室：北京大学理科二号楼 2937邮箱：xjwang@pkul.edu.cn ,0.9123543500900269

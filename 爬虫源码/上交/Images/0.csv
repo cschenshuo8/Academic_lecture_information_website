@@ -1,0 +1,47 @@
+,box,txt,score
+0,"[[188.0, 70.0], [430.0, 70.0], [430.0, 127.0], [188.0, 127.0]]",上海交通大学,0.849820613861084
+1,"[[596.0, 87.0], [919.0, 87.0], [919.0, 118.0], [596.0, 118.0]]",电子信息与电气工程学院,0.9276520013809204
+2,"[[944.0, 97.0], [1100.0, 102.0], [1099.0, 135.0], [943.0, 131.0]]",学术报告,0.9865273833274841
+3,"[[185.0, 129.0], [426.0, 129.0], [426.0, 153.0], [185.0, 153.0]]",SHANGHAI JIAO TONG UNIVERSITY,0.9653858542442322
+4,"[[646.0, 122.0], [895.0, 122.0], [895.0, 135.0], [646.0, 135.0]]",fElectronicInformationandElectricalEnginee,0.9416911602020264
+5,"[[945.0, 179.0], [995.0, 179.0], [995.0, 212.0], [945.0, 212.0]]",系,0.9938912391662598
+6,"[[1054.0, 175.0], [1103.0, 175.0], [1103.0, 212.0], [1054.0, 212.0]]",列,0.9781700968742371
+7,"[[55.0, 186.0], [912.0, 186.0], [912.0, 218.0], [55.0, 218.0]]",Automatedforensicanalysis ofmobileapplicationsonAndroiddevices,0.9667916893959045
+8,"[[354.0, 238.0], [642.0, 238.0], [642.0, 262.0], [354.0, 262.0]]",Presenter:Dr.Xiaodong Lin,0.9114910364151001
+9,"[[354.0, 271.0], [568.0, 273.0], [568.0, 299.0], [354.0, 297.0]]","Associate Professor,",0.9563300013542175
+10,"[[354.0, 308.0], [655.0, 308.0], [655.0, 332.0], [354.0, 332.0]]","School of Computer Science,",0.9218617677688599
+11,"[[354.0, 343.0], [834.0, 343.0], [834.0, 369.0], [354.0, 369.0]]","College of Engineering and Physical Sciences,",0.8958674073219299
+12,"[[354.0, 378.0], [659.0, 378.0], [659.0, 402.0], [354.0, 402.0]]","University of Guelph,Canada",0.9377923011779785
+13,"[[356.0, 413.0], [784.0, 413.0], [784.0, 439.0], [356.0, 439.0]]","Talk Time:Monday, May 20, 2019, 14:00,",0.9252147674560547
+14,"[[352.0, 448.0], [603.0, 448.0], [603.0, 472.0], [352.0, 472.0]]","Location:SEIEE,3-308",0.9002202153205872
+15,"[[353.0, 490.0], [500.0, 495.0], [499.0, 528.0], [352.0, 524.0]]",Abstract:,0.9024339318275452
+16,"[[402.0, 541.0], [1109.0, 541.0], [1109.0, 565.0], [402.0, 565.0]]",It is not uncommon that mobilephones are involved in criminal,0.889129102230072
+17,"[[70.0, 577.0], [1109.0, 577.0], [1109.0, 601.0], [70.0, 601.0]]","activities, e.g.,the surreptitious collection of credit card information. Forensic analysis of mobile",0.9028275609016418
+18,"[[70.0, 612.0], [1109.0, 612.0], [1109.0, 638.0], [70.0, 638.0]]","applications plays a crucial part in order to gather evidences against criminals. However,",0.9387889504432678
+19,"[[68.0, 648.0], [1111.0, 648.0], [1111.0, 673.0], [68.0, 673.0]]","traditional forensic approaches,which are based onmanual investigation, are not scalabletothe",0.9132116436958313
+20,"[[68.0, 683.0], [1109.0, 683.0], [1109.0, 707.0], [68.0, 707.0]]","large number of mobile applications. On the other hand, dynamic analysis is hard to automate",0.9293720126152039
+21,"[[70.0, 718.0], [1109.0, 718.0], [1109.0, 743.0], [70.0, 743.0]]",due to the burden of setting up the proper runtime environment to accommodate Os differences,0.9174404740333557
+22,"[[70.0, 753.0], [1107.0, 753.0], [1107.0, 777.0], [70.0, 777.0]]","and dependent libraries and activate all feasible program paths. In this talk, we introduce a fully",0.9100667238235474
+23,"[[68.0, 788.0], [1109.0, 788.0], [1109.0, 812.0], [68.0, 812.0]]","automated tool, Fordroid for the forensic analysis of mobile applications on Android. Fordroid",0.9407503008842468
+24,"[[68.0, 821.0], [1109.0, 821.0], [1109.0, 847.0], [68.0, 847.0]]",conducts inter-component static analysis on Android APKs and builds control flow and data,0.9164884686470032
+25,"[[70.0, 858.0], [1109.0, 858.0], [1109.0, 884.0], [70.0, 884.0]]","dependency graphs. Furthermore, Fordroid identifies what and where information written in local",0.9148886203765869
+26,"[[70.0, 893.0], [1107.0, 893.0], [1107.0, 919.0], [70.0, 919.0]]",storage with taint analysis. Data is located by traversing the graphs. This addresses several,0.9108975529670715
+27,"[[66.0, 922.0], [1107.0, 926.0], [1107.0, 957.0], [66.0, 954.0]]","technique challenges, which include inter-component string propagation, string operations (e.g.,",0.9552285075187683
+28,"[[70.0, 963.0], [1109.0, 963.0], [1109.0, 989.0], [70.0, 989.0]]","append) and APl invocations. Also, Fordroid identifies how the information is stored by parsing",0.9236385822296143
+29,"[[70.0, 998.0], [1109.0, 998.0], [1109.0, 1022.0], [70.0, 1022.0]]","SQLcommands,i.e.,the structure of databasetables.Finally,we selected 1oo random Android",0.8916024565696716
+30,"[[66.0, 1033.0], [1109.0, 1031.0], [1109.0, 1057.0], [66.0, 1059.0]]",applications consisting of 2841 components from four categories for evaluation. Analysis of all,0.9437580108642578
+31,"[[70.0, 1068.0], [1109.0, 1068.0], [1109.0, 1092.0], [70.0, 1092.0]]",apps took 64h.Fordroiddiscovered469paths in36 applications that wrote sensitive information,0.935705840587616
+32,"[[68.0, 1103.0], [1111.0, 1103.0], [1111.0, 1127.0], [68.0, 1127.0]]","(e.g.,GPS)tolocal storage.Furthermore,Fordroidsuccessfullylocatedwherethe information",0.9480127692222595
+33,"[[68.0, 1138.0], [1000.0, 1138.0], [1000.0, 1162.0], [68.0, 1162.0]]",was writtenfor458 (98%)paths andidentifiedthe structure of all (22)database tables.,0.918365478515625
+34,"[[66.0, 1174.0], [135.0, 1180.0], [133.0, 1213.0], [64.0, 1208.0]]",Bio:,0.9979530572891235
+35,"[[118.0, 1232.0], [1111.0, 1232.0], [1111.0, 1258.0], [118.0, 1258.0]]",Xiaodong Lin received the PhD degree in Information Engineering from Beijing University of,0.9182850122451782
+36,"[[70.0, 1267.0], [1111.0, 1267.0], [1111.0, 1291.0], [70.0, 1291.0]]","Posts and Telecommunications, China, and the PhD degree (with Outstanding Achievement in",0.9026907086372375
+37,"[[70.0, 1302.0], [1115.0, 1302.0], [1115.0, 1326.0], [70.0, 1326.0]]","GraduateStudiesAward)inElectrical andComputerEngineeringfromtheUniversityofWaterloo,",0.9431109428405762
+38,"[[70.0, 1337.0], [1111.0, 1337.0], [1111.0, 1361.0], [70.0, 1361.0]]",Canada.He is currently a tenuredAssociate Professorat the School of Computer Science at the,0.9088593125343323
+39,"[[70.0, 1373.0], [1111.0, 1373.0], [1111.0, 1397.0], [70.0, 1397.0]]","University of Guelph, Canada. His research interests include wireless communications and",0.9363084435462952
+40,"[[68.0, 1408.0], [1109.0, 1408.0], [1109.0, 1433.0], [68.0, 1433.0]]","networksecurity,computerforensics,softwaresecurity,andappliedcryptography.Dr.Linserves",0.9478883743286133
+41,"[[66.0, 1441.0], [1111.0, 1443.0], [1111.0, 1468.0], [66.0, 1467.0]]",as an Associate Editor for many international journals. He has served or is serving as a guest,0.9592971205711365
+42,"[[70.0, 1478.0], [1107.0, 1478.0], [1107.0, 1502.0], [70.0, 1502.0]]","editorformanyspecial issuesofIEEE,ElsevierandSpringerjournalsandasasymposiumchair",0.9385058283805847
+43,"[[70.0, 1513.0], [1109.0, 1513.0], [1109.0, 1539.0], [70.0, 1539.0]]",ortrack chairforIEEE/ACMconferences.Healsoservedonmanyprogramcommittees.Hewas,0.9375520348548889
+44,"[[68.0, 1544.0], [1111.0, 1546.0], [1111.0, 1572.0], [68.0, 1570.0]]",Chair of Communications and Information Security Technical Committee (CISTC) IEEE,0.927206814289093
+45,"[[70.0, 1581.0], [786.0, 1581.0], [786.0, 1607.0], [70.0, 1607.0]]",Communications Society (2016-2017).He is a Fellow of the IEEE.,0.9229931235313416

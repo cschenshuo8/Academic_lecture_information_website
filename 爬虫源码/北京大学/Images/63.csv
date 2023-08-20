@@ -1,0 +1,27 @@
+,box,txt,score
+0,"[[17.0, 17.0], [518.0, 17.0], [518.0, 36.0], [17.0, 36.0]]",北京大学信息科学技术学院学术报告,0.9409302473068237
+1,"[[16.0, 46.0], [523.0, 46.0], [523.0, 60.0], [16.0, 60.0]]","Invited Ialk,School of Electronics Engineering and Computer Science,PKu",0.9043338298797607
+2,"[[17.0, 97.0], [523.0, 97.0], [523.0, 116.0], [17.0, 116.0]]",TACKLINGTHECHALLENGEOFDEVELOPING,0.9240998029708862
+3,"[[76.0, 128.0], [460.0, 127.0], [460.0, 150.0], [76.0, 151.0]]",ANEWINTERNETARCHITECTURE,0.9243819117546082
+4,"[[110.0, 193.0], [306.0, 200.0], [305.0, 228.0], [108.0, 221.0]]",Prof.Lixia Zhang,0.9450311660766602
+5,"[[72.0, 233.0], [343.0, 232.0], [343.0, 248.0], [72.0, 250.0]]","ComputerScienceDepartment,UCLA",0.9424641132354736
+6,"[[66.0, 258.0], [350.0, 259.0], [350.0, 279.0], [66.0, 278.0]]",2015年4月23日星期四10:00am,0.8461824655532837
+7,"[[98.0, 286.0], [317.0, 287.0], [316.0, 307.0], [98.0, 306.0]]",理科二号楼2736多功能厅,0.9378092288970947
+8,"[[80.0, 315.0], [336.0, 315.0], [336.0, 331.0], [80.0, 331.0]]",主办单位：高能效计算与应用中心,0.9618909955024719
+9,"[[166.0, 339.0], [336.0, 339.0], [336.0, 356.0], [166.0, 356.0]]",网络与信息系统研究所,0.9341880679130554
+10,"[[12.0, 394.0], [529.0, 396.0], [529.0, 413.0], [12.0, 411.0]]",ABSTRACT:The Named Data Networking(NDN) project will be,0.9150853157043457
+11,"[[11.0, 417.0], [530.0, 417.0], [530.0, 437.0], [11.0, 437.0]]",celebrating its 5th anniversary this fall. During this short exciting period the,0.9194652438163757
+12,"[[10.0, 462.0], [532.0, 462.0], [532.0, 481.0], [10.0, 481.0]]","wide range of different applications.Designing,implementing,and",0.922662079334259
+13,"[[12.0, 484.0], [531.0, 484.0], [531.0, 501.0], [12.0, 501.0]]",demonstrating these applications yielded lessons about the advantages and,0.9005489349365234
+14,"[[13.0, 505.0], [528.0, 505.0], [528.0, 522.0], [13.0, 522.0]]",challenges of the NDN architecture. In this talk I will share with you a few,0.885781466960907
+15,"[[9.0, 527.0], [530.0, 526.0], [530.0, 545.0], [9.0, 546.0]]","observations and lessons learned, as well as new insights into the potential",0.9258651733398438
+16,"[[10.0, 574.0], [43.0, 574.0], [43.0, 589.0], [10.0, 589.0]]",area.,0.9224194288253784
+17,"[[10.0, 611.0], [530.0, 612.0], [530.0, 632.0], [10.0, 631.0]]",BIOGRAPHY:Lixia Zhang is a professor at the Computer Science,0.9190555214881897
+18,"[[11.0, 636.0], [528.0, 636.0], [528.0, 653.0], [11.0, 653.0]]","Department of UCLA. She received her Ph.D in computer science from MIT,",0.9292548894882202
+19,"[[12.0, 659.0], [528.0, 659.0], [528.0, 673.0], [12.0, 673.0]]",worked atXeroxPARCasamemberof theresearchstaff and joined UCLAin,0.9237978458404541
+20,"[[13.0, 681.0], [530.0, 681.0], [530.0, 695.0], [13.0, 695.0]]","1995.Inthepastsheserved asthevicechairof ACMSIGCOMM,memberof",0.9282720685005188
+21,"[[10.0, 699.0], [528.0, 701.0], [528.0, 721.0], [10.0, 719.0]]","the Internet Architecture Board, and co-chair of the Routing Research Group",0.9364422559738159
+22,"[[11.0, 724.0], [529.0, 724.0], [529.0, 741.0], [11.0, 741.0]]","under IRTFShe is a fellow of ACM and IEEE, the recipient of 2009 IEEE",0.9022555947303772
+23,"[[11.0, 746.0], [525.0, 746.0], [525.0, 760.0], [11.0, 760.0]]","Internet Award,and theholder of UCLA Postel Chairin Computer Science",0.9087154865264893
+24,"[[9.0, 765.0], [530.0, 767.0], [530.0, 787.0], [9.0, 785.0]]",She has been leading the Named Data Networking (NDN) project,0.9327504634857178
+25,"[[11.0, 790.0], [175.0, 790.0], [175.0, 807.0], [11.0, 807.0]]",developmentsince2010,0.9891104698181152
