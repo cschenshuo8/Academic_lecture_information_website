@@ -1,0 +1,98 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<link rel="icon" href="{% static 'ico/001.ico' %}">
+        <title>如切如磋，如琢如磨</title>
+		<style>
+			body {
+				background: url({% static 'img/1的背景图.jpg' %}) no-repeat center center fixed;
+				background-size: cover;
+				/* 让背景图基于容器大小伸缩 */
+				background-attachment: fixed;
+				/* 当内容高度大于图片高度时，背景图像的位置相对于viewport固定 此条属性必须设置否则可能无效*/
+				background-color: #CCCCCC;
+				-webkit-background-size: cover;
+                -o-background-size: cover;
+				/* 设置背景颜色，背景图加载过程中会显示背景色 */
+
+			}
+
+			div.dialog-bz {
+				width: 550px;
+				height: 170px;
+				margin: auto;
+				margin-top: 400px;
+				margin-left: 1100px;
+				background-color: white;
+				padding: 50px 50px 30px;
+				box-shadow: 10px 10px 15px black;
+				text-align: center;
+
+			}
+
+			.music {
+				float: right;
+				padding-bottom: 600px;
+			}
+
+			.dialog-bz-btn {
+				text-decoration: none;
+				font-size: larger;
+				color: #1f4e5f;
+			}
+
+			h2 {
+				font-family: Courier New;
+			}
+
+			#start {
+				width: 40px;
+				height: 40px;
+			}
+
+			a:hover {
+				background-color: #f4f7f7;
+				padding: 10px;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="dialog-bz">
+			<h2>Life is short and art is long.</h2>
+			<h2>琢磨·学术网站</h2>
+			<a href="/MyDevice/" class="dialog-bz-btn"><b>立即探索</b></a>
+		</div>
+
+		<audio id="audio1" autoplay="autoplay" src="{% static 'music/Taylor Swift - Love Story.mp3' %}" preload>
+			对不起，您的浏览器不支持HTML5音频API
+		</audio>
+
+		<div class="music">
+			<button id="play" onclick="toggleMusic()"><img id="start" src="{% static 'img/play.png' %}"/></button>
+		</div>
+
+
+		<script>
+			var music = document.getElementById("audio1");
+			var toggleBtn = document.getElementById("play");
+
+			function toggleMusic() {
+				if (music.paused) {
+					music.play(); //如果音乐未播放则播放音乐
+					document.getElementById("start").src = "{% static 'img/pause.png' %}";
+
+				} else {
+					music.pause(); //暂停音乐
+					document.getElementById("start").src = "{% static 'img/play.png' %}";
+				}
+			}
+
+
+		</script>
+
+	</body>
+<script src="{% static 'js/text1.js' %}"></script>
+</html>
+
